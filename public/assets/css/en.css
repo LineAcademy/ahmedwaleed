@@ -1,0 +1,29 @@
+@media only screen and (min-width: 1600px) and (max-width: 1919px){
+    .rbt-banner-1 .content .inner .title {
+    font-size: 45px;
+}
+}
+
+.popup-mobile-menu .mainmenu .has-menu-child-item>a::after,
+.popup-mobile-menu .mainmenu .has-dropdown>a::after {
+    position: absolute;
+    content: "\e9b1";
+    font-family: "feather" !important;
+    right: 0;
+    left: 95%;
+    top: 50%;
+    transform: translateY(-50%);
+    transition: 0.4s;
+}
+
+.rbt-btn{
+    padding: 0 15px;
+}
+
+.rbt-card-body {
+    text-align: center;
+}
+
+.rbt-splash-service{
+    text-align: left;
+}
