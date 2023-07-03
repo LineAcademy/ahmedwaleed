@@ -133,7 +133,9 @@
 		return queryContent(`courses/${slug}`).findOne();
 	});
 
-	console.log(useRoute().params.slug);
+	if (!data.value) {
+  throw createError({ statusCode: 404, statusMessage: 'Page Not Found' })
+}
 
 	const toc = computed(() => {
 		if (!blog.value) return [];
