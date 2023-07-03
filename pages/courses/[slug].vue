@@ -133,10 +133,6 @@
 		return queryContent(`courses/${slug}`).findOne();
 	});
 
-	if (!data.value) {
-  throw createError({ statusCode: 404, statusMessage: 'Page Not Found' })
-}
-
 	const toc = computed(() => {
 		if (!blog.value) return [];
 		const items = blog.value.excerpt?.children;
