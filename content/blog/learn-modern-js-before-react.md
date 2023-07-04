@@ -19,7 +19,7 @@ description: ماذا اتعلم في جافاسكريبت قبل مكتبة ر�
 
 ## 1- تكون عارف الفرق ما بين var, let, const :
 
-<div class="col-12">
+`<div class="col-12">
 							<div class="rbt-cat-box rbt-cat-box-1 variation-3 text-center">
                                       <div class="inner">
                                           <div style="width: 100%; max-width: 550px; box-shadow: 6px 6px 10px hsl(206.5, 0%, 75%);">
@@ -32,9 +32,9 @@ srcdoc="<style>
 padding: 0;
 margin: 0;
 overflow: hidden;
-}
+}`
 
-body, html {
+`body, html {
 height: 100%;
 }
 img, svg {
@@ -47,9 +47,9 @@ margin: auto;
 svg {
 filter: drop-shadow(1px 1px 10px hsl(206.5, 70.7%, 8%));
 transition: all 250ms ease-in-out;
-}
+}`
 
-body:hover svg {
+`body:hover svg {
 filter: drop-shadow(1px 1px 10px hsl(206.5, 0%, 10%));
 transform: scale(1.2);
 }
@@ -63,14 +63,14 @@ src="https://www.youtube.com/embed/dww6Pzvf24I"
 title='ت﻿علم var , let , const باحترافية مع احمد وليد افضل مبرمج مواقع في مصر'
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
+allowfullscreen>`
 
-</iframe
+`</iframe
   </div>
 </div>  
                                       </div>
                                   </div>
-						</div>
+						</div>`
 
 <iframe 
 style="width: 100%; height: 450px; border: 0;"
