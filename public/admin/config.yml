@@ -30,7 +30,7 @@ collections:
           name: 'category',
           widget: 'select',
           default: 'mens-clothing',
-          options: [{ label: 'Mens-clothing', value: 'men's clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
+          options: [{ label: 'Mens-clothing', value: 'mens-clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
         }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
@@ -120,7 +120,7 @@ collections:
           name: 'category',
           widget: 'select',
           default: 'mens-clothing',
-          options: [{ label: 'Mens-clothing', value: 'men's clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
+          options: [{ label: 'Mens-clothing', value: 'mens-clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
         }
       - { label: 'Created Date', name: 'createdAt', widget: 'datetime', format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
@@ -157,7 +157,7 @@ collections:
           name: 'category',
           widget: 'select',
           default: 'mens-clothing',
-          options: [{ label: 'Mens-clothing', value: 'men's clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
+          options: [{ label: 'Mens-clothing', value: 'mens-clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
         }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
@@ -247,7 +247,7 @@ collections:
           name: 'category',
           widget: 'select',
           default: 'mens-clothing',
-          options: [{ label: 'Mens-clothing', value: 'men's clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
+          options: [{ label: 'Mens-clothing', value: 'mens-clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
         }
       - { label: 'Created Date', name: 'createdAt', widget: 'datetime', format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
