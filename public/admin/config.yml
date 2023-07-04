@@ -18,8 +18,7 @@ collections:
     folder: 'content/blog'
     create: true
     format: 'frontmatter'
-    slug: '{{slug}}'
-    path: '{{fields.slug}}'
+    slug: '{{fields.slug}}'
     fields:
       - { label: 'Created Date', name: 'createdAt', widget: 'datetime', format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
       - { label: 'Slug', name: 'slug', widget: 'string', required: true }
@@ -41,8 +40,7 @@ collections:
     folder: 'content/hall-of-fame'
     create: true
     format: 'frontmatter'
-    slug: '{{slug}}'
-    path: '{{fields.slug}}'
+    slug: '{{fields.slug}}'
     fields:
       - { label: 'Id', name: 'id', widget: 'number', required: true }
       - { label: 'Slug', name: 'slug', widget: 'string', required: true }
@@ -115,8 +113,7 @@ collections:
     folder: 'content/courses'
     create: true
     format: 'frontmatter'
-    slug: '{{slug}}'
-    path: '{{fields.slug}}'
+    slug: '{{fields.slug}}'
     preview_path: 'courses/{{slug}}'
     fields:
       - {
@@ -147,8 +144,7 @@ collections:
     folder: 'content/en-us/blog'
     create: true
     format: 'frontmatter'
-    slug: '{{slug}}'
-    path: '{{fields.slug}}'
+    slug: '{{fields.slug}}'
     fields:
       - { label: 'Created Date', name: 'createdAt', widget: 'datetime', format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
       - { label: 'Slug', name: 'slug', widget: 'string', required: true }
@@ -170,8 +166,7 @@ collections:
     folder: 'content/en-us/hall-of-fame'
     create: true
     format: 'frontmatter'
-    slug: '{{slug}}'
-    path: '{{fields.slug}}'
+    slug: '{{fields.slug}}'
     fields:
       - { label: 'Id', name: 'id', widget: 'number', required: true }
       - { label: 'Slug', name: 'slug', widget: 'string', required: true }
@@ -244,8 +239,7 @@ collections:
     folder: 'content/en-us/courses'
     create: true
     format: 'frontmatter'
-    slug: '{{slug}}'
-    path: '{{fields.slug}}'
+    slug: '{{fields.slug}}'
     preview_path: 'courses/{{slug}}'
     fields:
       - {
