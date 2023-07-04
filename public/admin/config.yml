@@ -107,7 +107,6 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string', required: false }
   - name: 'courses'
     label: 'Courses'
-    folder: 'content/courses'
     label_singular: 'Course'
     folder: 'content/courses'
     create: true
@@ -231,7 +230,6 @@ collections:
       - { label: 'Description', name: 'description', widget: 'string', required: false }
   - name: 'coursesen'
     label: 'Coursesen'
-    folder: 'content/en-us/courses'
     label_singular: 'Course'
     folder: 'content/en-us/courses'
     create: true
