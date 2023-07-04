@@ -9,7 +9,7 @@ export default defineNuxtConfig({
             { rel: 'shortcut icon', type: 'image/x-icon', href: '/assets/images/favicon.png' },
             { rel: 'stylesheet', href: '/assets/css/vendor/bootstrap.min.css' },
             { rel: 'stylesheet', href: '/assets/css/plugins/feather.css' },
-            { rel: 'stylesheet', href: '/assets/css/plugins/swiper.css' },
+            { rel: 'stylesheet', href: '/assets/css/plugins/swiper.min.css' },
             { rel: 'stylesheet', href: '/assets/css/style.css' },
         ],
         meta: [
