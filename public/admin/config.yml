@@ -233,7 +233,7 @@ collections:
     label: 'Coursesen'
     folder: 'content/en-us/courses'
     label_singular: 'Course'
-    folder: 'content/courses'
+    folder: 'content/en-us/courses'
     create: true
     format: 'frontmatter'
     slug: '{{slug}}'
