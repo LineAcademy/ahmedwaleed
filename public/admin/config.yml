@@ -134,8 +134,7 @@ collections:
           name: 'videos',
           widget: 'list',
           required: true,
-          collapsed: false,
-          fields: - {label: Video, name: video, widget: string, default: "Emmet"} - {label: Title, name: title, widget: string, default: "Emmet"}
+          field: {label: Video, name: video, widget: string, default: "UjBqYWMymY8"}
         }
         # English
   - name: 'blogen'
@@ -260,7 +259,5 @@ collections:
           widget: 'list',
           required: true,
           summary: '{{fields.video}}',
-          fields: 
-            - { label: 'Video', name: 'video', widget: 'string' }
-            - { label: 'Title', name: 'title', widget: 'string' }
+          field: {label: Video, name: video, widget: string, default: "UjBqYWMymY8"}
         }

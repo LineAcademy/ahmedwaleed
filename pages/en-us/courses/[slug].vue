@@ -82,7 +82,6 @@
     </iframe>
   </div>
 </div>  
-                                          <p>{{ p.title }}</p>
                                       </div>
                                   </div>
 						</div>
