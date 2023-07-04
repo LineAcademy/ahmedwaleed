@@ -22,8 +22,9 @@ description: ماذا اتعلم في جافاسكريبت قبل مكتبة ر�
 `<div class="col-12">
 							<div class="rbt-cat-box rbt-cat-box-1 variation-3 text-center">
                                       <div class="inner">
-                                          <div style="width: 100%; max-width: 550px; box-shadow: 6px 6px 10px hsl(206.5, 0%, 75%);">
-  <div style="position: relative; padding-bottom: 56.15%; height: 0; overflow: hidden;">
+                                          <div style="width: 100%; max-width: 550px; box-shadow: 6px 6px 10px hsl(206.5, 0%, 75%);">`
+
+``  <div style="position: relative; padding-bottom: 56.15%; height: 0; overflow: hidden;">
 <iframe 
 style="position: absolute; top: 0; left:0; width: 100%; height: 100%; border: 0;"
 loading="lazy"
@@ -32,7 +33,7 @@ srcdoc="<style>
 padding: 0;
 margin: 0;
 overflow: hidden;
-}`
+}` ``
 
 `body, html {
 height: 100%;
@@ -65,8 +66,9 @@ frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen>`
 
-`</iframe
-  </div>
+`` `</iframe``
+
+`  </div>
 </div>  
                                       </div>
                                   </div>
