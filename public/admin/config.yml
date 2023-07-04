@@ -134,10 +134,10 @@ collections:
           name: 'videos',
           widget: 'list',
           required: true,
-          summary: '{{fields.video}} - {{fields.title}}',
+          collapsed: false,
           fields: 
-            - { label: 'Video', name: 'video', widget: 'string', default: "Emmet" }
-            - { label: 'Title', name: 'title', widget: 'string', default: "Emmet" }
+            - {label: 'Video', name: 'video', widget: 'string'}
+            - {label: 'Title', name: 'title', widget: 'string'}
         }
         # English
   - name: 'blogen'
