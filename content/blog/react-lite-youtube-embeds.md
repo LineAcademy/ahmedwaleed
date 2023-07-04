@@ -18,7 +18,7 @@ description: افضل طريقة لاضافة youtube iframe في رياكت - �
 
 </div>
 
-> ## 🚀 Install
+> ## 🚀 التحميل
 
 ```javascript
 // with Yarn
@@ -28,7 +28,7 @@ yarn add react-lite-youtube-embed
 npm install react-lite-youtube-embed -S
 ```
 
-> ## 🕹️ Basic Usage
+> ## 🕹️ استخدام بسيط
 
 ```javascript
 import React from "react";
@@ -48,7 +48,7 @@ const App = () => (
 render(<App />, document.getElementById("root"));
 ```
 
-> ## 💎 Pro Usage
+> ## 💎 استخدام اكثر
 
 ```javascript
 const App = () => (
@@ -67,7 +67,7 @@ const App = () => (
 );
 ```
 
-> ## 🧰 Bring Your Own Styles
+> ## 🧰 استخدم عناصرك الخاصة
 
 ```javascript
 const App = () => (
