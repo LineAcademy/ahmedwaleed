@@ -83,4 +83,4 @@ image: {
 >
 > ### 📝 تصفح الصفحة الرئيسية ل nuxt-image
 >
-> ### [Optimized images for Nuxt · Nuxt Image](https://image.nuxtjs.org/)
+>  ***[Optimized images for Nuxt · Nuxt Image](https://image.nuxtjs.org/)***
