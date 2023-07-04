@@ -1351,13 +1351,7 @@ const { data: tes1 } = await useAsyncData("tes1", () => {
         script: [
             { src: '/assets/js/vendor/modernizr.min.js', body: true },
             { src: '/assets/js/vendor/jquery.js', body: true },
-            { src: '/assets/js/vendor/bootstrap.min.js', body: true },
-            { src: '/assets/js/vendor/jquery-appear.js', body: true },
-            { src: '/assets/js/vendor/swiper.js', body: true, ssr: false },
-            { src: '/assets/js/vendor/backtotop.js', body: true },
-            { src: '/assets/js/vendor/text-type.js', body: true },
-            { src: '/assets/js/vendor/jquery-ui.js', body: true },
-            { src: '/assets/js/main.js', body: true },
+            { src: '/assets/js/ahmedwaleed.min.js', body: true },
           ],
 })  
   </script>

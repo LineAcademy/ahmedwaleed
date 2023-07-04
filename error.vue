@@ -1,11 +1,10 @@
-<script setup lang="ts">
+<script setup>
 
-const errors = useError()
+defineProps(['error'])
 useHead({
   title: 'Error',
   meta: [
-      { name: 'description', content: 'My amazing site.' },
-      { name: 'robots', content: 'noindex, follow' },
+      { name: 'description', content: 'error.' },
   ],
 })
 </script>
@@ -21,7 +20,7 @@ useHead({
             <div class="row align-items-center">
             <div class="col-12">
             <div class="banner__section text-center mb--30">
-            <h2 class="text-primary"><span>.</span>  404 </h2>
+            <h2 class="text-primary"><span>.</span>  {{ error.statusCode }} </h2>
             <h2><span>.</span>الصفحة غير موجودة | Page Not Found</h2>
             <NuxtLink class="main-btn" to="/"><span>Home Page | الرئيسية</span></NuxtLink>
             </div>

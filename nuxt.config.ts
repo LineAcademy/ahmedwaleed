@@ -8,11 +8,8 @@ export default defineNuxtConfig({
           link: [
             { rel: 'shortcut icon', type: 'image/x-icon', href: '/assets/images/favicon.png' },
             { rel: 'stylesheet', href: '/assets/css/vendor/bootstrap.min.css' },
-            { rel: 'stylesheet', href: '/assets/css/vendor/slick.css' },
-            { rel: 'stylesheet', href: '/assets/css/vendor/slick-theme.css' },
             { rel: 'stylesheet', href: '/assets/css/plugins/feather.css' },
             { rel: 'stylesheet', href: '/assets/css/plugins/swiper.css' },
-            { rel: 'stylesheet', href: '/assets/css/plugins/jquery-ui.css' },
             { rel: 'stylesheet', href: '/assets/css/style.css' },
         ],
         meta: [
