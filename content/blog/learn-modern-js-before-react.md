@@ -19,17 +19,19 @@ description: ماذا اتعلم في جافاسكريبت قبل مكتبة ر�
 
 ## 1- تكون عارف الفرق ما بين var, let, const :
 
+`<div style="width: 100%; max-width: 550px; box-shadow: 6px 6px 10px hsl(206.5, 0%, 75%);">
+<div style="position: relative; padding-bottom: 56.15%; height: 0; overflow: hidden;">
 <iframe 
-style="width: 100%; height: 100%; border: 0;"
+style="position: absolute; top: 0; left:0; width: 100%; height: 100%; border: 0;"
 loading="lazy"
 srcdoc="<style>
 * {
 padding: 0;
 margin: 0;
 overflow: hidden;
-}
+}`
 
-body, html {
+`body, html {
 height: 100%;
 }
 img, svg {
@@ -42,9 +44,9 @@ margin: auto;
 svg {
 filter: drop-shadow(1px 1px 10px hsl(206.5, 70.7%, 8%));
 transition: all 250ms ease-in-out;
-}
+}`
 
-body:hover svg {
+`body:hover svg {
 filter: drop-shadow(1px 1px 10px hsl(206.5, 0%, 10%));
 transform: scale(1.2);
 }
@@ -58,9 +60,11 @@ src="https://www.youtube.com/embed/vMVuYCEI-iw"
 title='مسابقة جروب رياكت مع احمد وليد - افضل مبرمج مواقع في مصر'
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen>
+allowfullscreen>`
 
-</iframe>
+`</iframe>
+</div>
+</div> ` 
 
 <iframe 
 style="width: 100%; height: 450px; border: 0;"
