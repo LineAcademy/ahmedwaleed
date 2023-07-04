@@ -29,8 +29,8 @@ collections:
           label: 'Blog Category',
           name: 'category',
           widget: 'select',
-          default: 'men's clothing',
-          options: [{ label: 'Men's clothing', value: 'men's clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
+          default: 'mens-clothing',
+          options: [{ label: 'Mens-clothing', value: 'men's clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
         }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
@@ -119,8 +119,8 @@ collections:
           label: 'Courses Category',
           name: 'category',
           widget: 'select',
-          default: 'men's clothing',
-          options: [{ label: 'Men's clothing', value: 'men's clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
+          default: 'mens-clothing',
+          options: [{ label: 'Mens-clothing', value: 'men's clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
         }
       - { label: 'Created Date', name: 'createdAt', widget: 'datetime', format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
@@ -156,8 +156,8 @@ collections:
           label: 'Blog Category',
           name: 'category',
           widget: 'select',
-          default: 'men's clothing',
-          options: [{ label: 'Men's clothing', value: 'men's clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
+          default: 'mens-clothing',
+          options: [{ label: 'Mens-clothing', value: 'men's clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
         }
       - { label: 'Description', name: 'description', widget: 'string', required: false }
       - { label: 'Body', name: 'body', widget: 'markdown', required: false }
@@ -246,8 +246,8 @@ collections:
           label: 'Courses Category',
           name: 'category',
           widget: 'select',
-          default: 'men's clothing',
-          options: [{ label: 'Men's clothing', value: 'men's clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
+          default: 'mens-clothing',
+          options: [{ label: 'Mens-clothing', value: 'men's clothing' }, { label: 'Men', value: 'men' }, { label: 'Women', value: 'women' }],
         }
       - { label: 'Created Date', name: 'createdAt', widget: 'datetime', format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
