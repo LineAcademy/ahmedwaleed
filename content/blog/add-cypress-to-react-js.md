@@ -35,19 +35,19 @@ npx cypress open
 
 تُظهر نافذة الترحيب نوعين مختلفين من الاختبارات ، اختبار شامل واختبار المكونات في هذه الحالة ، نقوم بإجراء اختبار شامل لواجهة المستخدم حتى تتمكن من اختيار نوع الاختبار كاختبارات نهائية
 
-![ أختار نوع التيست - احترف البرمجة مع احمد وليد - cypress react - testing](/assets/images/choose-test-type-to-test-react-app-in-cypress.png "أختار نوع التيست في cypress")
+![ أختار نوع التيست - احترف البرمجة مع احمد وليد - cypress react - testing](https://res.cloudinary.com/drcfigqqr/image/upload/v1688467522/Choose-Test-Type-to-test-React-App-in-Cypress_wopbgv.webp "أختار نوع التيست في cypress")
 
 ## الخطوة 4 : راجع علي ملفات التكوين
 
 ستظهر لك نافذة بها بعض الملفات الي هيعملها Cypress عشان تقدر تستخدم نوع الأختبار الي اخترناه راجع عليها ودوس متابعة
 
-![راجع علي ملفات التكوين - cypress react - testing](/assets/images/review-the-configuration-file-to-test-react-in-cypress.png "راجع علي ملفات التكوين")
+![راجع علي ملفات التكوين - cypress react - testing](https://res.cloudinary.com/drcfigqqr/image/upload/v1688467528/Review-the-Configuration-File-to-test-React-in-Cypress_qej3gu.webp "راجع علي ملفات التكوين")
 
 ## الخطوة 5 : أختار المتصفح
 
 ، يقوم Cypress بجمع المعلومات من جميع المتصفحات المثبتة في نظامك. إذا كان يدعم نوع المتصفح وإصدار المتصفح ، فإنه يسرد في قسم اختيار متصفح. للتبسيط ، دعنا نختار متصفح Chrome وانقر على Start End لإنهاء الاختبار باستخدام Chrome.
 
-![أختار المتصفح - cypress react - testing](/assets/images/choose-browser-to-test-react-in-cypress.png "أختار المتصفح")
+![أختار المتصفح - cypress react - testing](https://res.cloudinary.com/drcfigqqr/image/upload/v1688467529/Choose-Browser-to-test-React-in-Cypress_amlzye.webp "أختار المتصفح")
 
 ## الخطوة 6 : هنعمل نافذة الأختبار الأولي
 
@@ -55,7 +55,7 @@ npx cypress open
 2. أكتب أي أسم - مثالا: react.demo.cy.js
 3. انقر فوق موافق وثم قم بتشغيل الأختبار
 
-![هنعمل نافذة الأختبار الأولي - cypress react - testing](/assets/images/create-first-spec-window-to-test-react-in-cypress.png "## هنعمل نافذة الأختبار الأولي")
+![هنعمل نافذة الأختبار الأولي - cypress react - testing](https://res.cloudinary.com/drcfigqqr/image/upload/v1688467526/Create-first-Spec-Window-to-test-React-in-Cypress_nl91ab.webp "## هنعمل نافذة الأختبار الأولي")
 
 *ملاحظة: بشكل افتراضي ، تضيف مثال البرنامج النصي للاختبار ، ويمكننا تعديلها لاحقًا وفقًا لحالة الاستخدام أو سيناريو الاختبار*
 
