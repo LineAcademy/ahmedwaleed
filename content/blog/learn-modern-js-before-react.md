@@ -390,3 +390,81 @@ allowfullscreen>
 > دمتم بخير وصحة ![❤️](https://static.xx.fbcdn.net/images/emoji.php/v9/t6c/1/16/2764.png)
 
 <iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FLiNePasha%2Fposts%2Fpfbid08A4vhkVQ2Vu77pWxN2CjX2A6jureUMmvDNJC1szkvVgy2b8opJRZkPhrceF6dySpl&show_text=true&width=500" width="500" height="457" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+
+
+
+<﻿script>
+
+function labnolIframe(div) {
+
+        var iframe = document.createElement("iframe");
+
+        iframe.setAttribute(
+
+          "src",
+
+          "https://www.youtube.com/embed/" + div.dataset.id + "?autoplay=1&amp;rel=0"
+
+        );
+
+        iframe.setAttribute("frameborder", "0");
+
+        iframe.setAttribute("allowfullscreen", "1");
+
+        iframe.setAttribute(
+
+          "allow",
+
+          "accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+
+        );
+
+        div.parentNode.replaceChild(iframe, div);
+
+      }
+
+      function initYouTubeVideos() {
+
+        var playerElements = document.getElementsByClassName("youtube-player");
+
+        for (var n = 0; n < playerElements.length; n++) {
+
+          var videoId = playerElements\[n].dataset.id;
+
+          var div = document.createElement("div");
+
+          div.setAttribute("data-id", videoId);
+
+          var thumbNode = document.createElement("img");
+
+          thumbNode.src = "https://i.ytimg.com/vi_webp/ID/hqdefault.webp".replace(
+
+            "ID",
+
+            videoId
+
+          );
+
+          div.appendChild(thumbNode);
+
+          var playButton = document.createElement("div");
+
+          playButton.setAttribute("class", "play");
+
+          div.appendChild(playButton);
+
+          div.onclick = function () {
+
+            labnolIframe(this);
+
+          };
+
+          playerElements\[n].appendChild(div);
+
+        }
+
+      }
+
+      document.addEventListener("DOMContentLoaded", initYouTubeVideos);
+
+</script>
