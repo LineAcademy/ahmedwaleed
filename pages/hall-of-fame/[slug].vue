@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="row g-5">
-                        <div dir="rtl" class="col-lg-3">
+                        <div dir="rtl" class="col-lg-3 order-lg-first order-last">
                             <!-- Start Dashboard Sidebar  -->
                             <div class="rbt-default-sidebar sticky-top rbt-shadow-box rbt-gradient-border">
                                 <div class="inner">
