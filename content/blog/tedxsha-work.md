@@ -20,4 +20,6 @@ description: احمد وليد صمم اكبر موقع لمنظمة تيدكس 
 
 ***و﻿كمان التطبيق لتنظيم الأيفينت والحمدلله كانت سنة جميلة عمل معهم وخبرة رائعة***
 
+[tedxshacom.netlify.app](https://tedxshacom.netlify.app/)
+
 ![صورة احمد وليد من استديو في احد الايام تجميع الفريق تيدكس الشروق](https://res.cloudinary.com/drcfigqqr/image/upload/v1688529382/ahmedwaleed-tedxsha.webp "صورة احمد وليد من استديو في احد الايام تجميع الفريق")
