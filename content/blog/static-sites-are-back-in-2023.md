@@ -38,19 +38,12 @@ description: المواقع الثابتة تعود في 2023 - جامستاك -
 <div style="width:100%;max-width:800px;box-shadow:6px 6px 10px hsl(206.5,0%,75%)"><div style="position:relative;padding-bottom:56.15%;height:0;overflow:hidden"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" srcdoc="<style>* {padding: 0;margin: 0;overflow: hidden;}body, html {height: 100%;}img, svg {position: absolute;width:100%;top: 0;bottom: 0;margin: auto;}svg {filter: drop-shadow(1px 1px 10px hsl(206.5, 70.7%, 8%));transition: all 250ms ease-in-out;}body:hover svg {filter: drop-shadow(1px 1px 10px hsl(206.5, 0%, 10%));transform: scale(1.2);}</style><a href='https://www.youtube.com/embed/4wD00RT6d-g?autoplay=1'><img src='https://img.youtube.com/vi/4wD00RT6d-g/hqdefault.jpg' alt='جامستاك في موقع احمد وليد وبرمجة المواقع'>
 <svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 24 24' fill='none' stroke='#ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-play-circle'><circle cx='12' cy='12' r='10'></circle><polygon points='10 8 16 12 10 16 10 8'></polygon></svg></a>" src="https://www.youtube.com/embed/4wD00RT6d-g" title="جامستاك في موقع احمد وليد وبرمجة المواقع" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
 
-
-
 <div style="width:100%;max-width:800px;box-shadow:6px 6px 10px hsl(206.5,0%,75%)"><div style="position:relative;padding-bottom:56.15%;height:0;overflow:hidden"><iframe style="position:absolute;top:0;left:0;width:100%;height:100%;border:0" loading="lazy" srcdoc="<style>* {padding: 0;margin: 0;overflow: hidden;}body, html {height: 100%;}img, svg {position: absolute;width:100%;top: 0;bottom: 0;margin: auto;}svg {filter: drop-shadow(1px 1px 10px hsl(206.5, 70.7%, 8%));transition: all 250ms ease-in-out;}body:hover svg {filter: drop-shadow(1px 1px 10px hsl(206.5, 0%, 10%));transform: scale(1.2);}</style><a href='https://www.youtube.com/embed/LDkoWDYm3PI?autoplay=1'><img src='https://img.youtube.com/vi/LDkoWDYm3PI/hqdefault.jpg' alt='جامستاك في موقع احمد وليد وبرمجة المواقع'>
 <svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 24 24' fill='none' stroke='#ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-play-circle'><circle cx='12' cy='12' r='10'></circle><polygon points='10 8 16 12 10 16 10 8'></polygon></svg></a>" src="https://www.youtube.com/embed/LDkoWDYm3PI" title="جامستاك في موقع احمد وليد وبرمجة المواقع" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div></div>
-
-
 
 > ***لينكات مفيدة***
 >
 > * [generators-next-jamstack](https://jamstack.org/generators/next/)﻿
->
-> <!---->
->
 > * [Nuxt static improvements](https://nuxtjs.org/blog/nuxt-static-improvements)
 > * [Getting started with Nuxt](https://nuxtjs.org/guides/get-started/installation)
 > * [Going full-stack with Nuxt](https://nuxtjs.org/blog/going-full-static)
