@@ -1,6 +1,6 @@
 ---
 createdAt: 2023-07-05
-slug: tedxsha-work
+slug: ahmedwaleed-help-event-tedxsha
 title: العمل مع منظمة TedxSHA وتصميم موقعهم
 image: ar-tedxsha-exp_hk3nad
 subImage: sub-tedxsha-exp_usgsju
