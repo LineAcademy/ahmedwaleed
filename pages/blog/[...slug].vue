@@ -105,15 +105,12 @@
 
 
 
-	// const slug = useRoute().params.slug;
-	const path = useRoute();
-	const { data: blog } = await useAsyncData(`content-${path}`, () => {
-		return queryContent()
-			.where({ _path: path })
-			.findOne();
+	const slug = useRoute().params.slug;
+	const { data: blog } = await useAsyncData(slug, () => {
+		return queryContent(`blog/${slug}`).findOne();
 	});
 
-	console.log(useRoute().params.slug);
+	console.log(blog.value)
 
 	const toc = computed(() => {
 		if (!blog.value) return [];
