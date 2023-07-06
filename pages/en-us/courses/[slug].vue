@@ -132,7 +132,9 @@
 		return queryContent(`en-us/courses/${slug}`).findOne();
 	});
 
-	console.log(useRoute().params.slug);
+	if(blog.value === null){
+		useRouter().push({ path: "/en-us/courses" });
+	}
 
 	const toc = computed(() => {
 		if (!blog.value) return [];
