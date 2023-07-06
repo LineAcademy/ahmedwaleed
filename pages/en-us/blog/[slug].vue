@@ -116,7 +116,9 @@
 		return queryContent(`en-us/blog/${slug}`).findOne();
 	});
 
-	console.log(useRoute().params.slug);
+	if(blog.value === null){
+		useRouter().push({ path: "/en-us/blog" });
+	}
 
 	const toc = computed(() => {
 		if (!blog.value) return [];
