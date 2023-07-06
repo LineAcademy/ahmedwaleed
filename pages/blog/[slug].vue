@@ -117,9 +117,8 @@
 	});
 
 	if(blog.value === null){
-		console.log('page not found')
+		throw createError({ statusCode: 404, statusMessage: 'Page Not Found' })
 	}
-	
 
 	const toc = computed(() => {
 		if (!blog.value) return [];
