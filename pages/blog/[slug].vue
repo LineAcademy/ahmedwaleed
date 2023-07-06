@@ -116,7 +116,10 @@
 		return queryContent(`blog/${slug}`).findOne();
 	});
 
-	console.log(blog.value)
+	if(blog.value === null){
+		console.log('page not found')
+	}
+	
 
 	const toc = computed(() => {
 		if (!blog.value) return [];
