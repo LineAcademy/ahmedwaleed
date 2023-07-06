@@ -134,10 +134,9 @@
 
 	console.log(blog.value)
 
-	if (!blog.value) {
-  throw createError({ statusCode: 404, statusMessage: 'Page Not Found' })
-		console.log(errjj)
-}
+	if(blog.value === null){
+		useRouter().push({ path: "/courses" });
+	}
 
 	const toc = computed(() => {
 		if (!blog.value) return [];
