@@ -117,7 +117,7 @@
 	});
 
 	if(blog.value === null){
-		useRouter().push({ path: "/" });
+		useRouter().push({ path: "/blog" });
 	}
 
 	const toc = computed(() => {
