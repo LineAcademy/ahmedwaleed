@@ -132,8 +132,6 @@
 		return queryContent(`courses/${slug}`).findOne();
 	});
 
-	console.log(blog.value)
-
 	if(blog.value === null){
 		useRouter().push({ path: "/courses" });
 	}
