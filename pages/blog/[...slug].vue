@@ -78,16 +78,10 @@
 					<article
 				class="lg:pt-20 pt-10 relative flex items-start lg:space-x-10 px-[5%] lg:px-[10%]"
 			>
-				<ClientOnly>
 					<ContentRenderer
 						class="prose lg:prose-base prose-sm prose-slate blog-link pr-7 max-w-none"
 						:value="blog"
-					>
-						<template #empty>
-							<p>No content found.</p>
-						</template>
-					</ContentRenderer>
-				</ClientOnly>
+					/>
 			</article>
 				</div>
 			</div>
