@@ -109,16 +109,15 @@
 
 <script setup>
 
-
+if(blog.value === null){
+		useRouter().push({ path: "/blog" });
+	}
 
 	const slug = useRoute().params.slug;
 	const { data: blog } = await useAsyncData(slug, () => {
 		return queryContent(`blog/${slug}`).findOne();
 	});
 
-	if(blog.value === null){
-		useRouter().push({ path: "/blog" });
-	}
 
 	const toc = computed(() => {
 		if (!blog.value) return [];
