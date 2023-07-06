@@ -33,8 +33,9 @@ description: أنا استخدمت Nuxt.Js في عدة مشاريع لشركات
 
 > *\- ل﻿ينكات مفيدة -*
 
+* [\[﻿Building a JamStack Site With Nuxt 3 [ YouTube ]](https://www.youtube.com/results?search_query=Building+a+JAMstack+site+with+nuxt+3)](https://www.youtube.com/results?search_query=Building+a+JAMstack+site+with+nuxt+3)
+* [﻿﻿Building a JamStack Site With Nuxt 3 \[ Go﻿ogle ]](https://www.google.com/search?q=Building+a+JAMstack+site+with+nuxt+3&oq=Building+a+JAMstack+site+with+nuxt+3)
 * [Why static sites are back](https://dev.to/azure/why-static-sites-are-back-6jh)
-*
 * [Nuxt Static Improvements](https://nuxtjs.org/blog/nuxt-static-improvements)
 * [My YouTube Channel](https://www.youtube.com/channel/UCrNvYFsT1L3WczE8AizDQ6g)
 
