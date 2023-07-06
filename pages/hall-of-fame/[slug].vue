@@ -111,7 +111,9 @@
 		return queryContent(`hall-of-fame/${slug}`).findOne();
 	});
 
-	console.log(useRoute().params.slug);
+if(hall.value === null){
+		useRouter().push({ path: "/blog" });
+	}
 
 	const toc = computed(() => {
 		if (!hall.value) return [];
