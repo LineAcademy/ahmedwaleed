@@ -112,7 +112,7 @@
 
 
 	const slug = useRoute().params.slug;
-	const { data: blog } = await useAsyncData(`content-$(slug)`, () => {
+	const { data: blog } = await useAsyncData(slug, () => {
 		return queryContent(`blog/${slug}`).findOne();
 	});
 
