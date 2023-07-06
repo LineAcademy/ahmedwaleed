@@ -112,7 +112,7 @@
 	});
 
 if(hall.value === null){
-		useRouter().push({ path: "/blog" });
+		useRouter().push({ path: "/hall-of-fame" });
 	}
 
 	const toc = computed(() => {
