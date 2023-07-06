@@ -111,7 +111,9 @@
 		return queryContent(`en-us/hall-of-fame/${slug}`).findOne();
 	});
 
-	console.log(useRoute().params.slug);
+	if(hall.value === null){
+		useRouter().push({ path: "/en-us/hall-of-fame" });
+	}
 
 	const toc = computed(() => {
 		if (!hall.value) return [];
