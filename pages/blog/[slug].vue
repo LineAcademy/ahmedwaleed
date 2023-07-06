@@ -117,7 +117,7 @@
 	});
 
 	if(blog.value === null){
-		throw createError({ statusCode: 404, statusMessage: 'Page Not Found' })
+		useRoute().push({ path: "/" });
 	}
 
 	const toc = computed(() => {
