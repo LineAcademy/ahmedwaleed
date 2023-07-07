@@ -21,9 +21,9 @@ description: انا عملت علي عدة مشاريع كبيرة ومتوسط�
 
 و﻿هنا دا Next بيعرض كل المحتوي في ال Dom وبكدا نكون حلينا مشكلة تصدر وسائل البحث ودا اسمو SSR
 
-![all react app in div app](https://res.cloudinary.com/drcfigqqr/image/upload/v1688710761/app_sgr362.webp "all react app in div app")
+![next app ssr](https://res.cloudinary.com/drcfigqqr/image/upload/v1688710738/Screenshot_56_ykpp9y.webp "next app ssr")
 
-##### 1. Seamless Server-Side Rendering (SSR) - Next.js![all react app in div app](https://res.cloudinary.com/drcfigqqr/image/upload/v1688710761/app_sgr362.webp "all react app in div app")
+##### 1. Seamless Server-Side Rendering (SSR) - Next.js
 
 تتمثل إحدى أهم مزايا Next.js في دعمه (SSR) وهذا عكس React عشان كدا لما بنسئل حد هنبني موقع وعاوزينو يتصدر وسائل البحث بيقولنا نستخدمو. يسمح SSR بعرض صفحات الويب على الخادم قبل إرسالها إلى العميل ، مما يؤدي إلى تحميل أسرع للصفحات الأولية وتحسين محركات البحث. يبسط Next.js SSR من خلال التخلص من التعقيدات ، مما يسمح للمطورين بالتركيز على بناء واجهات مستخدم ثرية دون المساومة على الأداء.
 
