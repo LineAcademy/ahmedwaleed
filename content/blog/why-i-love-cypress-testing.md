@@ -1,7 +1,7 @@
 ---
 createdAt: 2023-07-07
 slug: why-i-love-cypress-testing
-title: ليه انا بحب اطار عمل cypress
+title: ليه انا بحب  cypress testing
 image: love-tech-stack_cypress
 subImage: sub-love-tech-stack_cypress
 id: 14
