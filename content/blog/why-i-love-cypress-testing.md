@@ -2,8 +2,8 @@
 createdAt: 2023-07-07
 slug: why-i-love-cypress-testing
 title: ليه انا بحب اطار عمل cypress
-image: love-tech-stack_next
-subImage: love-tech-stack_next
+image: love-tech-stack_cypress
+subImage: sub-love-tech-stack_cypress
 id: 14
 category: testing
 description: انا عملت علي عدة مشاريع كبيرة ومتوسطة باستخدام cypress وكان اختيار
