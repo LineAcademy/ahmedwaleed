@@ -1,7 +1,7 @@
 ---
 createdAt: 2023-07-07
 slug: why-i-love-jamstack
-title: ليه انا بحب اطار عمل JamStack
+title: ليه انا بحب JamStack
 image: love-tech-stack_jamstack
 subImage: love-tech-stack_jamstack
 id: 13
