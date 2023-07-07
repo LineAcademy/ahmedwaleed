@@ -5,9 +5,7 @@ title: أضافة أختبار لتطبيق رياكت بأستخدام Cypress 
 image: ar-add-cypress-to-react_eqgpwf
 subImage: sub-add-cypress-react
 id: 1
-category:
-  - testing
-  - nuxt
+category: testing
 description: أضافة أختبار لتطبيق رياكت بأستخدام Cypress 2023 - مقالات احمد وليد
   في برمجة المواقع - احترف البرمجة مع احمد وليد
 ---
