@@ -3,7 +3,7 @@ createdAt: 2023-07-06
 slug: why-i-love-nuxtjs
 title: ليه انا بحب اطار عمل NuxtJS
 image: love-tech-stack_nuxt
-subImage: love-tech-stack_nuxt
+subImage: sub-love-tech-stack_nuxtjs
 id: 11
 category: nuxt
 description: انا عملت علي عدة مشاريع كبيرة ومتوسطة باستخدام nuxtjs وكان اختيار
