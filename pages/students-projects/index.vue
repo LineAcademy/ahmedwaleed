@@ -12,7 +12,7 @@
                                 loading="lazy" 
                                 fit="cover" 
                                 provider="cloudinary" 
-                                src="projects.webp"
+                                src="8_nz7ozd.webp"
                                 alt="h"
                             />
                             <!-- <img src="/assets/images/كورس بناء موقع جونيور.png" alt=""> -->
@@ -20,7 +20,7 @@
                     </div>
                     <!-- End Dashboard Top  -->
 
-                    <div class="rbt-team-area bg-color-white rbt-section-gapBottom">
+                    <div class="rbt-team-area rbt-section-gapBottom">
         <div class="container">
             <div class="row mb--60">
                 <div class="col-lg-12">
