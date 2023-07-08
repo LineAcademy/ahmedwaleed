@@ -264,7 +264,7 @@
         <!-- End Banner Area -->
 
         <!-- Start Counterup Area  -->
-        <div class="rbt-counterup-area">
+        <div class="rbt-counterup-area" style="background: white;">
             <div class="container">
                 <div class="row g-5 hanger-line">
                     <!-- Start Single Counter  -->
@@ -1033,7 +1033,7 @@
 
         
     <!-- Start Testimonial Area  -->
-    <div class="rbt-splash-testimonial-area mt-4 bg-color-white overflow-hidden position-relative">
+    <div class="rbt-splash-testimonial-area pt-4 bg-color-white overflow-hidden position-relative">
         <div class="wrapper">
             <div class="container">
                 <div class="row">
