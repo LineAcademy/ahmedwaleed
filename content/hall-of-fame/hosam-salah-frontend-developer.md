@@ -6,8 +6,8 @@ title: Front-End at Cyparta
 description: ...على الرغنم من اني عملت انترفيوهات كتير جدا واني بعمل انترفيوهات
   اصلا عندنا في الشركة 😅 الا اني استفدت من احمد جدا  حرفيا مسك كل حاجة فى السي
   في ودقق فيها
-image: sub-love-tech-stack_typescript_1
-subImage: sub-love-tech-stack_typescript_1
+image: hosam-salah-frontend
+subImage: hosam-salah-frontend
 ---
 عملت انترفيو مع احمد النهارده 🔥
 
