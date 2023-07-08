@@ -13,9 +13,8 @@
                                 fit="cover" 
                                 provider="cloudinary" 
                                 src="6_fev0d9.webp"
-                                alt="h"
+                                alt="اراء الناس في احمد وليد برمجة المواقع - ساعد تتساعد"
                             />
-                            <!-- <img src="/assets/images/كورس بناء موقع جونيور.png" alt=""> -->
                         </div>
                     </div>
                     <!-- End Dashboard Top  -->
