@@ -1067,7 +1067,7 @@ allowfullscreen>
 						>
 						<div class="single-column-20 bg-theme-gradient-odd">
                             <div class="rbt-testimonial-box style-2">
-                                <div class="inner">
+                                <div dir="rtl" class="inner">
                                     <div class="icons">
                                         <nuxt-img
                                     loading="lazy" 
@@ -1101,7 +1101,7 @@ allowfullscreen>
 						>
 						<div class="single-column-20 bg-theme-gradient-even">
                             <div class="rbt-testimonial-box style-2">
-                            <div class="inner">
+                            <div dir="rtl" class="inner">
                                 <div class="icons">
                                     <nuxt-img
                                 loading="lazy" 
@@ -1134,7 +1134,7 @@ allowfullscreen>
 						>
 						<div class="single-column-20 bg-theme-gradient-odd">
                             <div class="rbt-testimonial-box style-2">
-                            <div class="inner">
+                            <div dir="rtl" class="inner">
                                 <div class="icons">
                                     <nuxt-img
                                 loading="lazy" 
