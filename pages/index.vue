@@ -1092,40 +1092,6 @@ allowfullscreen>
                 </div>
             </div>
 
-            <div class="scroll-animation-wrapper no-overlay mt--30">
-                <div class="scroll-animation scroll-left-right">
-
-                    <template
-							v-for="(p, i) in tes2"
-							:key="`product-${i}-${p.id}`"
-						>
-						<div class="single-column-20 bg-theme-gradient-even">
-                            <div class="rbt-testimonial-box style-2">
-                            <div dir="rtl" class="inner">
-                                <div class="icons">
-                                    <nuxt-img
-                                loading="lazy" 
-                                fit="cover"
-                                provider="cloudinary" 
-								:src="p.image"
-								:alt="`رأئ ${p.name} في تعليم احمد وليد أفضل مبرمج مواقع في مصر`"
-								/>
-                                </div>
-                                <div class="description">
-                                    <p class="subtitle-3">{{  p.description  }}</p>
-                                    <div class="clint-info-wrapper">
-                                        <div class="client-info">
-                                            <h5 class="title">{{  p.name  }}</h5>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-						</div>
-						</template>
-                </div>
-            </div>
-
             <div class="scroll-animation-wrapper no-overlay mt--50">
                 <div class="scroll-animation scroll-right-left">
                     <template
