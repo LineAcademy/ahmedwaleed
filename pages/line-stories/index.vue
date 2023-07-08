@@ -12,7 +12,7 @@
                                 loading="lazy" 
                                 fit="cover" 
                                 provider="cloudinary" 
-                                src="line_stories.webp"
+                                src="9_zoz2x2.webp"
                                 alt="h"
                             />
                             <!-- <img src="/assets/images/كورس بناء موقع جونيور.png" alt=""> -->
