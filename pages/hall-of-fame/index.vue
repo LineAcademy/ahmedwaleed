@@ -12,7 +12,7 @@
                                 loading="lazy" 
                                 fit="cover" 
                                 provider="cloudinary" 
-                                src="half-of-fame.webp"
+                                src="5_zucjq6.webp"
                                 alt="h"
                             />
                             <!-- <img src="/assets/images/كورس بناء موقع جونيور.png" alt=""> -->
