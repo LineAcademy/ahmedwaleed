@@ -1072,7 +1072,6 @@ allowfullscreen>
                                         <nuxt-img
                                     loading="lazy" 
                                     fit="cover"
-                                    style="width: 100%;"
                                     provider="cloudinary" 
                                     :src="p.image"
                                     :alt="`رأئ ${p.name} في تعليم احمد وليد أفضل مبرمج مواقع في مصر`" 
@@ -1107,7 +1106,6 @@ allowfullscreen>
                                     <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
-								style="width: 100%;"
                                 provider="cloudinary" 
 								:src="p.image"
 								:alt="`رأئ ${p.name} في تعليم احمد وليد أفضل مبرمج مواقع في مصر`"
@@ -1141,7 +1139,6 @@ allowfullscreen>
                                     <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
-								style="width: 100%;"
                                 provider="cloudinary" 
 								:src="p.image"
 								:alt="`رأئ ${p.name} في تعليم احمد وليد أفضل مبرمج مواقع في مصر`" 
