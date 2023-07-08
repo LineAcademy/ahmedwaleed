@@ -1,5 +1,5 @@
 <template lang="">
-    <div>
+    <div style="background-color: rgb(243, 245, 244);">
         <SeoKit />
     <OgImageScreenshot />
     <OgImageStatic />
