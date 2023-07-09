@@ -4,7 +4,7 @@ createdAt: 2023-07-09
 slug: what-do-you-learn-in-javascript-before-libraries-frameworks
 title: ماذا تتعلم في جافاسكريبت قبل أي إطار عمل
 image: js-before_ide7vx
-subImage: sub_js_before_react_hksxeo
+subImage: sub_js_before_reactt_g3o2eg
 id: 1
 description: ماذا اتعلم في جافاسكريبت قبل رياكت او اي اطار عمل - احمد وليد وجافاسكريبت
 videos:
