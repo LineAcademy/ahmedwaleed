@@ -21,13 +21,6 @@
 
                     <div class="rbt-team-area rbt-section-gapBottom">
         <div class="container">
-            <div class="row mb--60">
-                <div class="col-lg-12">
-                                    <div class="section-title text-center">
-                                        <h2 class="title">الفديوهات</h2>
-                                    </div>
-                                </div>
-            </div>
             <div dir="rtl" class="row row--15 mt_dec--30">
               <template
 							v-for="(p, i) in hall"
