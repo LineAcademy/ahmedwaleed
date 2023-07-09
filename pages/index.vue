@@ -1130,7 +1130,7 @@ allowfullscreen>
                 </div>
                 <a class="rbt-btn btn-gradient hover-icon-reverse  btn-xxl" href="#">
                     <span class="icon-reverse-wrapper">
-                        <span class="btn-text"> ⭐ قاعة الشهرة</span>
+                        <span class="btn-text"> ⭐ قاعة الأَثَر</span>
                     <span class="btn-icon"><i class="feather-arrow-right"></i></span>
                     <span class="btn-icon"><i class="feather-arrow-right"></i></span>
                     </span>
