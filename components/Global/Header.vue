@@ -84,7 +84,7 @@
                         </li>
 
                         <li class="has-menu-child-item">
-                            <NuxtLink to="/hall-of-fame">قاعة الشهرة
+                            <NuxtLink to="/hall-of-fame">قاعة الأَثَر
                             </NuxtLink>
                         </li>
 
@@ -215,7 +215,7 @@
             </li>
 
             <li>
-                <NuxtLink to="/hall-of-fame">قاعة الشهرة</NuxtLink>
+                <NuxtLink to="/hall-of-fame">قاعة الأَثَر</NuxtLink>
             </li>
 
             <li>
