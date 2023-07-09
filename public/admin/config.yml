@@ -182,7 +182,7 @@ collections:
           name: 'videos',
           widget: 'list',
           required: true,
-          field: {label: Video, name: video, widget: string, default: "UjBqYWMymY8"}
+          fields: [{label: Video, name: video, widget: string, default: "UjBqYWMymY8"},{ label: 'Title', name: 'title', widget: 'string'}]
         }
         # English
   - name: 'blogen'
