@@ -105,7 +105,7 @@
                         <ul class="copyright-link rbt-link-hover justify-content-center justify-content-lg-end mt_sm--10 mt_md--10">
                             <li><NuxtLink :to="`/en-us${route.href}`">English</NuxtLink></li>
                             <li><NuxtLink to="/blog">المدونة</NuxtLink></li>
-                            <li><NuxtLink to="/half-of-fame">قاعة الشهرة</NuxtLink></li>
+                            <li><NuxtLink to="/half-of-fame">قاعة الأَثَر</NuxtLink></li>
                             <li><NuxtLink to="/line-stories">حكايات مؤثرة</NuxtLink></li>
                             <li><NuxtLink to="/courses">الكورسات</NuxtLink></li>
                         </ul>
@@ -222,7 +222,7 @@
                         <ul class="copyright-link rbt-link-hover justify-content-center justify-content-lg-end mt_sm--10 mt_md--10">
                             <li><NuxtLink :to="`/en-us${route.href}`">English</NuxtLink></li>
                             <li><NuxtLink to="/blog">المدونة</NuxtLink></li>
-                            <li><NuxtLink to="/half-of-fame">قاعة الشهرة</NuxtLink></li>
+                            <li><NuxtLink to="/half-of-fame">قاعة الأَثَر</NuxtLink></li>
                             <li><NuxtLink to="/line-stories">حكايات مؤثرة</NuxtLink></li>
                             <li><NuxtLink to="/courses">الكورسات</NuxtLink></li>
                         </ul>
