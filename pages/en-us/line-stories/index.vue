@@ -12,7 +12,7 @@
                                 loading="lazy" 
                                 fit="cover" 
                                 provider="cloudinary" 
-                                src="7_tx502e"
+                                src="10_an9jxl"
                                 alt="line stories by ahmed waleed learn coding easy - best web developer in egypt"
                             />
                         </div>
