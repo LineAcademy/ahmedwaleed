@@ -721,7 +721,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="row g-5">
+                <div class="row g-5 justify-content-center">
                     <div class="col-lg-4 col-md-6 col-sm-6 col-12">
                         <div class="variation-01 rbt-hover">
                             <div class="rbt-card-img">
@@ -1176,7 +1176,7 @@
         <!-- Start Support Area  -->
         <div class="rbt-support-area rbt-section-gap">
             <div class="container">
-                <div  class="row g-5">
+                <div  class="row g-5 justify-content-center">
                     <!-- Start Splash Service  -->
                     <div class="col-lg-4 col-md-6 col-sm-12 col-12">
                         <div class="rbt-splash-service no-translate h-100">
