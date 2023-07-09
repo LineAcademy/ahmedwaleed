@@ -272,7 +272,7 @@
                                 loading="lazy" 
                                 fit="cover"
                                 provider="cloudinary" 
-								src="logo_en_1_qlmufk"
+								src="logo_en_2_gexgxm"
 								alt="logo of Ahmed Waleed website - the largest website for learning web development in Egypt - the best web developer in Egypt" />
                                 </NuxtLink>
                             </div>
