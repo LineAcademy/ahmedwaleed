@@ -32,7 +32,7 @@
                           <div dir="rtl" class="row g-5 mt-2">
                             <template
 							v-for="(p, i) in blog.videos"
-							:key="`product-${i}-${p.id}`"
+							:key="`video-${i}`"
 						>
 						<div class="col-lg-4 col-md-6 col-sm-6 col-12">
 							<div class="rbt-cat-box rbt-cat-box-1 variation-3 text-center">
@@ -69,12 +69,12 @@
           transform: scale(1.2);
         }
       </style>
-      <a href='https://www.youtube.com/embed/${p.video}?autoplay=1'>
-        <img src='https://img.youtube.com/vi/${p.video}/hqdefault.jpg' alt='Coffee Recipe Javascript Project'>
+      <a href='https://www.youtube.com/embed/${p}?autoplay=1'>
+        <img src='https://img.youtube.com/vi/${p}/hqdefault.jpg' alt='Coffee Recipe Javascript Project'>
         <svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 24 24' fill='none' stroke='#ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-play-circle'><circle cx='12' cy='12' r='10'></circle><polygon points='10 8 16 12 10 16 10 8'></polygon></svg>
       </a>
       `"
-      :src="`https://www.youtube.com/embed/${p.video}`" 
+      :src="`https://www.youtube.com/embed/${p}`" 
       :title="`${p.title}`"
       frameborder="0"
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
