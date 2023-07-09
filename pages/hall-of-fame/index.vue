@@ -12,7 +12,7 @@
                                 loading="lazy" 
                                 fit="cover" 
                                 provider="cloudinary" 
-                                src="6_fev0d9.webp"
+                                src="5_zucjq6.webp"
                                 alt="اراء الناس في احمد وليد برمجة المواقع - ساعد تتساعد"
                             />
                         </div>
