@@ -12,7 +12,7 @@
                                 loading="lazy" 
                                 fit="cover" 
                                 provider="cloudinary" 
-                                src="8_guylb7"
+                                src="7_l8igi7"
                                 alt="projects and competitions by ahmed waleed learn coding easy - best web developer in egypt"
                             />
                         </div>
