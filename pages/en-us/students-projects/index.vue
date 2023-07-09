@@ -19,16 +19,17 @@
                     </div>
                     <!-- End Dashboard Top  -->
 
-                    <div class="rbt-team-area rbt-section-gapBottom">
+                                        <div class="rbt-team-area rbt-section-gapBottom">
         <div class="container">
             <div class="row mb--60">
                 <div class="col-lg-12">
                                     <div class="section-title text-center">
-                                        <h2 class="title">Videos</h2>
+                                        <h2 class="title"> MY Family Videos Web Projects </h2>
                                     </div>
                                 </div>
             </div>
-            <div dir="rtl" class="row row--15 mt_dec--30">
+
+            <div class="row mt--50">
                 <template
 							v-for="(p, i) in pro"
 							:key="`product-${i}-${p.id}`"
@@ -87,6 +88,293 @@
 						</div>
 						</template>
             </div>
+
+            <div class="row mb-4 mt-4">
+                <div class="col-lg-12">
+                                    <div class="section-title text-center">
+                                        <h2 class="title"> MY Family Live Web Projects </h2>
+                                    </div>
+                                </div>
+            </div>
+
+            <div dir="rtl" class="row">
+                        <!-- Start Single Demo  -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="single-demo">
+                              <div class="content">
+                                        <h3 class="title"> Ahmed Takeshi</h3>
+                                        <h3 class="title">tourism and hotels company<span class="label-new">React,UI,Api</span></h3>
+                                    </div>
+                                <a target="_blank" class="single-demo-link" href="https://wanderly.vercel.app/">
+                                    <div class="thumbnail">
+                                      <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="wanderly_bjlgfy" 
+                                alt=" مشروع احمد تاكيشي ويب سايت سياحة وفنادق - مع احمد وليد جروب برمجة المواقع " />
+                                        <div class="mobile-view">
+                                            <div class="inner">
+                                              <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="mobile-wanderly_iazkmp" 
+                                alt=" مشروع احمد تاكيشي ويب سايت مشاهدة من الموبايل سياحة وفنادق - مع احمد وليد جروب برمجة المواقع " />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- End Single Demo  -->
+
+                        <!-- Start Single Demo  -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="single-demo">
+                              <div class="content">
+                                        <h3 class="title">Maha Gaber</h3>
+                                        <h3 class="title"> One page Fintech Company <span class="label-new">HTML,CSS,JS</span></h3>
+                                    </div>
+                                <a target="_blank" class="single-demo-link" href="https://maha4gaber.github.io/fintech/">
+                                    <div class="thumbnail">
+                                      <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="finetech1_poslrv" 
+                                alt=" مشروع مها جابر ويب سايت صفحة لشركة Fintech - مع احمد وليد جروب برمجة المواقع " />
+                                        <div class="mobile-view">
+                                            <div class="inner">
+                                              <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="mobile-finetech1_aarifx" 
+                                alt=" مشروع مها جابر ويب سايت من الموبايل صفحة لشركة Fintech - مع احمد وليد جروب برمجة المواقع " />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- End Single Demo  -->
+
+                        <!-- Start Single Demo  -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="single-demo">
+                              <div class="content">
+                                        <h3 class="title"> Mohamed Salah </h3>
+                                        <h3 class="title"> One page marketing company <span class="label-new">HTML,CSS,JS</span></h3>
+                                    </div>
+                                <a target="_blank" class="single-demo-link" href="https://mohamedshalaash.github.io/Bemax-edit/">
+                                    <div class="thumbnail">
+                                      <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="bemax1_nsfvsw" 
+                                alt=" مشروع محمد صلاح ويب سايت لشركة ماركتينج - مع احمد وليد جروب برمجة المواقع " />
+                                        <div class="mobile-view">
+                                            <div class="inner">
+                                              <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="mobile-bemax1_tr1mdj" 
+                                alt=" مشروع محمد صلاح ويب سايت موبايل ريسبونسيف لشركة ماركتينج - مع احمد وليد جروب برمجة المواقع " />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- End Single Demo  -->
+                        <!-- Start Single Demo  -->
+                        <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="single-demo">
+                              <div class="content">
+                                        <h3 class="title"> Mustafa Ahmad</h3>
+                                        <h3 class="title"> YouTube videos <span class="label-new">HTML,CSS,JS</span></h3>
+                                    </div>
+                                <a target="_blank" class="single-demo-link" href="https://mostafaahmed3.github.io/Youtube-clone/">
+                                    <div class="thumbnail">
+                                      <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="yt_pcip05" 
+                                alt=" مشروع مصطفي أحمد ويب سايت صفحة واحدة فديوهات يوتيوب - مع احمد وليد جروب برمجة المواقع " />
+                                        <div class="mobile-view">
+                                            <div class="inner">
+                                              <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="mobile-yt_timxrv" 
+                                alt=" مشروع مصطفي أحمد ويب سايت موبايل ريسبونسيف صفحة واحدة فديوهات يوتيوب - مع احمد وليد جروب برمجة المواقع " />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- End Single Demo  -->
+
+                                                <!-- Start Single Demo  -->
+                                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="single-demo">
+                              <div class="content">
+                                        <h3 class="title">Abdalhalim</h3>
+                                        <h3 class="title">  furniture store <span class="label-new">HTML,CSS,JS</span></h3>
+                                    </div>
+                                <a target="_blank" class="single-demo-link" href="https://abdelhaleem1.github.io/Rocker-Funiture-Store/">
+                                    <div class="thumbnail">
+                                      <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="rocker_vbv7mu" 
+                                alt=" مشروع عبدالحليم صفحة ويب سايت واحدة متجر بيع أثاث - مع احمد وليد جروب برمجة المواقع " />
+                                        <div class="mobile-view">
+                                            <div class="inner">
+                                              <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="mobile-rocker_mbhxcn" 
+                                alt=" مشروع عبدالحليم صفحة ويب سايت موبايل ريسبونسيف واحدة متجر بيع أثاث - مع احمد وليد جروب برمجة المواقع " />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- End Single Demo  -->
+
+                                                <!-- Start Single Demo  -->
+                                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="single-demo">
+                              <div class="content">
+                                        <h3 class="title">Mohammed</h3>
+                                        <h3 class="title"> One Page company <span class="label-new">HTML,CSS,JS</span></h3>
+                                    </div>
+                                <a target="_blank" class="single-demo-link" href="https://mohamed20297.github.io/repo3/">
+                                    <div class="thumbnail">
+                                      <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="start_q2ou2u" 
+                                alt=" مشروع محمد صفحة ويب سايت واحدة لشركة - مع احمد وليد جروب برمجة المواقع " />
+                                        <div class="mobile-view">
+                                            <div class="inner">
+                                              <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="mobile-start_hksyik" 
+                                alt=" مشروع محمد صفحة ويب سايت موبايل ريسبونسيف واحدة لشركة - مع احمد وليد جروب برمجة المواقع " />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- End Single Demo  -->
+
+                                                <!-- Start Single Demo  -->
+                                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="single-demo">
+                              <div class="content">
+                                        <h3 class="title"> Mohammed Saeed </h3>
+                                        <h3 class="title">  One page for Baymax <span class="label-new">HTML,CSS,JS</span></h3>
+                                    </div>
+                                <a target="_blank" class="single-demo-link" href="https://mahmoudsaeed-source.github.io/DesignBeMax/">
+                                    <div class="thumbnail">
+                                      <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="bemaxo_yh75tn" 
+                                alt=" مشروع محمد سعيد صفحة ويب سايت واحدة لشركة بيماكس - مع احمد وليد جروب برمجة المواقع " />
+                                        <div class="mobile-view">
+                                            <div class="inner">
+                                              <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="mobile-bemaxo_sz83o3" 
+                                alt=" مشروع محمد سعيد صفحة ويب سايت موبايل ريسبونسيف واحدة لشركة بيماكس - مع احمد وليد جروب برمجة المواقع " />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- End Single Demo  -->
+                                                <!-- Start Single Demo  -->
+                                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="single-demo">
+                              <div class="content">
+                                        <h3 class="title"> Maha Gaber </h3>
+                                        <h3 class="title"> One page Responsive <span class="label-new">HTML,CSS,JS</span></h3>
+                                    </div>
+                                <a target="_blank" class="single-demo-link" href="https://maha4gaber.github.io/bondi/">
+                                    <div class="thumbnail">
+                                      <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="bondi_xxvysb" 
+                                alt=" مشروع مها جابر صفحة ويب سايت واحدة لشركة مناسب للشاشات - مع احمد وليد جروب برمجة المواقع " />
+                                        <div class="mobile-view">
+                                            <div class="inner">
+                                              <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="mobile-bondi_t56pry" 
+                                alt=" مشروع مها جابر صفحة ويب سايت واحدة لشركة مناسب للشاشات - مع احمد وليد جروب برمجة المواقع " />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- End Single Demo  -->
+                                                <!-- Start Single Demo  -->
+                                                <div class="col-lg-4 col-md-6 col-sm-6 col-12">
+                            <div class="single-demo">
+                              <div class="content">
+                                        <h3 class="title">Abdalhalim</h3>
+                                        <h3 class="title"> marketing agency <span class="label-new">HTML,CSS,JS</span></h3>
+                                    </div>
+                                <a target="_blank" class="single-demo-link" href="https://abdelhaleem1.github.io/Agency-Start-Bootstrap-Theme/">
+                                    <div class="thumbnail">
+                                      <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="agency_hhqe5f" 
+                                alt=" مشروع عبدالحليم صفحة ويب سايت واحدة لوكالة تسويق - مع احمد وليد جروب برمجة المواقع " />
+                                        <div class="mobile-view">
+                                            <div class="inner">
+                                              <nuxt-img
+                                loading="lazy" 
+                                fit="cover"
+                                provider="cloudinary" 
+								src="mobile-agency_drtykv" 
+                                alt=" مشروع عبدالحليم صفحة ويب سايت موبايل ريسبونسيف واحدة لوكالة تسويق - مع احمد وليد جروب برمجة المواقع " />
+                                            </div>
+                                        </div>
+                                    </div>
+                                </a>
+                            </div>
+                        </div>
+                        <!-- End Single Demo  -->
+</div>
+
         </div>
     </div>
                 </div>
@@ -97,6 +385,11 @@
     </div>
 </template>
 
+<style scoped>
+.single-demo .content {
+    margin-top: 25px;
+}
+</style>
 <script setup>
 
 
