@@ -12,7 +12,7 @@
                                 loading="lazy" 
                                 fit="cover" 
                                 provider="cloudinary" 
-                                src="10_an9jxl.webp"
+                                src="9_zoz2x2.webp"
                                 alt="بانر صفحة حكايات برمجة مؤثرة لناس اشتغلت في البرمجة في شركات كبيرة ومتوسطة وكمان حكايات غير كدا كتير مع احمد برمجة المواقع"
                             />
                             <!-- <img src="/assets/images/كورس بناء موقع جونيور.png" alt=""> -->
