@@ -16,7 +16,7 @@
                         loading="lazy" 
                         fit="cover"
                         provider="cloudinary" 
-                        src="logo_2_d8qsqv"
+                        src="logo_ar_yp2jlw"
                         alt="لوجو موقع احمد وليد أكبر موقع لتعلم برمجة المواقع في مصر - افضل مبرمج مواقع في مصر" />
                         </NuxtLink>
                     </div>
@@ -146,7 +146,7 @@
                         loading="lazy" 
                         fit="cover"
                         provider="cloudinary" 
-                        src="logo_2_d8qsqv"
+                        src="logo_ar_yp2jlw"
                         alt="لوجو موقع احمد وليد أكبر موقع لتعلم برمجة المواقع في مصر - افضل مبرمج مواقع في مصر" />
                         </a>
             </div>
@@ -402,7 +402,7 @@
                                 loading="lazy" 
                                 fit="cover"
                                 provider="cloudinary" 
-								src="logo_en_1_qlmufk"
+								src="logo_en_2_gexgxm"
 								alt="learn web development , javascript , typescript, react with Ahmed Waleed website - the largest website for learning web development in Egypt - the best web developer in Egypt" />
                                 </a>
                     </div>
