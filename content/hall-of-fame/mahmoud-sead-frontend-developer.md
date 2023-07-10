@@ -20,11 +20,11 @@ subImage: sub_mahmoud_mquekd
 
 ***بعض م﻿شاريع محمود مع الجروب :***
 
-<a target="_blank"  href="https://mahmoudsaeed-source.github.io/DesignBeMax/" class="rbt-btn btn-gradient hover-icon-reverse"><span class="icon-reverse-wrapper"><span>مشروع بيماكس</span></span></a>
+<a target="_blank"  href="https://mahmoudsaeed-source.github.io/DesignBeMax/" class="rbt-btn btn-gradient hover-icon-reverse"><span class="icon-reverse-wrapper"><span style="color: white; ">مشروع بيماكس</span></span></a>
 
 ![مشروع بيماكس لمحمود سعيد في جروب برمجة رياكت ويبسايت - احمد وليد تصميم المواقع](https://res.cloudinary.com/drcfigqqr/image/upload/v1689014146/demo-bemax-design_a0lu80.webp "مشروع بيماكس لمحمود")
 
-<a target="_blank"  href="https://mahmoudsaeed-source.github.io/MITCHA/" class="rbt-btn btn-gradient hover-icon-reverse"><span class="icon-reverse-wrapper"><span>مشروع ميتشا</span></span></a>
+<a target="_blank"  href="https://mahmoudsaeed-source.github.io/MITCHA/" class="rbt-btn btn-gradient hover-icon-reverse"><span class="icon-reverse-wrapper"><span style="color: white; ">مشروع ميتشا</span></span></a>
 
 ![مشروع بيماكس لمحمود سعيد في جروب برمجة رياكت ويبسايت - احمد وليد تصميم المواقع](https://res.cloudinary.com/drcfigqqr/image/upload/v1689014146/demo-mitcha_fgbdjy.webp "مشروع بيماكس لمحمود")
 
