@@ -89,8 +89,10 @@
                         </li>
 
                         <li class="has-menu-child-item">
-                            <NuxtLink to="/blog"> المدونة
+                            <NuxtLink v-else="route.href === '/courses'" to="/blog"> المدونة
                             </NuxtLink>
+				<a v-if="route.href === '/courses'" href="/blog"> المدونة
+                                    </a>
                         </li>
 
                         <li class="has-menu-child-item">
