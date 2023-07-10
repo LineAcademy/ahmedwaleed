@@ -21,9 +21,9 @@
                                     <nuxtLink to="/courses" class="rbt-btn" style="margin-left: 10px;" href="#">
                                         كورسات مسجِّلة
                                     </nuxtLink>
-                                    <a target="_blank" class="rbt-btn" href="https://lineitsolutions.com">
-                                        خدمات شركتي
-                                    </a>
+                                    <nuxtLink class="rbt-btn" to="/students-projects">
+                                        المشاريع والمسابقات
+                                    </nuxtLink>
                                 </div>
                             </div>
                             <div class="shape-wrapper" id="scene">
@@ -50,11 +50,11 @@
                     </nuxtLink>
                 </div>
                 <div dir="rtl" class="rbt-card-body">
-                    <h4 class="rbt-card-title"><nuxtLink to="/courses/javascript-before-react"> كورس مودرن جافاسكريبت ما قبل React JS</nuxtLink>
+                    <h4 class="rbt-card-title"><nuxtLink to="/courses/what-do-you-learn-in-javascript-before-libraries-frameworks-2"> كورس مودرن جافاسكريبت ما قبل React JS</nuxtLink>
                     </h4>
                     <p class="rbt-card-text">في الكورس هنتعرف علي أهم الحاجات الي تذاكرها في مودرن جافاسكريبت قبل رياكت</p>
                     <div class="rbt-card-bottom">
-                        <nuxtLink to="/courses/javascript-before-react" class="rbt-btn"> شوف فديوهات الكورس </nuxtLink>
+                        <nuxtLink to="/courses/what-do-you-learn-in-javascript-before-libraries-frameworks-2" class="rbt-btn"> شوف فديوهات الكورس </nuxtLink>
                     </div>
                 </div>
             </div>
