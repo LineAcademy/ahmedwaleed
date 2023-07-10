@@ -1,4 +1,4 @@
-<template lang="">
+<template>
     <div>
 
 <!-- Header Arabic Section -->
@@ -50,7 +50,12 @@
                                                 <li><NuxtLink to="/courses/javascript-projects">مشاريع جافاسكريبت للمبتدئين</NuxtLink></li>
                                                 <li><NuxtLink to="/courses/upload-site-to-github">رفع المشروع علي جيتهب</NuxtLink></li>
                                                 <li><NuxtLink to="/courses/upload-site-to-netlify">رفع المشروع علي نيتفلاي</NuxtLink></li>
-                                                <li><NuxtLink class="rbt-btn hover-icon-reverse" to="/courses">كل الكورسات</NuxtLink></li>
+                                                <li>
+							<a v-if="route.href === '/blog'" class="rbt-btn hover-icon-reverse" href="/courses"> كل الكورسات
+			                                </a>
+			                            <NuxtLink v-else="route.href === '/blog'" class="rbt-btn hover-icon-reverse" to="/courses"> كل الكورسات
+			                            </NuxtLink>
+						</li>
                                             </ul>
                                         </div>
 
@@ -93,7 +98,6 @@
                                     </a>
                             <NuxtLink v-else="route.href === '/courses'" to="/blog"> المدونة
                             </NuxtLink>
-				
                         </li>
 
                         <li class="has-menu-child-item">
@@ -309,7 +313,12 @@
                                                         <li><NuxtLink to="/en-us/courses/javascript-projects"> JavaScript Beginner Projects </NuxtLink></li>
                                                         <li><NuxtLink to="/en-us/courses/upload-site-to-github"> Deploy On Github </NuxtLink></li>
                                                         <li><NuxtLink to="/en-us/courses/upload-site-to-netlify"> Deploy On Vercel </NuxtLink></li>
-                                                        <li><NuxtLink class="rbt-btn hover-icon-reverse" to="/en-us/courses">All Videos</NuxtLink></li>
+                                                        <li>
+								<a v-if="route.href === '/en-us/blog'" class="rbt-btn hover-icon-reverse" href="/en-us/courses"> All Courses
+								</a>
+							    <NuxtLink v-else="route.href === '/en-us/blog'" class="rbt-btn hover-icon-reverse" to="/en-us/courses"> All Courses
+							    </NuxtLink>
+							</li>
                                                     </ul>
                                                 </div>
 
