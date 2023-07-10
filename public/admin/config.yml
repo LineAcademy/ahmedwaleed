@@ -355,5 +355,5 @@ collections:
           widget: 'list',
           required: true,
           summary: '{{fields.video}}',
-          field: {label: Video, name: video, widget: string, default: "UjBqYWMymY8"}
+          fields: [{label: Video, name: video, widget: string, default: "UjBqYWMymY8"},{ label: 'Title', name: 'title', widget: 'string'}]
         }
