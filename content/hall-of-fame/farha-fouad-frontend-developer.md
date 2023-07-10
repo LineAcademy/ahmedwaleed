@@ -9,8 +9,6 @@ description: ثانك يو عايزة اقولك بجد ان انا حبيت ك�
 image: farha_fouad
 subImage: sub_farha_rsojr0
 ---
-<﻿a target="_blank" href="https://www.takeshy.works">www.takeshy.works</a>
-
 <p style="
     margin: 0;
 ">تابع فرحة :</p>
