@@ -9,6 +9,8 @@ description: ...على الرغنم من اني عملت انترفيوهات ك
 image: hosam-salah-frontend
 subImage: sub-hosam-salah.webp
 ---
+[![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png ":octocat:")Github](https://github.com/hosam8081?tab=repositories) / [👔 LinkedIn](https://www.linkedin.com/in/hosam8081/)
+
 عملت انترفيو مع احمد النهارده 🔥
 
 على الرغنم من اني عملت انترفيوهات كتير جدا واني بعمل انترفيوهات اصلا عندنا في الشركة 😅
