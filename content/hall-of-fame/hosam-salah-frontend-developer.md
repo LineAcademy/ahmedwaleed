@@ -10,7 +10,6 @@ image: hosam-salah-frontend
 subImage: sub-hosam-salah.webp
 ---
 [![:octocat:](https://github.githubassets.com/images/icons/emoji/octocat.png ":octocat:")Github](https://github.com/hosam8081?tab=repositories)
-
  [👔 LinkedIn](https://www.linkedin.com/in/hosam8081/)
 
 عملت انترفيو مع احمد النهارده 🔥
