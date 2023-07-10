@@ -4,7 +4,7 @@ createdAt: 2023-07-09
 slug: what-do-you-learn-in-javascript-before-libraries-frameworks
 title: ماذا تتعلم في جافاسكريبت قبل أي إطار عمل
 image: js-before_ide7vx
-subImage: sub_js_before_reactt_g3o2eg
+subImage: sub_js_before_reactt_1_vtllec
 id: 1
 description: ماذا اتعلم في جافاسكريبت قبل رياكت او اي اطار عمل - احمد وليد
   وجافاسكريبت - Modern Javascript - Var -Let - Const - Arrow Function - Spread
