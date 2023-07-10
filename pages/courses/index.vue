@@ -149,10 +149,6 @@
 		}
 	});
 
-	const formatDate = (dateString) => {
-      const date = new Date(dateString)
-      return date.toLocaleDateString(process.env.lang) || ''
-    }
 
 	// function used to filter the products by category
 	const filterProducts = computed(() => {
