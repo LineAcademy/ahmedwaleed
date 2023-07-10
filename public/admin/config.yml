@@ -169,7 +169,6 @@ collections:
             { label: 'Mentoring', value: 'mentoring' }
           ],
         }
-      - { label: 'Created Date', name: 'createdAt', widget: 'datetime', format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
       - { label: 'Slug', name: 'slug', widget: 'string', required: true }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - { label: 'Image', name: 'image', widget: 'string', required: true }
@@ -341,7 +340,6 @@ collections:
             { label: 'Mentoring', value: 'mentoring' }
           ],
         }
-      - { label: 'Created Date', name: 'createdAt', widget: 'datetime', format: "YYYY-MM-DD", date_format: "YYYY-MM-DD", time_format: false }
       - { label: 'Slug', name: 'slug', widget: 'string', required: true }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - { label: 'Image', name: 'image', widget: 'string', required: true }
