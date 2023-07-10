@@ -9,7 +9,7 @@ description: أنا متشكر جدا الانترفيو الرائع ده وأ�
 image: ahmed_frontedn
 subImage: sub_ahmed_1_cnnx32
 ---
-<a target="_blank"  href="https://www.takeshy.works" class="rbt-btn btn-gradient hover-icon-reverse"><span class="icon-reverse-wrapper"><span style="color: white; ">www.takeshy.works</span></span></a>
+<a target="_blank"  href="https://www.takeshy.works" class="rbt-btn btn-gradient hover-icon-reverse"><span class="icon-reverse-wrapper"><span style="color: white; ">takeshy.works</span></span></a>
 
 <p style="
     margin: 0;
