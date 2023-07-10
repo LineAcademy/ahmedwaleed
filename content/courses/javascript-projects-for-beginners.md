@@ -1,6 +1,5 @@
 ---
 category: javascript
-createdAt: 2023-07-10
 slug: javascript-projects-for-beginners
 title: كورس تطبيقات جافاسكريبت للمبتدئين
 image: course-js-pro_aeiqqv
