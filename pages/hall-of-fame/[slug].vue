@@ -52,7 +52,7 @@
                             <div class="rbt-dashboard-content">
                                 <div class="content">
                                     <div class="section-title">
-                                        <h4 class="rbt-title-style-3">Order History</h4>
+                                        <h4 class="rbt-title-style-3">وَأَنْ لَيْسَ لِلإِنسَانِ إِلَّا مَا سَعَى ۝ وَأَنَّ سَعْيَهُ سَوْفَ يُرَى</h4>
                                     </div>
 
                                     <div class="rbt-dashboard-table table-responsive mobile-table-750">
