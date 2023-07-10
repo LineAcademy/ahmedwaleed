@@ -1,6 +1,5 @@
 ---
 category: react
-createdAt: 2023-07-10
 slug: react
 title: دورة اساسيات مكتبة رياكت
 image: course-react_1_jkrag4
