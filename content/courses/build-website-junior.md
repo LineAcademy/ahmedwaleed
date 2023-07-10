@@ -32,3 +32,18 @@ videos:
     title: بناء موقع جونيور - ازاي بنشتغل في ال Community وايه هيا تاسكات الجروبس
       عشان تنضم أخر فديو,
 ---
+> ###### ه﻿تستفاد ايه من الدورة ؟
+
+1﻿- هتتعلم ازاي تبدء في كتابة كود كلين وتنظيم الملفات
+
+2﻿- هتتعلم افضل طريقة لكتابة بعض الدوال في جافاسكريبت
+
+3﻿- هتعمل الويب سايت باكتر من لون
+
+4﻿- Crud With Pure Using JavaScript
+
+5﻿- Drag & Drop Using JavaScript
+
+6﻿- Convert Voice To Text Using JavaScript
+
+7﻿- Search & Cart Logic Using JavaScript
