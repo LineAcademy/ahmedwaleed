@@ -5,7 +5,7 @@ name: محمود سعيد
 title: Front-End Developer
 description: رأئ محمود سعيد في احمد وليد ك مدرب برمجة مواقع في مصر - محمود سعيد
   فروند اند ديفيلوبر مبرمج مواقع مجتهد
-image: mahmoud-sead-frontend
+image: mahmoud-sead-frontend-developer
 subImage: sub_mahmoud_mquekd
 ---
 <p style="
