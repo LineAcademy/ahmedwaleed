@@ -16,3 +16,4 @@ videos:
     title: "[ كيف ترفع المشروع html css js علي جيت هب] How To Upload Project Html In
       Github & get Link to Share - تعلم البرمجة مع احمد وليد"
 ---
+ه﻿تتعلم في الدورة دي رفع مشاريعك علي hosting مختلفة
