@@ -1,6 +1,5 @@
 ---
 category: front-end
-createdAt: 2023-07-10
 slug: build-website-junior
 title: ابني معي موقع جونيور HTML,CSS,JS
 image: course-junior_laapr8
