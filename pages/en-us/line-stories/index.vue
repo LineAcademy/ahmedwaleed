@@ -69,7 +69,7 @@
         }
       </style>
       <a href='https://www.youtube.com/embed/${p.video}?autoplay=1'>
-        <img src='https://img.youtube.com/vi/${p.video}/hqdefault.jpg' alt='Coffee Recipe Javascript Project'>
+        <img src='https://img.youtube.com/vi/${p.video}/hqdefault.jpg' alt='${p.title}'>
         <svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 24 24' fill='none' stroke='#ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-play-circle'><circle cx='12' cy='12' r='10'></circle><polygon points='10 8 16 12 10 16 10 8'></polygon></svg>
       </a>
       `"
