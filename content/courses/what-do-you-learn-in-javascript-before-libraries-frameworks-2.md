@@ -1,6 +1,5 @@
 ---
 category: javascript
-createdAt: 2023-07-09
 slug: what-do-you-learn-in-javascript-before-libraries-frameworks
 title: ماذا تتعلم في جافاسكريبت قبل أي إطار عمل
 image: js-before_ide7vx
