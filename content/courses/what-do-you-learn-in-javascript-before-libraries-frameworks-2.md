@@ -26,3 +26,22 @@ videos:
     title: تعلم Promise,  Async, Await JavaScript - باحترافية مع احمد وليد وبرمجة
       المواقع
 ---
+> ه﻿تتعلم جافا سكريبت المتقدمة الدورة دي لازم تشوفها قبل react او اي اطار عمل 
+
+1- Var & Let & Const
+
+2- Arrow Function () =>
+
+3﻿- Spread Operator & Destruction
+
+4﻿- New IF Condition ? true : else
+
+# New If Condition
+
+<!--EndFragment-->
+
+5﻿- Map, ForEach, Filter, Reduce
+
+6﻿- Callback, fetch, promise, async & await
+
+7﻿- Web Components Artucture & LifeCycle Methodes & Shadow Root
