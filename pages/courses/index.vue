@@ -79,12 +79,6 @@
 								/> 
                         </div>
                 <div class="rbt-card-body">
-                  <ul class="meta-list justify-content-start mb-4">
-                    <li class="list-item">
-                      <i class="feather-clock"></i>
-                      <span>{{ formatDate( p.createdAt ) }}</span>
-                    </li>
-                  </ul>
                   <h4 class="rbt-card-title"><a :href="`${p._path}`">{{ p.title }}</a></h4>
                   <div class="rbt-card-bottom mt-4">
                     <a class="transparent-button" :href="`${p._path}`"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> 
