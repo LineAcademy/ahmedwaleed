@@ -27,14 +27,14 @@
                 <nav class="mainmenu-nav">
                     <ul class="mainmenu">
                         <li class="with-megamenu has-menu-child-item position-static">
-                            <NuxtLink to="/courses/">الكورسات <i class="feather-chevron-down"></i></NuxtLink>
+                            <NuxtLink to="/courses">الكورسات <i class="feather-chevron-down"></i></NuxtLink>
                             <!-- Start Mega Menu  -->
                             <div class="rbt-megamenu grid-item-3">
                                 <div class="wrapper">
                                     <div class="row row--15">
                                         <div class="col-lg-12 col-xl-3 col-xxl-4 single-mega-item">
                                             <div class="rbt-ads-wrapper">
-                                                <a class="d-block" href="/courses/"><nuxt-img
+                                                <a class="d-block" href="/courses"><nuxt-img
                         loading="lazy" 
                         fit="cover"
                         provider="cloudinary" 
@@ -286,14 +286,14 @@
                         <nav class="mainmenu-nav">
                             <ul class="mainmenu">
                                 <li class="with-megamenu has-menu-child-item position-static">
-                                    <NuxtLink to="/en-us/courses/">Courses <i class="feather-chevron-down"></i></NuxtLink>
+                                    <NuxtLink to="/en-us/courses">Courses <i class="feather-chevron-down"></i></NuxtLink>
                                     <!-- Start Mega Menu  -->
                                     <div class="rbt-megamenu grid-item-3">
                                         <div class="wrapper">
                                             <div class="row row--15">
                                                 <div class="col-lg-12 col-xl-3 col-xxl-4 single-mega-item">
                                                     <div class="rbt-ads-wrapper">
-                                                        <a class="d-block" href="/en-us/courses/"><nuxt-img
+                                                        <a class="d-block" href="/en-us/courses"><nuxt-img
                                 loading="lazy" 
                                 fit="cover"
                                 provider="cloudinary" 
@@ -348,8 +348,10 @@
                                 </li>
 
                                 <li class="has-menu-child-item">
-                                    <NuxtLink to="/en-us/blog"> Blog
-                                    </NuxtLink>
+					<a v-if="route.href === '/en-us/courses'" href="/en-us/blog"> Blog
+                                    </a>
+                            <NuxtLink v-else="route.href === '/en-us/courses'" to="/en-us/blog"> Blog
+                            </NuxtLink>
                                 </li>
 
                                 <li class="has-menu-child-item">
