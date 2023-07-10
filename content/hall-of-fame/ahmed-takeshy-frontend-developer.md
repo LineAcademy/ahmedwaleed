@@ -22,6 +22,6 @@ subImage: sub_ahmed_1_cnnx32
 
 ***بعض م﻿شاريع محمود مع الجروب :***
 
-<a target="_blank"  href="https://wanderly.vercel.app/" class="rbt-btn btn-gradient hover-icon-reverse"><span class="icon-reverse-wrapper"><span>مشروع وندرلي</span></span></a>
+<a target="_blank"  href="https://wanderly.vercel.app/" class="rbt-btn btn-gradient hover-icon-reverse"><span class="icon-reverse-wrapper"><span>مشروع وندرلي</span style="color: white; "></span></a>
 
 ![مشروع وندرلي لأحمد تاكيشي ويب ديفولبر في جروب برمجة رياكت ويبسايت - احمد وليد تصميم المواقع](https://res.cloudinary.com/drcfigqqr/image/upload/v1689014146/demo-wender_hsxow5.webp "مشروع وندرلي لأحمد تاكيشي ويب ديفولبر")
