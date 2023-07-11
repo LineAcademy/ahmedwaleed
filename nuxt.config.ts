@@ -23,7 +23,7 @@ export default defineNuxtConfig({
           { name: 'og:type', content: 'website' },
           { name: 'og:image', content: 'https://res.cloudinary.com/drcfigqqr/image/upload/v1687822265/logo_2_d8qsqv.png' },
           { name: 'twitter:card', content: 'summary_large_image' },
-          { name: 'twitter:image:src', content: '/assets/images/logoo.png' },
+          { name: 'twitter:image:src', content: 'https://res.cloudinary.com/drcfigqqr/image/upload/v1687822265/logo_2_d8qsqv.png' },
           { name: 'distribution', content: 'global' },
           { name: 'classification', content: 'index, follow' },
           { name: 'owner', content: 'https://ahmed.lineitsolutions.com' },
