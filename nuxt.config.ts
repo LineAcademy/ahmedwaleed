@@ -21,7 +21,7 @@ export default defineNuxtConfig({
           { name: 'robots', content: 'max-snippet:-1, max-image-preview:large, max-video-preview:-1' },
           { name: 'robots', content: 'index, follow' },
           { name: 'og:type', content: 'website' },
-          { name: 'og:image', content: '/assets/images/logoo.png' },
+          { name: 'og:image', content: 'https://res.cloudinary.com/drcfigqqr/image/upload/v1687822265/logo_2_d8qsqv.png' },
           { name: 'twitter:card', content: 'summary_large_image' },
           { name: 'twitter:image:src', content: '/assets/images/logoo.png' },
           { name: 'distribution', content: 'global' },
