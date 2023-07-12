@@ -118,7 +118,7 @@ allowfullscreen>
                     </h4>
                     <p class="rbt-card-text">مها شخص مجتهد عمل المشروع ب رياكت وريداكس لغتين وكمان دارك ووايت ثيم - فخور ب مها</p>
                     <div class="rbt-card-bottom">
-                        <nuxtLink to="/hall-of-fame/maha" class="rbt-btn"> شوف بروفايل مها </nuxtLink>
+                        <nuxtLink to="/hall-of-fame/maha-frontend-developer" class="rbt-btn"> شوف بروفايل مها </nuxtLink>
                     </div>
                 </div>
             </div>
@@ -598,9 +598,9 @@ allowfullscreen>
                                 alt="ماذا تتعلم في جافاسكريبت قبل رياكت - مقالة احمد وليد افضل مبرمج مواقع في مصر" /> </nuxtLink>
     </div>
     <div class="rbt-card-body">
-        <h5 class="rbt-card-title"><nuxtLink to="/blog/javascript-before-react">ماذا تتعلم في جافاسكريبت قبل رياكت...</nuxtLink></h5>
+        <h5 class="rbt-card-title"><nuxtLink to="/blog/learn-modern-js-before-react">ماذا تتعلم في جافاسكريبت قبل رياكت...</nuxtLink></h5>
         <div class="rbt-card-bottom">
-            <nuxtLink class="transparent-button" to="/blog/javascript-before-react"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> اقرء المقالة</nuxtLink>
+            <nuxtLink class="transparent-button" to="/blog/learn-modern-js-before-react"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> اقرء المقالة</nuxtLink>
         </div>
     </div>
 </div>
@@ -617,9 +617,9 @@ allowfullscreen>
 								src="02_home_blog"  alt="رياكت انتي باترن وماذا تتعلم في سوفتوير اركتكشر في رياكت - مقالة احمد وليد افضل مبرمج مواقع في مصر"/> </nuxtLink>
     </div>
     <div class="rbt-card-body">
-        <h5 class="rbt-card-title"><nuxtLink to="/blog/javascript-before-react">امتة عرفت اتعمق في رياكت واعمل اركتكشر ليه علاقة بتغير لايف ستايل لرياكت...</nuxtLink></h5>
+        <h5 class="rbt-card-title"><nuxtLink to="/blog/react-software-architecture-pattern">امتة عرفت اتعمق في رياكت واعمل اركتكشر ليه علاقة بتغير لايف ستايل لرياكت...</nuxtLink></h5>
         <div class="rbt-card-bottom">
-            <nuxtLink class="transparent-button" to="/blog/javascript-before-react"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> اقرء المقالة</nuxtLink>
+            <nuxtLink class="transparent-button" to="/blog/react-software-architecture-pattern"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> اقرء المقالة</nuxtLink>
         </div>
     </div>
 </div>
@@ -636,9 +636,9 @@ allowfullscreen>
 								src="03_home_blog"  alt="ازاي مواقع الويب الثابتة رجعت في 2023 - مقالة احمد وليد افضل مبرمج مواقع في مصر"/> </nuxtLink>
     </div>
     <div class="rbt-card-body">
-        <h5 class="rbt-card-title"><nuxtLink to="/blog/javascript-before-react">ازاي مواقع الويب الثابتة رجعت في 2023...</nuxtLink></h5>
+        <h5 class="rbt-card-title"><nuxtLink to="/blog/static-sites-are-back-in-2023">ازاي مواقع الويب الثابتة رجعت في 2023...</nuxtLink></h5>
         <div class="rbt-card-bottom">
-            <nuxtLink class="transparent-button" to="/blog/javascript-before-react"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> اقرء المقالة</nuxtLink>
+            <nuxtLink class="transparent-button" to="/blog/static-sites-are-back-in-2023"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> اقرء المقالة</nuxtLink>
         </div>
     </div>
 </div>
@@ -658,9 +658,9 @@ allowfullscreen>
 								src="04_home_blog"  alt="ازاي تضيف cypress testing في مشروع رياكت 2023 - مقالة احمد وليد افضل مبرمج مواقع في مصر"/> </nuxtLink>
                             </div>
                             <div class="rbt-card-body">
-                                <h5 class="rbt-card-title"><nuxtLink to="/blog/javascript-before-react">ازاي تضيف cypress e2e test في مشروع رياكت</nuxtLink></h5>
+                                <h5 class="rbt-card-title"><nuxtLink to="/blog/add-cypress-to-react-js">ازاي تضيف cypress e2e test في مشروع رياكت</nuxtLink></h5>
                                 <div class="rbt-card-bottom">
-                                    <nuxtLink class="transparent-button" to="/blog/javascript-before-react"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> اقرء المقالة</nuxtLink>
+                                    <nuxtLink class="transparent-button" to="/blog/add-cypress-to-react-js"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> اقرء المقالة</nuxtLink>
                                 </div>
                             </div>
                         </div>
@@ -674,12 +674,12 @@ allowfullscreen>
                                 loading="lazy" 
                                 fit="cover"
                                 provider="cloudinary" 
-								src="05_home_blog"  alt="ازاي مواقع الويب الثابتة رجعت في 2023 - مقالة احمد وليد افضل مبرمج مواقع في مصر"/> </nuxtLink>
+								src="05_home_blog"  alt="افضل طريقة لأضافة فديوهات اليوتيوب في رياكت - lite youtube embed in react javascript"/> </nuxtLink>
                             </div>
                             <div class="rbt-card-body">
-                                <h5 class="rbt-card-title"><nuxtLink to="/blog/javascript-before-react">ازاي مواقع الويب الثابتة رجعت في 2023...</nuxtLink></h5>
+                                <h5 class="rbt-card-title"><nuxtLink to="/blog/react-lite-youtube-embeds">افضل طريقة لأضافة فديوهات اليوتيوب في رياكت</nuxtLink></h5>
                                  <div class="rbt-card-bottom">
-                                    <nuxtLink class="transparent-button" to="/blog/javascript-before-react"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> اقرء المقالة</nuxtLink>
+                                    <nuxtLink class="transparent-button" to="/blog/react-lite-youtube-embeds"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> اقرء المقالة</nuxtLink>
                                 </div>
                             </div>
                         </div>
@@ -696,9 +696,9 @@ allowfullscreen>
 								src="06_home_blog"  alt="ازاي تحسن اداء موقعك في nuxt js image 2023 - مقالة احمد وليد افضل مبرمج مواقع في مصر"/> </nuxtLink>
                             </div>
                             <div class="rbt-card-body">
-                                <h5 class="rbt-card-title"><nuxtLink to="/blog/javascript-before-react">ازاي تحسن اداء الويبسايت باستخدام Nuxt Image...</nuxtLink></h5>
+                                <h5 class="rbt-card-title"><nuxtLink to="/blog/nuxt-image-performance">ازاي تحسن اداء الويبسايت باستخدام Nuxt Image...</nuxtLink></h5>
                                  <div class="rbt-card-bottom">
-                                    <nuxtLink class="transparent-button" to="/blog/javascript-before-react"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> اقرء المقالة</nuxtLink>
+                                    <nuxtLink class="transparent-button" to="/blog/nuxt-image-performance"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> اقرء المقالة</nuxtLink>
                                 </div>
                             </div>
                         </div>
