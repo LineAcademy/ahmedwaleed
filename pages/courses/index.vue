@@ -17,11 +17,11 @@
                                 <li>
                                     <div class="icon-right"><i class="feather-chevron-left"></i></div>
                                 </li>
-                                <li class="rbt-breadcrumb-item active">كل المقالات</li>
+                                <li class="rbt-breadcrumb-item active">كل الكورسات</li>
                             </ul>
                             <!-- End Breadcrumb Area  -->
 
-                            <p class="description">مدونة تساعد مبرمجين المواقع والتطبيقات علي مواكبة السوق مع بعض خبرات سابقة وحالية</p>
+                            <p class="description"> احاول وأجتهد في تبسيط المعلومة في دورات مجانية </p>
 							<h1 class="lg:text-lg font-medium mb-5">
 						جميع الفئات
 						<button
