@@ -101,10 +101,8 @@
                         </li>
 
                         <li class="has-menu-child-item">
-                            <a v-if="route.href === '/'" href="/en-us"> EN
+                            <a href="/en-us"> EN
                                     </a>
-                                    <nuxtLink v-else="route.href === '/'" :to="`/en-us${route.href}`"> EN
-                                    </nuxtLink>
                         </li>
 
                     </ul>
@@ -234,12 +232,9 @@
 
     <div class="mobile-menu-bottom">
         <divt class="rbt-btn-wrapper mb--20">
-                                    <a v-if="route.href === '/'" href="/en-us" class="rbt-btn btn-border-gradient radius-round btn-sm hover-transform-none w-100 justify-content-center text-center" > 
+                                    <a href="/en-us" class="rbt-btn btn-border-gradient radius-round btn-sm hover-transform-none w-100 justify-content-center text-center" > 
                                         <span> اللغة الإنجليزية | English 🇬🇧</span>
                                     </a>
-                                    <nuxtLink v-else="route.href === '/'" :to="`/en-us${route.href}`" class="rbt-btn btn-border-gradient radius-round btn-sm hover-transform-none w-100 justify-content-center text-center" > 
-                                        <span> اللغة الإنجليزية | English 🇬🇧</span>
-                                    </nuxtLink>
         </divt>
 
         <div class="social-share-wrapper mt-4">
@@ -364,10 +359,8 @@
                                 </li>
 
                                 <li class="has-menu-child-item">
-                                    <a v-if="route.href === '/en-us'" href="/"> عربي
+                                    <a href="/"> عربي
                                     </a>
-                                    <nuxtLink v-else="route.href === '/en-us'" :to="`${route.href.replace('/en-us','')}`"> عربي
-                                    </nuxtLink>
                                 </li>
 
                             </ul>
@@ -497,12 +490,9 @@
 
             <div class="mobile-menu-bottom">
                 <divt class="rbt-btn-wrapper mb--20">
-                    <a v-if="route.href === '/en-us'" href="/" class="rbt-btn btn-border-gradient radius-round btn-sm hover-transform-none w-100 justify-content-center text-center"> 
+                    <a href="/" class="rbt-btn btn-border-gradient radius-round btn-sm hover-transform-none w-100 justify-content-center text-center"> 
                         <span> اللغة العربية | Arabic 🇪🇬</span>
                                     </a>
-                                    <nuxtLink v-else="route.href === '/en-us'" :to="`${route.href.replace('/en-us','')}`" class="rbt-btn btn-border-gradient radius-round btn-sm hover-transform-none w-100 justify-content-center text-center"> 
-                                        <span> اللغة العربية | Arabic 🇪🇬</span>
-                                    </nuxtLink>
                 </divt>
 
                 <div class="social-share-wrapper mt-4">
