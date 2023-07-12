@@ -13,35 +13,46 @@
 
                                         <div class="rbt-default-sidebar-wrapper">
                                             <div class="section-title mb--20">
-                                                <h6 class="rbt-title-style-2">مقالات ذات صلة</h6>
+                                                <h6 class="rbt-title-style-2"> React.JS & Next.JS </h6>
                                             </div>
                                             <nav class="mainmenu-nav">
                                                 <ul class="dashboard-mainmenu rbt-default-sidebar-list">
                                                     <li><nuxtLink to="/blog/add-cypress-to-react-js"><span> إزاي اضيف Cypress في React </span></nuxtLink></li>
-                                                    <li><nuxtLink to="/blog/nuxt-image-performance"><i style="margin-left: 10px;" class="feather-book-open"></i><span>تحسين الأداء باستخدام Nuxt-Image</span></nuxtLink></li>
-                                                    <li><nuxtLink to="/blog/static-sites-are-back-in-2023"><i style="margin-left: 10px;" class="feather-book-open"></i><span>المواقع الثابتة تعود في 2023</span></nuxtLink></li>
+                                                    <li><nuxtLink to="/blog/react-software-architecture-pattern"><span>ال Software Architecture (ssr, state, patterns) ل REACT.JS</span></nuxtLink></li>
+                                                    <li><nuxtLink to="/blog/react-lite-youtube-embeds"><span>افضل طريقة لاضافة YouTube iframe في React</span></nuxtLink></li>
                                                 </ul>
                                             </nav>
 
-						 <div class="section-title mt--40 mb--20">
-                                                <h6 class="rbt-title-style-2">كورسات مجانية</h6>
+						 <div class="section-title mt-4 mb--20">
+                                                <h6 class="rbt-title-style-2">JamStack</h6>
                                             </div>
                                             <nav class="mainmenu-nav">
                                                 <ul class="dashboard-mainmenu rbt-default-sidebar-list">
-                                                    <li><nuxtLink to="/courses/build-website-junior"><span> ابني معي موقع جونيور HTML,CSS,JS </span></nuxtLink></li>
-                                                    <li><nuxtLink to="/courses/what-do-you-learn-in-javascript-before-libraries-frameworks-2"><span>  ماذا تتعلم في جافاسكريبت قبل أي إطار عمل </span></nuxtLink></li>
+                                                    <li><nuxtLink to="/blog/static-sites-are-back-in-2023"><span> المواقع الثابتة تعود في 2023 </span></nuxtLink></li>
+                                                    <li><nuxtLink to="/blog/why-i-love-jamstack-1"><span>  ليه انا بحب JamStack </span></nuxtLink></li>
                                                 </ul>
                                             </nav>
 
-                                            <div class="section-title mt--40 mb--20">
-                                                <h6 class="rbt-title-style-2">  من قاعة الأَثَر  </h6>
+                                            <div class="section-title mt-4 mb--20">
+                                                <h6 class="rbt-title-style-2">  Nuxt.JS  </h6>
                                             </div>
 
                                             <nav class="mainmenu-nav">
                                                 <ul class="dashboard-mainmenu rbt-default-sidebar-list">
-                                                    <li><nuxtLink to="/hall-of-fame/salma-mohamed-frontend-developer"><span>حكاية سلمي لوظيفة React.JS</span></nuxtLink></li>
-                                                    <li><nuxtLink to="/line-stories"><span> اسبوع الحكايات البرمجية </span></nuxtLink></li>
-                                                    <li><nuxtLink to="/students-projects"><span> مشاريع ومسابقات في البرمجة </span></nuxtLink></li>
+                                                    <li><nuxtLink to="/blog/nuxt-image-performance"><span> تحسين الأداء باستخدام Nuxt-Image </span></nuxtLink></li>
+                                                    <li><nuxtLink to="/blog/why-i-love-nuxtjs-1"><span> ليه انا بحب اطار عمل NuxtJS </span></nuxtLink></li>
+                                                </ul>
+                                            </nav>
+
+						<div class="section-title mt-4 mb--20">
+                                                <h6 class="rbt-title-style-2">  تابع أيضا  </h6>
+                                            </div>
+
+                                            <nav class="mainmenu-nav">
+                                                <ul class="dashboard-mainmenu rbt-default-sidebar-list">
+                                                    <li><a target="_blank" href="/line-stories"><span> اسبوع الحكايات المؤثرة في البرمجة </span></a></li>
+                                                    <li><a target="_blank" href="/students-projects"><span> مشاريع ومسابقات في البرمجة </span></a></li>
+                                                    <li><a target="_blank" href="/courses"><span> كورسات مجانية في البرمجة </span></a></li>
                                                 </ul>
                                             </nav>
                                         </div>
