@@ -18,7 +18,7 @@
                                             </div>
                                             <nav class="mainmenu-nav">
                                                 <ul class="dashboard-mainmenu rbt-default-sidebar-list">
-                                                    <li><a href="student-dashboard.html"><span>احمد وليد - Front-End</span></a></li>
+                                                    <li><nuxtLink to="/hall-of-fame/ahmed-takeshy-frontend-developer"><span>احمد وليد - Front-End</span> <nuxt-img loading="lazy" fit="cover" provider="cloudinary" src="tes-salma_kuqm0b" alt="halltitle" /> </nuxtLink></li>
                                                     <li><a href="student-profile.html"><i class="feather-user"></i><span>My Profile</span></a></li>
                                                     <li><a href="student-enrolled-courses.html"><i class="feather-book-open"></i><span>Enrolled Courses</span></a></li>
                                                     <li><a href="student-wishlist.html"><i class="feather-bookmark"></i><span>Wishlist</span></a></li>
