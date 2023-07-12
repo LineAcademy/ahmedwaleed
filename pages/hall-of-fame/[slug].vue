@@ -198,6 +198,12 @@ if(hall.value === null){
     width: 50px;
     margin-left: 5px;
 }
+	.section-title {
+        background: #0963de;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 10px;
+}
 	.blog-link {
 		@apply prose-a:text-primary before:prose-headings:content-['#'] before:prose-headings:mr-1 before:prose-headings:text-primary before:prose-h1:content-[''];
 	}
