@@ -162,17 +162,17 @@ filter: drop-shadow(1px 1px 10px hsl(206.5, 0%, 10%));
 transform: scale(1.2);
 }
 </style>
-<a href='https://www.youtube.com/embed/vMVuYCEI-iw?autoplay=1'>
-<img src='https://img.youtube.com/vi/vMVuYCEI-iw/hqdefault.jpg' alt='مسابقة جروب رياكت مع احمد وليد - افضل مبرمج مواقع في مصر'>
+<a href='https://www.youtube.com/embed/kvPdNUBTMZw?autoplay=1'>
+<img src='https://img.youtube.com/vi/kvPdNUBTMZw/hqdefault.jpg' alt='مسابقة جروب رياكت مع احمد وليد - افضل مبرمج مواقع في مصر'>
 <svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 24 24' fill='none' stroke='#ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-play-circle'><circle cx='12' cy='12' r='10'></circle><polygon points='10 8 16 12 10 16 10 8'></polygon></svg>
 </a>
 "
-src="https://www.youtube.com/embed/vMVuYCEI-iw" 
+src="https://www.youtube.com/embed/kvPdNUBTMZw" 
 title='مسابقة جروب رياكت مع احمد وليد - افضل مبرمج مواقع في مصر'
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen>
-</iframe>
+</iframe>vMVuYCEI-iw
 </div>
 </div>  
             </div>
@@ -227,12 +227,12 @@ filter: drop-shadow(1px 1px 10px hsl(206.5, 0%, 10%));
 transform: scale(1.2);
 }
 </style>
-<a href='https://www.youtube.com/embed/kvPdNUBTMZw?autoplay=1'>
-<img src='https://img.youtube.com/vi/kvPdNUBTMZw/hqdefault.jpg' alt='مسابقة html css مع احمد وليد - افضل مبرمج ومصمم مواقع في مصر'>
+<a href='https://www.youtube.com/embed/vMVuYCEI-iw?autoplay=1'>
+<img src='https://img.youtube.com/vi/vMVuYCEI-iw/hqdefault.jpg' alt='مسابقة html css مع احمد وليد - افضل مبرمج ومصمم مواقع في مصر'>
 <svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 24 24' fill='none' stroke='#ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-play-circle'><circle cx='12' cy='12' r='10'></circle><polygon points='10 8 16 12 10 16 10 8'></polygon></svg>
 </a>
 "
-src="https://www.youtube.com/embed/kvPdNUBTMZw" 
+src="https://www.youtube.com/embed/vMVuYCEI-iw" 
 title='مسابقة html css مع احمد وليد - افضل مبرمج ومصمم مواقع في مصر'
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
