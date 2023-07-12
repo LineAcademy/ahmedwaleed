@@ -12,57 +12,57 @@
         <div class="row g-3">
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
-                    <a href="#">
+                    <nuxtLink to="/blog/why-i-love-nextjs">
                         <img src="/assets/images/blog/creative/4.png" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@Next.JS</span>
                         </span>
-                    </a>
+                    </nuxtLink>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
-                    <a href="#">
+                    <nuxtLink to="/blog/why-i-love-nuxtjs-1">
                         <img src="/assets/images/blog/creative/5.png" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@Nuxt.JS</span>
                         </span>
-                    </a>
+                    </nuxtLink>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
-                    <a href="#">
+                    <nuxtLink to="/blog/why-i-love-jamstack-1">
                         <img src="/assets/images/blog/creative/6.png" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@JamStack</span>
                         </span>
-                    </a>
+                    </nuxtLink>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
-                    <a href="#">
+                    <nuxtLink to="/blog/why-i-love-cypress-testing">
                         <img src="/assets/images/blog/creative/7.png" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@Cypress</span>
                         </span>
-                    </a>
+                    </nuxtLink>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
-                    <a href="#">
+                    <nuxtLink to="/blog/why-i-love-fulltypescript">
                         <img src="/assets/images/blog/creative/8.png" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@FullTypeScript</span>
                         </span>
-                    </a>
+                    </nuxtLink>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
@@ -129,63 +129,63 @@
         <div class="row g-3">
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
-                    <a href="#">
-                        <img src="/assets/images/blog/creative/en4.png" alt="instagram">
+                    <nuxtLink to="/en-us/blog/why-i-love-nextjs">
+                        <img src="/assets/images/blog/creative/en3.png" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@Next.JS</span>
                         </span>
-                    </a>
+                    </nuxtLink>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
-                    <a href="#">
-                        <img src="/assets/images/blog/creative/en5.png" alt="instagram">
+                    <nuxtLink to="/en-us/blog/why-i-love-nuxtjs-1">
+                        <img src="/assets/images/blog/creative/en4.png" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@Nuxt.JS</span>
                         </span>
-                    </a>
+                    </nuxtLink>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
-                    <a href="#">
-                        <img src="/assets/images/blog/creative/en6.png" alt="instagram">
+                    <nuxtLink to="/en-us/blog/why-i-love-jamstack-1">
+                        <img src="/assets/images/blog/creative/en5.png" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@JamStack</span>
                         </span>
-                    </a>
+                    </nuxtLink>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
-                    <a href="#">
-                        <img src="/assets/images/blog/creative/en7.png" alt="instagram">
+                    <nuxtLink to="/en-us/blog/why-i-love-cypress-testing">
+                        <img src="/assets/images/blog/creative/en6.png" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@Cypress</span>
                         </span>
-                    </a>
+                    </nuxtLink>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-sm-6 col-6">
+                <div class="instagram-grid">
+                    <nuxtLink to="/en-us/blog/why-i-love-fulltypescript">
+                        <img src="/assets/images/blog/creative/en7.png" alt="instagram">
+                        <span class="user-info">
+                        <span class="icon"><i class="icon-instagram"></i></span>
+                        <span class="user-name">@FullTypeScript</span>
+                        </span>
+                    </nuxtLink>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
                     <a href="#">
                         <img src="/assets/images/blog/creative/en8.png" alt="instagram">
-                        <span class="user-info">
-                        <span class="icon"><i class="icon-instagram"></i></span>
-                        <span class="user-name">@FullTypeScript</span>
-                        </span>
-                    </a>
-                </div>
-            </div>
-            <div class="col-lg-2 col-md-4 col-sm-6 col-6">
-                <div class="instagram-grid">
-                    <a href="#">
-                        <img src="/assets/images/blog/creative/en2.png" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@Myself</span>
