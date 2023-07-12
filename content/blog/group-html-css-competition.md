@@ -2,8 +2,8 @@
 createdAt: 2023-07-12
 slug: group-html-css-competition
 title: مسابقة أحمد وليد علي html css pure
-image: hqdefault_1_ouennu
-subImage: sub_js_comp_winz1z
+image: hqdefault_crqjkh
+subImage: sub_html_comp_el69pb
 id: 16
 category: challenge
 description: مسابقة أحمد وليد علي html css pure في برمجة المواقع فرونت اند علي
