@@ -101,7 +101,9 @@
                         </li>
 
                         <li class="has-menu-child-item">
-                            <a href="/en-us"> EN
+				 <a v-if="route.href === '/'" href="/en-us"> EN
+                                    </a>
+                                    <a v-else="route.href === '/'" :href="`/en-us${route.href}`"> EN
                                     </a>
                         </li>
 
@@ -232,7 +234,10 @@
 
     <div class="mobile-menu-bottom">
         <divt class="rbt-btn-wrapper mb--20">
-                                    <a href="/en-us" class="rbt-btn btn-border-gradient radius-round btn-sm hover-transform-none w-100 justify-content-center text-center" > 
+				<a v-if="route.href === '/'" href="/en-us" class="rbt-btn btn-border-gradient radius-round btn-sm hover-transform-none w-100 justify-content-center text-center" > 
+                                        <span> اللغة الإنجليزية | English 🇬🇧</span>
+                                    </a>
+                                    <a v-else="route.href === '/'" :href="`/en-us${route.href}`" class="rbt-btn btn-border-gradient radius-round btn-sm hover-transform-none w-100 justify-content-center text-center" > 
                                         <span> اللغة الإنجليزية | English 🇬🇧</span>
                                     </a>
         </divt>
@@ -359,7 +364,9 @@
                                 </li>
 
                                 <li class="has-menu-child-item">
-                                    <a href="/"> عربي
+                                     <a v-if="route.href === '/en-us'" href="/"> عربي
+                                    </a>
+                                    <a v-else="route.href === '/en-us'" :href="`${route.href.replace('/en-us','')}`"> عربي
                                     </a>
                                 </li>
 
@@ -490,8 +497,11 @@
 
             <div class="mobile-menu-bottom">
                 <divt class="rbt-btn-wrapper mb--20">
-                    <a href="/" class="rbt-btn btn-border-gradient radius-round btn-sm hover-transform-none w-100 justify-content-center text-center"> 
+                     <a v-if="route.href === '/en-us'" href="/" class="rbt-btn btn-border-gradient radius-round btn-sm hover-transform-none w-100 justify-content-center text-center"> 
                         <span> اللغة العربية | Arabic 🇪🇬</span>
+                                    </a>
+                                    <a v-else="route.href === '/en-us'" :href="`${route.href.replace('/en-us','')}`" class="rbt-btn btn-border-gradient radius-round btn-sm hover-transform-none w-100 justify-content-center text-center"> 
+                                        <span> اللغة العربية | Arabic 🇪🇬</span>
                                     </a>
                 </divt>
 
