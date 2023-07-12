@@ -14,29 +14,52 @@
 
                                         <div class="rbt-default-sidebar-wrapper">
                                             <div class="section-title mb--20">
-                                                <h6 class="rbt-title-style-2">منشورات ذات صلة</h6>
+                                                <h6 class="rbt-title-style-2">من قاعة الأَثَر</h6>
                                             </div>
                                             <nav class="mainmenu-nav">
                                                 <ul class="dashboard-mainmenu rbt-default-sidebar-list">
-                                                    <li><nuxtLink to="/hall-of-fame/ahmed-takeshy-frontend-developer"><span>احمد وليد - Front-End</span> <nuxt-img loading="lazy" fit="cover" provider="cloudinary" src="tes-salma_kuqm0b" alt="halltitle" /> </nuxtLink></li>
-                                                    <li><a href="student-profile.html"><i class="feather-user"></i><span>My Profile</span></a></li>
-                                                    <li><a href="student-enrolled-courses.html"><i class="feather-book-open"></i><span>Enrolled Courses</span></a></li>
-                                                    <li><a href="student-wishlist.html"><i class="feather-bookmark"></i><span>Wishlist</span></a></li>
-                                                    <li><a href="student-reviews.html"><i class="feather-star"></i><span>Reviews</span></a></li>
-                                                    <li><a href="student-my-quiz-attempts.html"><i class="feather-help-circle"></i><span>My Quiz Attempts</span></a></li>
-                                                    <li><a href="student-order-history.html"><i class="feather-shopping-bag"></i><span>Order History</span></a></li>
-                                                </ul>
-                                            </nav>
-
-                                            <div class="section-title mt--40 mb--20">
-                                                <h6 class="rbt-title-style-2">حكايات مؤثرة</h6>
-                                            </div>
-
-                                            <nav class="mainmenu-nav">
-                                                <ul class="dashboard-mainmenu rbt-default-sidebar-list">
-                                                    <li><a href="student-settings.html"><span>حكاية سلمي لوظيفة React.JS</span></a></li>
-                                                    <li><a href="index.html"><span>حكاية مها بطل ابطال Front-End</span></a></li>
-                                                    <li><a href="index.html"><span>حكاية منة لوظيفة رياكت Canada</span></a></li>
+                                                    <li>
+							<nuxtLink to="/hall-of-fame/salma-mohamed-frontend-developer">
+							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_1_tbc0ty" alt="سلمي محمد فرونت اند - فخور جدا بيها لأنها مجتهدة" />
+							    <span> حكاية سلمي - FrontEnd Developer </span>
+						    	</nuxtLink>
+						    </li>
+                                                    <li>
+							<nuxtLink to="/hall-of-fame/hosam-salah-frontend-developer">
+							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_2_valaau" alt="حسام صلاح فرونت اند - فخور جدا بيه لأنه مجتهد" />
+							    <span> حسام صلاح - FrontEnd Developer </span>
+						    	</nuxtLink>
+						    </li>
+							<li>
+							<nuxtLink to="/hall-of-fame/farha-fouad-frontend-developer">
+							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_3_t3rlvu" alt="فرحة فؤاد فرونت اند - فخور جدا بيها لأنها مجتهدة" />
+							    <span> فرحة فؤاد - FrontEnd Developer </span>
+						    	</nuxtLink>
+						    </li>
+							<li>
+							<nuxtLink to="/hall-of-fame/maha-frontend-developer">
+							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_4_mndfcz" alt="مها جابر فرونت اند - فخور جدا بيها لأنها مجتهدة" />
+							    <span> مها جابر - FrontEnd Developer </span>
+						    	</nuxtLink>
+						    </li>
+							<li>
+							<nuxtLink to="/hall-of-fame/menna-mohamed-frontend-developer">
+							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_7_kjfeee" alt="منة محمد فرونت اند - فخور جدا بيها لأنها مجتهدة" />
+							    <span> منة محمد - FrontEnd Developer </span>
+						    	</nuxtLink>
+						    </li>
+							<li>
+							<nuxtLink to="/hall-of-fame/ahmed-takeshy-frontend-developer">
+							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_5_ymbccp" alt="احمد تاكيشي فرونت اند - فخور جدا بيه لأنه مجتهد" />
+							    <span> احمد تاكيشي - FrontEnd Developer </span>
+						    	</nuxtLink>
+						    </li>
+							<li>
+							<nuxtLink to="/hall-of-fame/mahmoud-sead-frontend-developer">
+							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_6_heze3l" alt=" محمود سعيد فرونت اند - فخور جدا بيه لأنه مجتهد " />
+							    <span> محمود سعيد - FrontEnd Developer </span>
+						    	</nuxtLink>
+						    </li>
                                                 </ul>
                                             </nav>
                                         </div>
@@ -171,6 +194,10 @@ if(hall.value === null){
 </script>
 
 <style scoped>
+	.image-person {
+    width: 50px;
+    margin-left: 5px;
+}
 	.blog-link {
 		@apply prose-a:text-primary before:prose-headings:content-['#'] before:prose-headings:mr-1 before:prose-headings:text-primary before:prose-h1:content-[''];
 	}
