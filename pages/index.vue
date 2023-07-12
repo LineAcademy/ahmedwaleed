@@ -589,7 +589,7 @@ allowfullscreen>
 <!-- Start Single Card  -->
 <div class="rbt-card card-list variation-02 rbt-hover">
     <div class="rbt-card-img">
-        <nuxtLink to="/blog/javascript-before-react">
+        <nuxtLink to="/blog/learn-modern-js-before-react">
             <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
@@ -609,7 +609,7 @@ allowfullscreen>
 <!-- Start Single Card  -->
 <div class="rbt-card card-list variation-02 rbt-hover mt--30">
     <div class="rbt-card-img">
-        <nuxtLink to="/blog/javascript-before-react">
+        <nuxtLink to="/blog/react-software-architecture-pattern">
             <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
@@ -628,7 +628,7 @@ allowfullscreen>
 <!-- Start Single Card  -->
 <div class="rbt-card card-list variation-02 rbt-hover mt--30">
     <div class="rbt-card-img">
-        <nuxtLink to="/blog/javascript-before-react">
+        <nuxtLink to="/blog/static-sites-are-back-in-2023">
             <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
@@ -650,7 +650,7 @@ allowfullscreen>
                         <!-- Start Single Card  -->
                         <div class="rbt-card card-list variation-02 rbt-hover">
                             <div class="rbt-card-img">
-                                <nuxtLink to="/blog/javascript-before-react">
+                                <nuxtLink to="/blog/add-cypress-to-react-js">
                                     <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
@@ -669,7 +669,7 @@ allowfullscreen>
                         <!-- Start Single Card  -->
                         <div class="rbt-card card-list variation-02 rbt-hover mt--30">
                             <div class="rbt-card-img">
-                                <nuxtLink to="/blog/javascript-before-react">
+                                <nuxtLink to="/blog/react-lite-youtube-embeds">
                                     <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
@@ -688,7 +688,7 @@ allowfullscreen>
                         <!-- Start Single Card  -->
                         <div class="rbt-card card-list variation-02 rbt-hover mt--30">
                             <div class="rbt-card-img">
-                                <nuxtLink to="/blog/javascript-before-react">
+                                <nuxtLink to="/blog/nuxt-image-performance">
                                     <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
