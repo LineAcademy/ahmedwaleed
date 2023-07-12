@@ -18,8 +18,8 @@
                                             <nav class="mainmenu-nav">
                                                 <ul class="dashboard-mainmenu rbt-default-sidebar-list">
                                                     <li><nuxtLink to="/blog/add-cypress-to-react-js"><span> إزاي اضيف Cypress في React </span></nuxtLink></li>
-                                                    <li><nuxtLink to="/blog/nuxt-image-performance"><i class="feather-user"></i><span>تحسين الأداء باستخدام Nuxt-Image</span></nuxtLink></li>
-                                                    <li><nuxtLink to="/blog/static-sites-are-back-in-2023"><i class="feather-book-open"></i><span>المواقع الثابتة تعود في 2023</span></nuxtLink></li>
+                                                    <li><nuxtLink to="/blog/nuxt-image-performance"><i style="margin-left: 10px;" class="feather-book-open"></i><span>تحسين الأداء باستخدام Nuxt-Image</span></nuxtLink></li>
+                                                    <li><nuxtLink to="/blog/static-sites-are-back-in-2023"><i style="margin-left: 10px;" class="feather-book-open"></i><span>المواقع الثابتة تعود في 2023</span></nuxtLink></li>
                                                 </ul>
                                             </nav>
 
@@ -29,7 +29,7 @@
                                             <nav class="mainmenu-nav">
                                                 <ul class="dashboard-mainmenu rbt-default-sidebar-list">
                                                     <li><nuxtLink to="/courses/build-website-junior"><span> ابني معي موقع جونيور HTML,CSS,JS </span></nuxtLink></li>
-                                                    <li><nuxtLink to="/courses/what-do-you-learn-in-javascript-before-libraries-frameworks-2"><i class="feather-user"></i><span>  ماذا تتعلم في جافاسكريبت قبل أي إطار عمل </span></nuxtLink></li>
+                                                    <li><nuxtLink to="/courses/what-do-you-learn-in-javascript-before-libraries-frameworks-2"><span>  ماذا تتعلم في جافاسكريبت قبل أي إطار عمل </span></nuxtLink></li>
                                                 </ul>
                                             </nav>
 
