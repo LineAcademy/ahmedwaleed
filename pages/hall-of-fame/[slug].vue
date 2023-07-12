@@ -74,7 +74,7 @@
                             <!-- Start Enrole Course  -->
                             <div class="rbt-dashboard-content">
                                 <div class="content">
-                                    <div class="section-title">
+                                    <div>
                                         <h4 class="rbt-title-style-3">وَأَنْ لَيْسَ لِلإِنسَانِ إِلَّا مَا سَعَى ۝ وَأَنَّ سَعْيَهُ سَوْفَ يُرَى</h4>
                                     </div>
 
