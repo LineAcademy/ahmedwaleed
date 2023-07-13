@@ -3,7 +3,7 @@ createdAt: 2023-07-13
 slug: why-i-love-fulltypescript
 title: Why I love fulltypescript
 image: blogen_9_q7w5p4
-subImage: sub-love-tech-stack_typescript_1
+subImage: blogen_9_q7w5p4
 id: 15
 category: typescript
 description: I worked on several large and medium projects using typescript and
