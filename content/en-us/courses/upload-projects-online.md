@@ -3,7 +3,7 @@ category: learn
 slug: upload-projects-online
 title: How to upload web projects online
 image: course_4_kmlqhp
-subImage: sub_go_online_dwa92q
+subImage: sub_upload_online_f6slqt
 id: 4
 description: How to upload an Html, Css, Js website online - Github - Netlify -
   AWS - Learn web programming with Ahmed Waleed
