@@ -1072,7 +1072,6 @@
                                         <nuxt-img
                                     loading="lazy" 
                                     fit="cover"
-                                    style="width: 100%;"
                                     provider="cloudinary" 
                                     :src="p.image"
                                     :alt="`what ${p.name} about - ahmed waleed best web developer in egypt`" 
@@ -1106,7 +1105,6 @@
                                     <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
-								style="width: 100%;"
                                 provider="cloudinary" 
 								:src="p.image"
 								:alt="`what ${p.name} about - ahmed waleed best web developer in egypt`"  
