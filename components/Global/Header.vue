@@ -175,7 +175,7 @@
     <nav dir="rtl" class="mainmenu-nav">
         <ul class="mainmenu">
             <li class="with-megamenu has-menu-child-item position-static">
-                <NuxtLink to="/courses">الكورسات <i class="feather-chevron-down"></i></NuxtLink>
+                <a href="#">الكورسات <i class="feather-chevron-down"></i></a>
                 <!-- Start Mega Menu  -->
                 <div class="rbt-megamenu menu-skin-dark">
                     <div class="wrapper">
@@ -226,7 +226,10 @@
             </li>
 
             <li>
-                <NuxtLink to="/blog">المدونة</NuxtLink>
+		    <a v-if="route.href === '/courses'" href="/blog"> المدونة
+                                    </a>
+                            <NuxtLink v-else="route.href === '/courses'" to="/blog"> المدونة
+                            </NuxtLink>
             </li>
 
         </ul>
