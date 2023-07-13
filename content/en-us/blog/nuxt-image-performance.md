@@ -10,7 +10,7 @@ description: Improving Performance Using Nuxt-Image - Learn Programming with Ahm
 ---
 > ***🚀 Add Nuxt-Image***
 
-```
+```javascript
 // with Yarn
 yarn add --dev @nuxt/image
 
@@ -20,7 +20,7 @@ npm install --save-dev @nuxt/image
 
 > This step is important to enable nuxt-image in nuxt 13 in a file`nuxt.config.ts`
 
-```
+```javascript
 // nuxt.config.ts
 export default defineNuxtConfig({
   modules: ['@nuxt/image']
@@ -41,7 +41,7 @@ export default defineNuxtConfig({
 
 ### [use nuxt-img](https://ahmed.lineitsolutions.com/blog/nuxt-image-performance#%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85-nuxt-img)
 
-```
+```javascript
 <nuxt-img
   provider="cloudinary"
   src="image-of-my-site"
@@ -59,7 +59,7 @@ export default defineNuxtConfig({
 >
 > One of the most important things that will make you improve the performance of the web site is CloudNery, with your hands the comfort of downloading images, uploading them, or modifying them in any format, including the webp format, because this is one of the most important formats in which we upload all images in order to save space
 
-```
+```javascript
 // nuxt.config.ts
 image: {
     provider: 'cloudinary',
