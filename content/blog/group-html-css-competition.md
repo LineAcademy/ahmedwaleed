@@ -1,13 +1,13 @@
 ---
 createdAt: 2023-07-12
 slug: group-html-css-competition
-title: مسابقة أحمد وليد علي html css pure
+title: Ahmed Waleed competition html css pure
 image: hqdefault_crqjkh
 subImage: sub_html_comp_el69pb
 id: 16
 category: challenge
 description: مسابقة أحمد وليد علي html css pure في برمجة المواقع فرونت اند علي
-  مشروع من 3 صفح كاملة لطلاب جروب
+  مشروع من صفحة واحدة كاملة لطلاب جروب الفرونت اند
 ---
 عندي اقتناع جامد انك لما تلاقي حد مجتهد لازم تدعمو مش هياخد من وقتك دقيقة يعني لما تفرح حد ب مجهودو .
 
