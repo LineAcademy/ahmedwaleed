@@ -18,7 +18,7 @@
                                     <br> <strong> values the idea of lifelong learning. </strong>
                                 </p>
                                 <div class="slider-btn">
-                                    <nuxtLink to="/en-us/courses" class="rbt-btn" style="margin-right: 10px;" href="#">
+                                    <nuxtLink to="/en-us/courses" class="rbt-btn" style="margin-right: 10px;margin-bottom: 10px;" href="#">
                                         Free Courses
                                     </nuxtLink>
                                     <nuxtLink class="rbt-btn" to="/en-us/students-projects">
