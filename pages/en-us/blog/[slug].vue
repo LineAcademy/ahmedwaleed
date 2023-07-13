@@ -66,29 +66,46 @@
 
                                         <div class="rbt-default-sidebar-wrapper">
                                             <div class="section-title mb--20">
-                                                <h6 class="rbt-title-style-2">منشورات ذات صلة</h6>
+                                                <h6 class="rbt-title-style-2"> React.JS & Next.JS </h6>
                                             </div>
                                             <nav class="mainmenu-nav">
                                                 <ul class="dashboard-mainmenu rbt-default-sidebar-list">
-                                                    <li><a href="student-dashboard.html"><span>احمد وليد - Front-End</span></a></li>
-                                                    <li><a href="student-profile.html"><i class="feather-user"></i><span>My Profile</span></a></li>
-                                                    <li><a href="student-enrolled-articles.html"><i class="feather-book-open"></i><span>Enrolled articles</span></a></li>
-                                                    <li><a href="student-wishlist.html"><i class="feather-bookmark"></i><span>Wishlist</span></a></li>
-                                                    <li><a href="student-reviews.html"><i class="feather-star"></i><span>Reviews</span></a></li>
-                                                    <li><a href="student-my-quiz-attempts.html"><i class="feather-help-circle"></i><span>My Quiz Attempts</span></a></li>
-                                                    <li><a href="student-order-history.html"><i class="feather-shopping-bag"></i><span>Order History</span></a></li>
+                                                    <li><nuxtLink to="/en-us/blogadd-cypress-to-react-js"><span> Add Testing In React Using Cypress </span></nuxtLink></li>
+                                                    <li><nuxtLink to="/en-us/blog/react-software-architecture-pattern"><span> Software Architecture (ssr, state, patterns) REACT.JS</span></nuxtLink></li>
+                                                    <li><nuxtLink to="/en-us/blog/react-lite-youtube-embeds"><span>Best Way To Add YT Iframes Into React APP</span></nuxtLink></li>
                                                 </ul>
                                             </nav>
 
-                                            <div class="section-title mt--40 mb--20">
-                                                <h6 class="rbt-title-style-2">حكايات مؤثرة في عالم البرمجة</h6>
+						 <div class="section-title mt-4 mb--20">
+                                                <h6 class="rbt-title-style-2">JamStack</h6>
+                                            </div>
+                                            <nav class="mainmenu-nav">
+                                                <ul class="dashboard-mainmenu rbt-default-sidebar-list">
+                                                    <li><nuxtLink to="/en-us/blog/static-sites-are-back-in-2023"><span> Static Websites Are Back in 2023 </span></nuxtLink></li>
+                                                    <li><nuxtLink to="/en-us/blog/why-i-love-jamstack-1"><span>  Why I Love JamStack </span></nuxtLink></li>
+                                                </ul>
+                                            </nav>
+
+                                            <div class="section-title mt-4 mb--20">
+                                                <h6 class="rbt-title-style-2">  Nuxt.JS  </h6>
                                             </div>
 
                                             <nav class="mainmenu-nav">
                                                 <ul class="dashboard-mainmenu rbt-default-sidebar-list">
-                                                    <li><a href="student-settings.html"><span>حكاية سلمي لوظيفة React.JS</span></a></li>
-                                                    <li><a href="index.html"><span>حكاية مها بطل ابطال Front-End</span></a></li>
-                                                    <li><a href="index.html"><span>حكاية منة لوظيفة رياكت Canada</span></a></li>
+                                                    <li><nuxtLink to="/en-us/blog/nuxt-image-performance"><span> Improving Performance Using Nuxt-Image </span></nuxtLink></li>
+                                                    <li><nuxtLink to="/en-us/blog/why-i-love-nuxtjs-1"><span> Why I Love NuxtJS FrameWork </span></nuxtLink></li>
+                                                </ul>
+                                            </nav>
+
+						<div class="section-title mt-4 mb--20">
+                                                <h6 class="rbt-title-style-2">  Follow Too  </h6>
+                                            </div>
+
+                                            <nav class="mainmenu-nav">
+                                                <ul class="dashboard-mainmenu rbt-default-sidebar-list">
+                                                    <li><a target="_blank" href="/en-us/line-stories"><span> Programing Stories </span></a></li>
+                                                    <li><a target="_blank" href="/en-us/students-projects"><span> Projects & Compitions in programing </span></a></li>
+                                                    <li><a target="_blank" href="/en-us/courses"><span> Free Coding Courses </span></a></li>
                                                 </ul>
                                             </nav>
                                         </div>
@@ -182,6 +199,12 @@
 </script>
 
 <style scoped>
+	.section-title {
+        background: #0963de;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 10px;
+}
 	.blog-link {
 		@apply prose-a:text-primary before:prose-headings:content-['#'] before:prose-headings:mr-1 before:prose-headings:text-primary before:prose-h1:content-[''];
 	}
