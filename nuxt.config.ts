@@ -42,7 +42,10 @@ export default defineNuxtConfig({
           { name: 'format-detection', content: 'telephone=no' },
         ],
         script: [
-          { src: '/assets/js/yt.js', body: true },
+            { src: '/assets/js/yt.js', body: true },
+            { src: '/assets/js/vendor/modernizr.min.js', body: true },
+            { src: '/assets/js/vendor/jquery.js', body: true },
+            { src: '/assets/js/ahmedwaleed.min.js', body: true },
         ],
         },
       },
