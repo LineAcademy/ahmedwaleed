@@ -1274,9 +1274,6 @@ const { data: tes1 } = await useAsyncData("tes1", () => {
 		return queryContent("en-us/tes/1").find();
 	});
 
-    const { data: tes2 } = await useAsyncData("tes2", () => {
-		return queryContent("en-us/tes/2").find();
-	});
 
     const { data: tes3 } = await useAsyncData("tes3", () => {
 		return queryContent("en-us/tes/3").find();
