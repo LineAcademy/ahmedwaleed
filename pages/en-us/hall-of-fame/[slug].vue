@@ -10,15 +10,15 @@
                             <!-- Start Enrole Course  -->
                             <div class="rbt-dashboard-content">
                                 <div class="content">
-                                    <div class="section-title">
-                                        <h4 class="rbt-title-style-3">Order History</h4>
+                                    <div>
+                                        <h4 class="rbt-title-style-3">Seek and be confident in yourself that you will reach</h4>
                                     </div>
 
                                     <div class="rbt-dashboard-table table-responsive mobile-table-750">
                                         <div class="rbt-blog-details-area rbt-section-gapBottom breadcrumb-style-max-width">
             <div class="blog-content-wrapper rbt-article-content-wrapper">
                 <div class="content">
-					<div class="post-thumbnail mb-4 position-relative wp-block-image alignwide">
+					<div class="post-thumbnail mb-4 position-relative wp-block-image">
                         <figure>
                             <nuxt-img
                                 loading="lazy" 
@@ -194,6 +194,9 @@
 </script>
 
 <style scoped>
+	.blog-content-wrapper .post-thumbnail img {
+    width: 100%;
+}
 	.image-person {
     width: 50px;
     margin-left: 5px;
