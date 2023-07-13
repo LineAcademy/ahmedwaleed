@@ -21,9 +21,9 @@
                                     <nuxtLink to="/en-us/courses" class="rbt-btn" style="margin-right: 10px;" href="#">
                                         Free Courses
                                     </nuxtLink>
-                                    <a target="_blank" class="rbt-btn" href="https://lineitsolutions.com">
-                                        My company services
-                                    </a>
+                                    <nuxtLink class="rbt-btn" to="/en-us/students-projects">
+                                        My Family Projects
+                                    </nuxtLink>
                                 </div>
                             </div>
                             <div class="shape-wrapper" id="scene">
@@ -361,7 +361,7 @@
                                     :alt="p.name" 
                                     />
                                                         <div class="read-more-btn">
-                                                            <span class="rbt-btn btn-sm btn-white radius-round">{{ p.videos.length }}  فديوهات مسجِّلة</span>
+                                                            <span class="rbt-btn btn-sm btn-white radius-round">{{ p.videos.length }}  Videos </span>
                                                         </div>
                                                     </nuxtLink>
                                                 </div>
@@ -589,7 +589,7 @@
 <!-- Start Single Card  -->
 <div class="rbt-card card-list variation-02 rbt-hover">
     <div class="rbt-card-img">
-        <nuxtLink to="/en-us/blog/javascript-before-react">
+        <nuxtLink to="/en-us/blog/learn-modern-js-before-react">
             <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
@@ -598,9 +598,9 @@
                                 alt="What do you learn in javascript before react... - coding with ahmed waleed" /> </nuxtLink>
     </div>
     <div class="rbt-card-body">
-        <h5 class="rbt-card-title"><nuxtLink to="/en-us/blog/javascript-before-react"> What do you learn in modern javascript before react...</nuxtLink></h5>
+        <h5 class="rbt-card-title"><nuxtLink to="/en-us/blog/learn-modern-js-before-react"> What do you learn in modern javascript before react...</nuxtLink></h5>
         <div class="rbt-card-bottom">
-            <nuxtLink class="transparent-button" to="/en-us/blog/javascript-before-react"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> Read Article</nuxtLink>
+            <nuxtLink class="transparent-button" to="/en-us/blog/learn-modern-js-before-react"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> Read Article</nuxtLink>
         </div>
     </div>
 </div>
@@ -609,7 +609,7 @@
 <!-- Start Single Card  -->
 <div class="rbt-card card-list variation-02 rbt-hover mt--30">
     <div class="rbt-card-img">
-        <nuxtLink to="/en-us/blog/javascript-before-react">
+        <nuxtLink to="/en-us/blog/react-software-architecture-pattern">
             <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
@@ -617,9 +617,9 @@
 								src="8_eh05x1"  alt="React anti-pattern and what do you learn in software architecture in React - article by Ahmed Waleed, the best web programmer in Egypt"/> </nuxtLink>
     </div>
     <div class="rbt-card-body">
-        <h5 class="rbt-card-title"><nuxtLink to="/en-us/blog/javascript-before-react"> I knew how to get deeper into react.js and make an architecture, why is...</nuxtLink></h5>
+        <h5 class="rbt-card-title"><nuxtLink to="/en-us/blog/react-software-architecture-pattern"> I knew how to get deeper into react.js and make an architecture, why is...</nuxtLink></h5>
         <div class="rbt-card-bottom">
-            <nuxtLink class="transparent-button" to="/en-us/blog/javascript-before-react"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> Read Article</nuxtLink>
+            <nuxtLink class="transparent-button" to="/en-us/blog/react-software-architecture-pattern"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> Read Article</nuxtLink>
         </div>
     </div>
 </div>
@@ -628,7 +628,7 @@
 <!-- Start Single Card  -->
 <div class="rbt-card card-list variation-02 rbt-hover mt--30">
     <div class="rbt-card-img">
-        <nuxtLink to="/en-us/blog/javascript-before-react">
+        <nuxtLink to="/en-us/blog/react-lite-youtube-embeds">
             <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
@@ -636,9 +636,9 @@
 								src="7_vtf6ad"  alt="best way to add youtube video in react.js project - lite-youtube-embed 2023 - Ahmed Waleed article, the best website developer in Egypt?"/> </nuxtLink>
     </div>
     <div class="rbt-card-body">
-        <h5 class="rbt-card-title"><nuxtLink to="/en-us/blog/javascript-before-react">best way to add youtube video in react.js project - lite-youtube-embed 2023...</nuxtLink></h5>
+        <h5 class="rbt-card-title"><nuxtLink to="/en-us/blog/react-lite-youtube-embeds">best way to add youtube video in react.js project - lite-youtube-embed 2023...</nuxtLink></h5>
         <div class="rbt-card-bottom">
-            <nuxtLink class="transparent-button" to="/en-us/blog/javascript-before-react"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> Read Article</nuxtLink>
+            <nuxtLink class="transparent-button" to="/en-us/blog/react-lite-youtube-embeds"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> Read Article</nuxtLink>
         </div>
     </div>
 </div>
@@ -650,7 +650,7 @@
                         <!-- Start Single Card  -->
                         <div class="rbt-card card-list variation-02 rbt-hover">
                             <div class="rbt-card-img">
-                                <nuxtLink to="/en-us/blog/javascript-before-react">
+                                <nuxtLink to="/en-us/blog/add-cypress-to-react-js">
                                     <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
@@ -658,9 +658,9 @@
 								src="11_ib7sob"  alt="How to add cypress testing to the React 2023 project - Article by Ahmed Waleed, the best web programmer in Egypt"/> </nuxtLink>
                             </div>
                             <div class="rbt-card-body">
-                                <h5 class="rbt-card-title"><nuxtLink to="/en-us/blog/javascript-before-react">How to add cypress testing to the React 2023 project...</nuxtLink></h5>
+                                <h5 class="rbt-card-title"><nuxtLink to="/en-us/blog/add-cypress-to-react-js">How to add cypress testing to the React 2023 project...</nuxtLink></h5>
                                 <div class="rbt-card-bottom">
-                                    <nuxtLink class="transparent-button" to="/en-us/blog/javascript-before-react"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> Read Article</nuxtLink>
+                                    <nuxtLink class="transparent-button" to="/en-us/blog/add-cypress-to-react-js"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> Read Article</nuxtLink>
                                 </div>
                             </div>
                         </div>
@@ -669,7 +669,7 @@
                         <!-- Start Single Card  -->
                         <div class="rbt-card card-list variation-02 rbt-hover mt--30">
                             <div class="rbt-card-img">
-                                <nuxtLink to="/en-us/blog/javascript-before-react">
+                                <nuxtLink to="/en-us/blog/static-sites-are-back-in-2023">
                                     <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
@@ -677,9 +677,9 @@
 								src="10_fjhs99"  alt="How did static websites come back in 2023 - Ahmed Waleed article, the best website programmer in Egypt?"/> </nuxtLink>
                             </div>
                             <div class="rbt-card-body">
-                                <h5 class="rbt-card-title"><nuxtLink to="/en-us/blog/javascript-before-react">Why static websites Are back in 2023...</nuxtLink></h5>
+                                <h5 class="rbt-card-title"><nuxtLink to="/en-us/blog/static-sites-are-back-in-2023">Why static websites Are back in 2023...</nuxtLink></h5>
                                  <div class="rbt-card-bottom">
-                                    <nuxtLink class="transparent-button" to="/en-us/blog/javascript-before-react"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> Read Article</nuxtLink>
+                                    <nuxtLink class="transparent-button" to="/en-us/blog/static-sites-are-back-in-2023"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> Read Article</nuxtLink>
                                 </div>
                             </div>
                         </div>
@@ -688,17 +688,17 @@
                         <!-- Start Single Card  -->
                         <div class="rbt-card card-list variation-02 rbt-hover mt--30">
                             <div class="rbt-card-img">
-                                <nuxtLink to="/en-us/blog/javascript-before-react">
+                                <nuxtLink to="/en-us/blog/nuxt-image-performance">
                                     <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
                                 provider="cloudinary" 
-								src="06_home_blog"  alt="How to improve the performance of your website in nuxt js with nuxt-image 2023 - Article by Ahmed Waleed, the best web programmer in Egypt"/> </nuxtLink>
+				src="06_home_blog"  alt="How to improve the performance of your website in nuxt js with nuxt-image 2023 - Article by Ahmed Waleed, the best web programmer in Egypt"/> </nuxtLink>
                             </div>
                             <div class="rbt-card-body">
-                                <h5 class="rbt-card-title"><nuxtLink to="/en-us/blog/javascript-before-react">How to improve the performance in nuxt website with image...</nuxtLink></h5>
+                                <h5 class="rbt-card-title"><nuxtLink to="/en-us/blog/nuxt-image-performance">How to improve the performance in nuxt website with image...</nuxtLink></h5>
                                  <div class="rbt-card-bottom">
-                                    <nuxtLink class="transparent-button" to="/en-us/blog/javascript-before-react"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> Read Article</nuxtLink>
+                                    <nuxtLink class="transparent-button" to="/en-us/blog/nuxt-image-performance"><i><svg width="17" height="12" xmlns="http://www.w3.org/2000/svg"><g stroke="#27374D" fill="none" fill-rule="evenodd"><path d="M10.614 0l5.629 5.629-5.63 5.629"/><path stroke-linecap="square" d="M.663 5.572h14.594"/></g></svg></i> Read Article</nuxtLink>
                                 </div>
                             </div>
                         </div>
@@ -869,7 +869,7 @@
                                     <div class="single-slide">
                                         <div class="rbt-card event-grid-card variation-01 rbt-hover">
                                             <div class="rbt-card-img">
-                                                <nuxtLink to="/en-us/blog/ahmedwaleed-help-event-tedxsha">
+                                                <nuxtLink to="/en-us/blog/tedxsha-work">
                                                     <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
@@ -879,7 +879,7 @@
                                             </div>
                                             <div class="rbt-card-body text-center">
                                                 <div class="read-more-btn">
-                                                    <nuxtLink class="rbt-btn btn-border hover-icon-reverse btn-sm radius-round" to="/en-us/blog/ahmedwaleed-help-event-tedxsha">
+                                                    <nuxtLink class="rbt-btn btn-border hover-icon-reverse btn-sm radius-round" to="/en-us/blog/tedxsha-work">
                                                         <span class="icon-reverse-wrapper">
                                     <span class="btn-text">Event Details</span>
                                                         <span class="btn-icon"><i class="feather-arrow-right"></i></span>
