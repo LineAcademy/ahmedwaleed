@@ -29,7 +29,7 @@
 							@click="setCategory(null)"
 							class="px-3 rounded-sm capitalize bg-gray-200 ml-5"
 						>
-							Clear &times;
+							كل الكورسات
 						</button>
 					</h1>
 					<div class="d-flex items-center space-x-5 mb-5">
