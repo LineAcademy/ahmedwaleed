@@ -46,10 +46,10 @@
                                         <div class="col-lg-12 col-xl-3 col-xxl-4 single-mega-item">
                                             <h3 class="rbt-short-title">المشاريع</h3>
                                             <ul class="mega-menu-item">
-                                                <li><NuxtLink to="/courses/build-junior-site">بناء موقع جونيور [8 فديوهات]</NuxtLink></li>
-                                                <li><NuxtLink to="/courses/javascript-projects">مشاريع جافاسكريبت للمبتدئين</NuxtLink></li>
-                                                <li><NuxtLink to="/courses/upload-site-to-github">رفع المشروع علي جيتهب</NuxtLink></li>
-                                                <li><NuxtLink to="/courses/upload-site-to-netlify">رفع المشروع علي نيتفلاي</NuxtLink></li>
+                                                <li><NuxtLink to="/courses/build-website-junior">بناء موقع جونيور [8 فديوهات]</NuxtLink></li>
+                                                <li><NuxtLink to="/courses/javascript-projects-for-beginners">مشاريع جافاسكريبت للمبتدئين</NuxtLink></li>
+                                                <li><NuxtLink to="/courses/upload-projects-online">رفع المشروع علي جيتهب</NuxtLink></li>
+                                                <li><NuxtLink to="/courses/upload-projects-online">رفع المشروع علي نيتفلاي</NuxtLink></li>
                                                 <li>
 							<a v-if="route.href === '/blog'" class="rbt-btn hover-icon-reverse" href="/courses"> كل الكورسات
 			                                </a>
@@ -62,7 +62,7 @@
                                         <div class="col-lg-12 col-xl-3 col-xxl-4 single-mega-item">
                                             <h3 class="rbt-short-title">التعليم</h3>
                                             <ul class="mega-menu-item">
-                                                <li><NuxtLink to="/courses/javascript-before-react">دورة اهم الاشياء جافاسكريبت قبل رياكت</NuxtLink></li>
+                                                <li><NuxtLink to="/courses/what-do-you-learn-in-javascript-before-libraries-frameworks-2">دورة اهم الاشياء جافاسكريبت قبل رياكت</NuxtLink></li>
                                                 <li><NuxtLink to="/courses/javascript-interview-qs">دورة أسئلة الانترفيو جافاسكريبت</NuxtLink></li>
                                                 <li><NuxtLink to="/courses/react/">دورة شرح رياكت</NuxtLink></li>
                                                 <li><NuxtLink to="/courses/javascript-basics">دورة شرح أساسيات جافاسكريبت </NuxtLink></li>
@@ -312,10 +312,10 @@
                                                 <div class="col-lg-12 col-xl-3 col-xxl-4 single-mega-item">
                                                     <h3 class="rbt-short-title">Projects</h3>
                                                     <ul class="mega-menu-item">
-                                                        <li><NuxtLink to="/en-us/courses/build-junior-site"> Build Junior Website [8 Videos] </NuxtLink></li>
-                                                        <li><NuxtLink to="/en-us/courses/javascript-projects"> JavaScript Beginner Projects </NuxtLink></li>
-                                                        <li><NuxtLink to="/en-us/courses/upload-site-to-github"> Deploy On Github </NuxtLink></li>
-                                                        <li><NuxtLink to="/en-us/courses/upload-site-to-netlify"> Deploy On Vercel </NuxtLink></li>
+                                                        <li><NuxtLink to="/en-us/courses/build-website-junior"> Build Junior Website [8 Videos] </NuxtLink></li>
+                                                        <li><NuxtLink to="/en-us/courses/javascript-projects-for-beginners"> JavaScript Beginner Projects </NuxtLink></li>
+                                                        <li><NuxtLink to="/en-us/courses/upload-projects-online"> Deploy On Github </NuxtLink></li>
+                                                        <li><NuxtLink to="/en-us/courses/upload-projects-online"> Deploy On Vercel </NuxtLink></li>
                                                         <li>
 								<a v-if="route.href === '/en-us/blog'" class="rbt-btn hover-icon-reverse" href="/en-us/courses"> All Courses
 								</a>
@@ -328,7 +328,7 @@
                                                 <div class="col-lg-12 col-xl-3 col-xxl-4 single-mega-item">
                                                     <h3 class="rbt-short-title">Learning</h3>
                                                     <ul class="mega-menu-item">
-                                                        <li><NuxtLink to="/en-us/courses/javascript-before-react"> Modern JS Before React.js Course </NuxtLink></li>
+                                                        <li><NuxtLink to="/en-us/courses/what-do-you-learn-in-javascript-before-libraries-frameworks"> Modern JS Before React.js Course </NuxtLink></li>
                                                         <li><NuxtLink to="/en-us/courses/javascript-interview-qs"> JavaScript Interview Questions </NuxtLink></li>
                                                         <li><NuxtLink to="/en-us/courses/react/"> Course React.js For Beginners </NuxtLink></li>
                                                         <li><NuxtLink to="/en-us/courses/javascript-basics"> JavaScript Basics Course </NuxtLink></li>
