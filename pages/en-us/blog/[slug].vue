@@ -204,7 +204,8 @@
 }
 	.section-title {
         background: #0963de;
-    display: inline-block;
+    text-align: center;
+    display: block;
     border-radius: 5px;
     padding: 10px;
 }
