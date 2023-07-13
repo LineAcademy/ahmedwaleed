@@ -3,7 +3,7 @@ createdAt: 2023-07-13
 slug: why-i-love-nuxtjs
 title: Why I love NuxtJS framework
 image: blogen_5_r8rhjh
-subImage: sub-love-tech-stack_nuxtjs
+subImage: blogen_5_r8rhjh
 id: 11
 category: nuxt
 description: I worked on several large and medium projects using nuxtjs and it
