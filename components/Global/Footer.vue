@@ -13,7 +13,7 @@
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
                     <nuxtLink to="/blog/why-i-love-nextjs">
-                        <img src="/assets/images/blog/creative/4.png" alt="instagram">
+                        <img src="/assets/images/blog/creative/4.webp" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@Next.JS</span>
@@ -24,7 +24,7 @@
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
                     <nuxtLink to="/blog/why-i-love-nuxtjs-1">
-                        <img src="/assets/images/blog/creative/5.png" alt="instagram">
+                        <img src="/assets/images/blog/creative/5.webp" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@Nuxt.JS</span>
@@ -35,7 +35,7 @@
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
                     <nuxtLink to="/blog/why-i-love-jamstack-1">
-                        <img src="/assets/images/blog/creative/6.png" alt="instagram">
+                        <img src="/assets/images/blog/creative/6.webp" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@JamStack</span>
@@ -46,7 +46,7 @@
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
                     <nuxtLink to="/blog/why-i-love-cypress-testing">
-                        <img src="/assets/images/blog/creative/7.png" alt="instagram">
+                        <img src="/assets/images/blog/creative/7.webp" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@Cypress</span>
@@ -57,7 +57,7 @@
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
                     <nuxtLink to="/blog/why-i-love-fulltypescript">
-                        <img src="/assets/images/blog/creative/8.png" alt="instagram">
+                        <img src="/assets/images/blog/creative/8.webp" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@FullTypeScript</span>
@@ -68,7 +68,7 @@
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
                     <a href="#">
-                        <img src="/assets/images/blog/creative/9.png" alt="instagram">
+                        <img src="/assets/images/blog/creative/9.webp" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@Myself</span>
@@ -130,7 +130,7 @@
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
                     <nuxtLink to="/en-us/blog/why-i-love-nextjs">
-                        <img src="/assets/images/blog/creative/en3.png" alt="instagram">
+                        <img src="/assets/images/blog/creative/en3.webp" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@Next.JS</span>
@@ -141,7 +141,7 @@
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
                     <nuxtLink to="/en-us/blog/why-i-love-nuxtjs">
-                        <img src="/assets/images/blog/creative/en4.png" alt="instagram">
+                        <img src="/assets/images/blog/creative/en4.webp" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@Nuxt.JS</span>
@@ -152,7 +152,7 @@
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
                     <nuxtLink to="/en-us/blog/why-i-love-jamstack">
-                        <img src="/assets/images/blog/creative/en5.png" alt="instagram">
+                        <img src="/assets/images/blog/creative/en5.webp" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@JamStack</span>
@@ -163,7 +163,7 @@
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
                     <nuxtLink to="/en-us/blog/why-i-love-cypress-testing">
-                        <img src="/assets/images/blog/creative/en6.png" alt="instagram">
+                        <img src="/assets/images/blog/creative/en6.webp" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@Cypress</span>
@@ -174,7 +174,7 @@
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
                     <nuxtLink to="/en-us/blog/why-i-love-fulltypescript">
-                        <img src="/assets/images/blog/creative/en7.png" alt="instagram">
+                        <img src="/assets/images/blog/creative/en7.webp" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@FullTypeScript</span>
@@ -185,7 +185,7 @@
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
                     <a href="#">
-                        <img src="/assets/images/blog/creative/en8.png" alt="instagram">
+                        <img src="/assets/images/blog/creative/en8.webp" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
                         <span class="user-name">@Myself</span>
