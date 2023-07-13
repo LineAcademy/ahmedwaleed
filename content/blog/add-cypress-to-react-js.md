@@ -2,7 +2,7 @@
 createdAt: 2023-07-04
 slug: add-cypress-to-react-js
 title: أضافة أختبار لتطبيق رياكت بأستخدام Cypress 2023
-image: blogen_3_p8mk5s
+image: ar-add-cypress-to-react_eqgpwf
 subImage: sub-add-cypress-react
 id: 1
 category: testing
