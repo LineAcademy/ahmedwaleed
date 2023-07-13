@@ -3,7 +3,7 @@ createdAt: 2023-07-07
 slug: why-i-love-cypress-testing
 title: why i love Cypress Testing
 image: blogen_7_ngvphy
-subImage: sub-love-tech-stack_cypress
+subImage: blogen_7_ngvphy
 id: 14
 category: testing
 description: I worked on several large and medium projects using cypress and it
