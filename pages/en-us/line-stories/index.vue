@@ -28,7 +28,7 @@
                                     </div>
                                 </div>
             </div>
-            <div dir="rtl" class="row row--15 mt_dec--30">
+            <div class="row row--15 mt_dec--30">
                 <template
 							v-for="(p, i) in pro"
 							:key="`product-${i}-${p.id}`"
