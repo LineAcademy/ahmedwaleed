@@ -208,10 +208,10 @@
                     <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-12">
                         <ul class="copyright-link rbt-link-hover justify-content-center justify-content-lg-end mt_sm--10 mt_md--10">
                             <li><a :href="`${route.href.replace('/en-us','')}`">اللغة العربية</a></li>
-                            <li><NuxtLink to="/blog">Blog</NuxtLink></li>
-                            <li><NuxtLink to="/half-of-fame">Half-OF-Fame</NuxtLink></li>
-                            <li><NuxtLink to="/line-stories">Line-Stories</NuxtLink></li>
-                            <li><NuxtLink to="/courses">Courses</NuxtLink></li>
+                            <li><NuxtLink to="/en-us/blog">Blog</NuxtLink></li>
+                            <li><NuxtLink to="/en-us/half-of-fame">Half-OF-Fame</NuxtLink></li>
+                            <li><NuxtLink to="/en-us/line-stories">Line-Stories</NuxtLink></li>
+                            <li><NuxtLink to="/en-us/courses">Courses</NuxtLink></li>
                         </ul>
                     </div>
 
