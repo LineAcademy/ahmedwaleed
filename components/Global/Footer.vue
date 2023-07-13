@@ -140,7 +140,7 @@
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
-                    <nuxtLink to="/en-us/blog/why-i-love-nuxtjs-1">
+                    <nuxtLink to="/en-us/blog/why-i-love-nuxtjs">
                         <img src="/assets/images/blog/creative/en4.png" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
@@ -151,7 +151,7 @@
             </div>
             <div class="col-lg-2 col-md-4 col-sm-6 col-6">
                 <div class="instagram-grid">
-                    <nuxtLink to="/en-us/blog/why-i-love-jamstack-1">
+                    <nuxtLink to="/en-us/blog/why-i-love-jamstack">
                         <img src="/assets/images/blog/creative/en5.png" alt="instagram">
                         <span class="user-info">
                         <span class="icon"><i class="icon-instagram"></i></span>
