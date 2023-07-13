@@ -41,7 +41,7 @@
         <div class="swiper-slide">
             <div class="rbt-card variation-01 rbt-hover">
                 <div class="rbt-card-img">
-                    <nuxtLink to="/courses/javascript-before-react">
+                    <nuxtLink to="/courses/what-do-you-learn-in-javascript-before-libraries-frameworks-2">
                         <nuxt-img
     loading="lazy" 
     fit="cover"
