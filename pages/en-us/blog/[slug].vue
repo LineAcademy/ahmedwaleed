@@ -70,7 +70,7 @@
                                             </div>
                                             <nav class="mainmenu-nav">
                                                 <ul class="dashboard-mainmenu rbt-default-sidebar-list">
-                                                    <li><nuxtLink to="/en-us/blogadd-cypress-to-react-js"><span> Add Testing In React Using Cypress </span></nuxtLink></li>
+                                                    <li><nuxtLink to="/en-us/blog/add-cypress-to-react-js"><span> Add Testing In React Using Cypress </span></nuxtLink></li>
                                                     <li><nuxtLink to="/en-us/blog/react-software-architecture-pattern"><span> Software Architecture (ssr, state, patterns) REACT.JS</span></nuxtLink></li>
                                                     <li><nuxtLink to="/en-us/blog/react-lite-youtube-embeds"><span>Best Way To Add YT Iframes Into React APP</span></nuxtLink></li>
                                                 </ul>
