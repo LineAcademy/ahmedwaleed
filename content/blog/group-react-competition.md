@@ -13,7 +13,7 @@ description: مسابقة Html,Css,JS في برمجة المواقع فرونت 
 
 > **ا﻿لناس الي كسبت والمشاريع :**
 
-الاولي [بسمه حياه](https://www.facebook.com/profile.php?id=100034842552910&__cft__[0]=AZXTeCfUXRtZTBLyaGetfxAgcFenV2p5E2Gs3KEVqbIRbRVaEYctt9z5RqlzGH5J6PnlJuMMfNNKsjeo7KM6BhdlDNcFvXPh_ccsfyfjP4W7KfAPPMw_pDRHtmzCBoOLlAJwQlbaFKpaG-PABOrb9IPoO-yxYO6p18m-5QOX_A-pyo5CUQf4_xONrPfrAMoVDGQ&__tn__=-]K-R) :
+الاولي [مها](https://www.facebook.com/profile.php?id=100034842552910&__cft__[0]=AZXTeCfUXRtZTBLyaGetfxAgcFenV2p5E2Gs3KEVqbIRbRVaEYctt9z5RqlzGH5J6PnlJuMMfNNKsjeo7KM6BhdlDNcFvXPh_ccsfyfjP4W7KfAPPMw_pDRHtmzCBoOLlAJwQlbaFKpaG-PABOrb9IPoO-yxYO6p18m-5QOX_A-pyo5CUQf4_xONrPfrAMoVDGQ&__tn__=-]K-R) :
 
 صاحبتها الي في التيم اعتزرت بس هي كملت وعملت المشروع لوحدها وكمان في الديدلاين هي حاليا في ال vue وحد جامد يعني
 
