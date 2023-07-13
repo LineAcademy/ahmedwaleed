@@ -3,7 +3,7 @@ category: front-end
 slug: build-website-junior
 title: Build a Junior HTML, CSS, and JS website with me
 image: course_2_ais6ia
-subImage: sub_website_tay0cu
+subImage: sub_build_egjlfm
 id: 1
 description: Build Junior Website Html,Css,Javascript - Ahmed Walid JavaScript
   Projects - Crud With Pure JavaScript - Drag & Drop JavaScript - Convert Voice
