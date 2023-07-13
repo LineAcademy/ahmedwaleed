@@ -1307,11 +1307,6 @@ const { data: tes1 } = await useAsyncData("tes1", () => {
             { name: 'note', content: 'الصفحة الرئيسية لأحمد وليد مدرب برمجة مواقع في مصر' },
             { name: 'msapplication-tooltip', content: 'الصفحة الرئيسية لأحمد وليد مدرب برمجة مواقع في مصر' },
         ],
-        htmlAttrs: { lang: 'ar-EG' },
-        script: [
-            { src: '/assets/js/vendor/modernizr.min.js', body: true },
-            { src: '/assets/js/vendor/jquery.js', body: true },
-            { src: '/assets/js/ahmedwaleed.min.js', body: true },
-          ],
+        htmlAttrs: { lang: 'ar-EG' }
 })  
   </script>
