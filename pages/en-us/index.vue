@@ -42,7 +42,7 @@
                                     <div class="swiper-slide">
                                         <div class="rbt-card variation-01 rbt-hover">
                                             <div class="rbt-card-img">
-                                                <nuxtLink to="/en-us/courses/javascript-before-react">
+                                                <nuxtLink to="/en-us/courses/what-do-you-learn-in-javascript-before-libraries-frameworks">
                                                     <nuxt-img
                                 loading="lazy" 
                                 fit="cover"
@@ -55,7 +55,7 @@
                                                 </h4>
                                                 <p class="rbt-card-text">In the course, we will learn about the most important things that you need to study in Modern JavaScript before React</p>
                                                 <div class="rbt-card-bottom">
-                                                    <nuxtLink to="/en-us/courses/javascript-before-react" class="rbt-btn"> Course Videos </nuxtLink>
+                                                    <nuxtLink to="/en-us/courses/what-do-you-learn-in-javascript-before-libraries-frameworks" class="rbt-btn"> Course Videos </nuxtLink>
                                                 </div>
                                             </div>
                                         </div>
@@ -115,11 +115,11 @@
                                         </div>
                                             </div>
                                             <div  class="rbt-card-body">
-                                                <h4 class="rbt-card-title"><nuxtLink to="/en-us/hall-of-fame/maha">Maha React JS project with Api</nuxtLink>
+                                                <h4 class="rbt-card-title"><nuxtLink to="/en-us/hall-of-fame/maha-frontend-developer">Maha React JS project with Api</nuxtLink>
                                                 </h4>
                                                 <p class="rbt-card-text">Maha is a hardworking person who made the project with React and Redux in 2 languages , also Dark , White Theme - proud of Maha</p>
                                                 <div class="rbt-card-bottom">
-                                                    <nuxtLink to="/en-us/hall-of-fame/maha" class="rbt-btn"> Check out Maha profile</nuxtLink>
+                                                    <nuxtLink to="/en-us/hall-of-fame/maha-frontend-developer" class="rbt-btn"> Check out Maha profile</nuxtLink>
                                                 </div>
                                             </div>
                                         </div>
@@ -163,12 +163,12 @@
             transform: scale(1.2);
           }
         </style>
-        <a href='https://www.youtube.com/embed/vMVuYCEI-iw?autoplay=1'>
-          <img src='https://img.youtube.com/vi/vMVuYCEI-iw/hqdefault.jpg' alt='Group React competition with Ahmed Waleed - the best web programmer in Egypt'>
+        <a href='https://www.youtube.com/embed/kvPdNUBTMZw?autoplay=1'>
+          <img src='https://img.youtube.com/vi/kvPdNUBTMZw/hqdefault.jpg' alt='Group React competition with Ahmed Waleed - the best web programmer in Egypt'>
           <svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 24 24' fill='none' stroke='#ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-play-circle'><circle cx='12' cy='12' r='10'></circle><polygon points='10 8 16 12 10 16 10 8'></polygon></svg>
         </a>
         "
-        src="https://www.youtube.com/embed/vMVuYCEI-iw" 
+        src="https://www.youtube.com/embed/kvPdNUBTMZw" 
         title='Group React competition with Ahmed Waleed - the best web programmer in Egypt'
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
@@ -228,12 +228,12 @@
             transform: scale(1.2);
           }
         </style>
-        <a href='https://www.youtube.com/embed/kvPdNUBTMZw?autoplay=1'>
-          <img src='https://img.youtube.com/vi/kvPdNUBTMZw/hqdefault.jpg' alt='HTML CSS Competition with Ahmed Waleed - the best programmer and web designer in Egypt'>
+        <a href='https://www.youtube.com/embed/vMVuYCEI-iw?autoplay=1'>
+          <img src='https://img.youtube.com/vi/vMVuYCEI-iw/hqdefault.jpg' alt='HTML CSS Competition with Ahmed Waleed - the best programmer and web designer in Egypt'>
           <svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 24 24' fill='none' stroke='#ffffff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round' class='feather feather-play-circle'><circle cx='12' cy='12' r='10'></circle><polygon points='10 8 16 12 10 16 10 8'></polygon></svg>
         </a>
         "
-        src="https://www.youtube.com/embed/kvPdNUBTMZw" 
+        src="https://www.youtube.com/embed/vMVuYCEI-iw" 
         title='HTML CSS Competition with Ahmed Waleed - the best programmer and web designer in Egypt'
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
