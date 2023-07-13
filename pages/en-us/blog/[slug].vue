@@ -82,7 +82,7 @@
                                             <nav class="mainmenu-nav">
                                                 <ul class="dashboard-mainmenu rbt-default-sidebar-list">
                                                     <li><nuxtLink to="/en-us/blog/static-sites-are-back-in-2023"><span> Static Websites Are Back in 2023 </span></nuxtLink></li>
-                                                    <li><nuxtLink to="/en-us/blog/why-i-love-jamstack-1"><span>  Why I Love JamStack </span></nuxtLink></li>
+                                                    <li><nuxtLink to="/en-us/blog/why-i-love-jamstack"><span>  Why I Love JamStack </span></nuxtLink></li>
                                                 </ul>
                                             </nav>
 
@@ -93,7 +93,7 @@
                                             <nav class="mainmenu-nav">
                                                 <ul class="dashboard-mainmenu rbt-default-sidebar-list">
                                                     <li><nuxtLink to="/en-us/blog/nuxt-image-performance"><span> Improving Performance Using Nuxt-Image </span></nuxtLink></li>
-                                                    <li><nuxtLink to="/en-us/blog/why-i-love-nuxtjs-1"><span> Why I Love NuxtJS FrameWork </span></nuxtLink></li>
+                                                    <li><nuxtLink to="/en-us/blog/why-i-love-nuxtjs"><span> Why I Love NuxtJS FrameWork </span></nuxtLink></li>
                                                 </ul>
                                             </nav>
 
