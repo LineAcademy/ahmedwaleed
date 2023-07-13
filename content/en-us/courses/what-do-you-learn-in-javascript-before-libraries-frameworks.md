@@ -3,7 +3,7 @@ category: javascript
 slug: what-do-you-learn-in-javascript-before-libraries-frameworks
 title: What do you learn in javascript before any framework
 image: course_1_gwsdsz
-subImage: sub_js_before_reactt_1_vtllec
+subImage: sub_modern_js_fn3fsr
 id: 5
 description: What do I learn in JavaScript before React or any framework - Ahmed
   Walid and JavaScript - Modern Javascript - Var -Let - Const - Arrow Function -
