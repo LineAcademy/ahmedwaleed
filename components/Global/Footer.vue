@@ -103,7 +103,7 @@
                     </div>
                     <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-12">
                         <ul class="copyright-link rbt-link-hover justify-content-center justify-content-lg-end mt_sm--10 mt_md--10">
-                            <li><NuxtLink :to="`/en-us${route.href}`">English</NuxtLink></li>
+                            <li><a :href="`/en-us${route.href}`">English</a></li>
                             <li><NuxtLink to="/blog">المدونة</NuxtLink></li>
                             <li><NuxtLink to="/half-of-fame">قاعة الأَثَر</NuxtLink></li>
                             <li><NuxtLink to="/line-stories">حكايات مؤثرة</NuxtLink></li>
@@ -204,6 +204,17 @@
         <div class="copyright-area copyright-style-1 ptb--20">
             <div class="container">
                 <div class="row align-items-center">
+                    
+                    <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-12">
+                        <ul class="copyright-link rbt-link-hover justify-content-center justify-content-lg-end mt_sm--10 mt_md--10">
+                            <li><a :href="`${route.href.replace('/en-us','')}`">العربية</a></li>
+                            <li><NuxtLink to="/blog">Blog</NuxtLink></li>
+                            <li><NuxtLink to="/half-of-fame">Half-OF-Fame</NuxtLink></li>
+                            <li><NuxtLink to="/line-stories">Line-Stories</NuxtLink></li>
+                            <li><NuxtLink to="/courses">Courses</NuxtLink></li>
+                        </ul>
+                    </div>
+
                     <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-12">
                         <div class="rbt-btn-wrapper d-block">
                             <ul class="social-icon justify-content-center  d-flex justify-content-lg-start">
@@ -217,15 +228,6 @@
                                 </li>
                             </ul>
                         </div>
-                    </div>
-                    <div class="col-xxl-6 col-xl-6 col-lg-6 col-md-12 col-12">
-                        <ul class="copyright-link rbt-link-hover justify-content-center justify-content-lg-end mt_sm--10 mt_md--10">
-                            <li><NuxtLink :to="`/en-us${route.href}`">English</NuxtLink></li>
-                            <li><NuxtLink to="/blog">المدونة</NuxtLink></li>
-                            <li><NuxtLink to="/half-of-fame">قاعة الأَثَر</NuxtLink></li>
-                            <li><NuxtLink to="/line-stories">حكايات مؤثرة</NuxtLink></li>
-                            <li><NuxtLink to="/courses">الكورسات</NuxtLink></li>
-                        </ul>
                     </div>
                 </div>
             </div>
