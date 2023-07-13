@@ -446,10 +446,10 @@
                                     <div class="col-lg-12 col-xl-3 col-xxl-4 single-mega-item">
                                         <h3 class="rbt-short-title">Projects</h3>
                                         <ul class="mega-menu-item">
-                                                        <li><NuxtLink to="/en-us/courses/build-junior-site"> Build Junior Website [8 Videos] </NuxtLink></li>
-                                                        <li><NuxtLink to="/en-us/courses/javascript-projects"> JavaScript Beginner Projects </NuxtLink></li>
-                                                        <li><NuxtLink to="/en-us/courses/upload-site-to-github"> Deploy On Github </NuxtLink></li>
-                                                        <li><NuxtLink to="/en-us/courses/upload-site-to-netlify"> Deploy On Vercel </NuxtLink></li>
+                                                        <li><NuxtLink to="/en-us/courses/build-website-junior"> Build Junior Website [8 Videos] </NuxtLink></li>
+                                                        <li><NuxtLink to="/en-us/courses/javascript-projects-for-beginners"> JavaScript Beginner Projects </NuxtLink></li>
+                                                        <li><NuxtLink to="/en-us/courses/upload-projects-online"> Deploy On Github </NuxtLink></li>
+                                                        <li><NuxtLink to="/en-us/courses/upload-projects-online"> Deploy On Vercel </NuxtLink></li>
                                                     </ul>
                                                 </div>
 
@@ -458,7 +458,7 @@
                                                     <ul class="mega-menu-item">
                                                         <li><NuxtLink to="/en-us/courses/javascript-before-react"> Modern JS Before React.js Course </NuxtLink></li>
                                                         <li><NuxtLink to="/en-us/courses/javascript-interview-qs"> JavaScript Interview Questions </NuxtLink></li>
-                                                        <li><NuxtLink to="/en-us/courses/react/"> Course React.js For Beginners </NuxtLink></li>
+                                                        <li><NuxtLink to="/en-us/courses/react"> Course React.js For Beginners </NuxtLink></li>
                                                         <li><NuxtLink to="/en-us/courses/javascript-basics"> JavaScript Basics Course </NuxtLink></li>
                                                         <li><a to="#"> HTML Course <span class="rbt-badge-card">SOON</span></a></li>
                                                         <li><a to="#"> CSS Course <span class="rbt-badge-card">SOON</span></a></li>
