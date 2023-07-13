@@ -2,8 +2,8 @@
 createdAt: 2023-07-06
 slug: ahmedwaleed-help-event-tedxyouthorabyst
 title: Work with the TEDxYoth@OrabySt organization & designing their website
-image: st4_fm13uy
-subImage: st4_fm13uy
+image: it_tedxoraby_yt9akj
+subImage: it_tedxoraby_yt9akj
 id: 10
 category: mentoring
 description: Ahmed Waleed designed the largest website for TEDxYouth@OrabySt -
