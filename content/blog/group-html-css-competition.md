@@ -1,7 +1,7 @@
 ---
 createdAt: 2023-07-12
 slug: group-html-css-competition
-title: Ahmed Waleed competition html css pure
+title: مسابقة احمد وليد html css pure
 image: hqdefault_crqjkh
 subImage: sub_html_comp_el69pb
 id: 16
