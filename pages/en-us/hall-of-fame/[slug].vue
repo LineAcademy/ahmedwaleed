@@ -67,14 +67,14 @@
                                                 <ul class="dashboard-mainmenu rbt-default-sidebar-list">
                                                     <li>
 							<nuxtLink to="/en-us/hall-of-fame/salma-mohamed-frontend-developer">
-							    <span> Salma - FrontEnd Developer </span>
 							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_1_tbc0ty" alt="Salma Mohamed Front End Developer - Ahmed Waleed Very proud of her because she is hardworking" />
+							    <span> Salma - FrontEnd Developer </span>
 						    	</nuxtLink>
 						    </li>
                                                     <li>
 							<nuxtLink to="/en-us/hall-of-fame/hosam-salah-frontend-developer">
-							    <span> Hossam Salah - FrontEnd Developer </span>
 							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_2_valaau" alt="Hossam Salah Front End Developer - Ahmed Waleed Very proud of him because she is hardworking" />
+							    <span> Hossam Salah - FrontEnd Developer </span>
 						    	</nuxtLink>
 						    </li>
 							<li>
