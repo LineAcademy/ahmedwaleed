@@ -3,7 +3,7 @@ createdAt: 2023-07-07
 slug: why-i-love-nextjs
 title: Why I love NextJs framework
 image: blogen_6_nq8pev
-subImage: love-tech-stack_next
+subImage: blogen_6_nq8pev
 id: 12
 category: next
 description: I worked on several large and medium projects using nextjs and it
