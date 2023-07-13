@@ -6,47 +6,6 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="row g-5">
-                        <div class="col-lg-3">
-                            <!-- Start Dashboard Sidebar  -->
-                            <div class="rbt-default-sidebar sticky-top rbt-shadow-box rbt-gradient-border">
-                                <div class="inner">
-                                    <div class="content-item-content">
-
-                                        <div class="rbt-default-sidebar-wrapper">
-                                            <div class="section-title mb--20">
-                                                <h6 class="rbt-title-style-2">منشورات ذات صلة</h6>
-                                            </div>
-                                            <nav class="mainmenu-nav">
-                                                <ul class="dashboard-mainmenu rbt-default-sidebar-list">
-                                                    <li><a href="student-dashboard.html"><span>احمد وليد - Front-End</span></a></li>
-                                                    <li><a href="student-profile.html"><i class="feather-user"></i><span>My Profile</span></a></li>
-                                                    <li><a href="student-enrolled-courses.html"><i class="feather-book-open"></i><span>Enrolled Courses</span></a></li>
-                                                    <li><a href="student-wishlist.html"><i class="feather-bookmark"></i><span>Wishlist</span></a></li>
-                                                    <li><a href="student-reviews.html"><i class="feather-star"></i><span>Reviews</span></a></li>
-                                                    <li><a href="student-my-quiz-attempts.html"><i class="feather-help-circle"></i><span>My Quiz Attempts</span></a></li>
-                                                    <li><a href="student-order-history.html"><i class="feather-shopping-bag"></i><span>Order History</span></a></li>
-                                                </ul>
-                                            </nav>
-
-                                            <div class="section-title mt--40 mb--20">
-                                                <h6 class="rbt-title-style-2">حكايات مؤثرة</h6>
-                                            </div>
-
-                                            <nav class="mainmenu-nav">
-                                                <ul class="dashboard-mainmenu rbt-default-sidebar-list">
-                                                    <li><a href="student-settings.html"><span>حكاية سلمي لوظيفة React.JS</span></a></li>
-                                                    <li><a href="index.html"><span>حكاية مها بطل ابطال Front-End</span></a></li>
-                                                    <li><a href="index.html"><span>حكاية منة لوظيفة رياكت Canada</span></a></li>
-                                                </ul>
-                                            </nav>
-                                        </div>
-
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- End Dashboard Sidebar  -->
-                        </div>
-
                         <div dir="rtl" class="col-lg-9 pt-4">
                             <!-- Start Enrole Course  -->
                             <div class="rbt-dashboard-content">
@@ -92,6 +51,70 @@
                                 </div>
                             </div>
                             <!-- End Enrole Course  -->
+                        </div>
+
+			                            <div class="col-lg-3">
+                            <!-- Start Dashboard Sidebar  -->
+                            <div class="rbt-default-sidebar sticky-top rbt-shadow-box rbt-gradient-border">
+                                <div class="inner">
+                                    <div class="content-item-content">
+
+                                        <div class="rbt-default-sidebar-wrapper">
+                                            <div class="section-title mb--20">
+                                                <h6 class="rbt-title-style-2">Hall-OF-Fame</h6>
+                                            </div>
+                                            <nav class="mainmenu-nav">
+                                                <ul class="dashboard-mainmenu rbt-default-sidebar-list">
+                                                    <li>
+							<nuxtLink to="/en-us/hall-of-fame/salma-mohamed-frontend-developer">
+							    <span> Salma - FrontEnd Developer </span>
+							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_1_tbc0ty" alt="Salma Mohamed Front End Developer - Ahmed Waleed Very proud of her because she is hardworking" />
+						    	</nuxtLink>
+						    </li>
+                                                    <li>
+							<nuxtLink to="/en-us/hall-of-fame/hosam-salah-frontend-developer">
+							    <span> Hossam Salah - FrontEnd Developer </span>
+							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_2_valaau" alt="Hossam Salah Front End Developer - Ahmed Waleed Very proud of him because she is hardworking" />
+						    	</nuxtLink>
+						    </li>
+							<li>
+							<nuxtLink to="/hall-of-fame/farha-fouad-frontend-developer">
+							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_3_t3rlvu" alt="Farha Fouad Front End Developer - Ahmed Waleed Very proud of her because she is hardworking" />
+							    <span> Farha Fouad - FrontEnd Developer </span>
+						    	</nuxtLink>
+						    </li>
+							<li>
+							<nuxtLink to="/en-us/hall-of-fame/maha-frontend-developer">
+							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_4_mndfcz" alt="Maha Gaper Front End Developer - Ahmed Waleed Very proud of her because she is hardworking" />
+							    <span> Maha Gaper - FrontEnd Developer </span>
+						    	</nuxtLink>
+						    </li>
+							<li>
+							<nuxtLink to="/en-us/hall-of-fame/menna-mohamed-frontend-developer">
+							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_7_kjfeee" alt="Menna Mohamed Front End Developer - Ahmed Waleed Very proud of her because she is hardworking" />
+							    <span> Menna Mohamed - FrontEnd Developer </span>
+						    	</nuxtLink>
+						    </li>
+							<li>
+							<nuxtLink to="/en-us/hall-of-fame/ahmed-takeshy-frontend-developer">
+							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_5_ymbccp" alt="Ahmed Takeshy Front End Developer - Ahmed Waleed Very proud of him because she is hardworking" />
+							    <span> Ahmed Takeshy - FrontEnd Developer </span>
+						    	</nuxtLink>
+						    </li>
+							<li>
+							<nuxtLink to="/en-us/hall-of-fame/mahmoud-sead-frontend-developer">
+							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_6_heze3l" alt=" Mahmoud Saeed Front End Developer - Ahmed Waleed Very proud of him because she is hardworking" />
+							    <span> Mahmoud Saeed - FrontEnd Developer </span>
+						    	</nuxtLink>
+						    </li>
+                                                </ul>
+                                            </nav>
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- End Dashboard Sidebar  -->
                         </div>
                     </div>
 
@@ -171,6 +194,16 @@
 </script>
 
 <style scoped>
+	.image-person {
+    width: 50px;
+    margin-left: 5px;
+}
+	.section-title {
+        background: #0963de;
+    display: inline-block;
+    border-radius: 5px;
+    padding: 10px;
+}
 	.blog-link {
 		@apply prose-a:text-primary before:prose-headings:content-['#'] before:prose-headings:mr-1 before:prose-headings:text-primary before:prose-h1:content-[''];
 	}
