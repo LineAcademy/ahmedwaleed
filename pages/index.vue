@@ -18,7 +18,7 @@
                                     <br> <strong>مجهودك وسعيك قادرين يخلوك في مكان أفضل</strong>
                                 </p>
                                 <div class="slider-btn text-center">
-                                    <nuxtLink to="/courses" class="rbt-btn" style="margin-left: 10px;" href="#">
+                                    <nuxtLink to="/courses" class="rbt-btn" style="margin-left: 10px;margin-bottom: 10px;" href="#">
                                         كورسات مسجِّلة
                                     </nuxtLink>
                                     <nuxtLink class="rbt-btn" to="/students-projects">
