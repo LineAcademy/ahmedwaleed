@@ -3,7 +3,7 @@ createdAt: 2023-07-13
 slug: group-react-competition
 title: Group React Competition on a 3 page HTML, CSS, JS website
 image: hqdefault_1_ouennu
-subImage: sub_js_comp_winz1z
+subImage: sub_page_3_wx7xte
 id: 17
 category: challenge
 description: Html, Css, JS competition in frontend web programming, a 3-page
