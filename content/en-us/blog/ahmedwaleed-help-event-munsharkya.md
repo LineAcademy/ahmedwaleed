@@ -2,8 +2,8 @@
 createdAt: 2023-07-06
 slug: ahmedwaleed-help-event-munsharkya
 title: Work with MunOrg  develope website
-image: st3_fltjib
-subImage: st3_fltjib
+image: it_mun_wcktbx
+subImage: it_mun_wcktbx
 id: 9
 category: mentoring
 description: Ahmed Waleed designed the largest website for the MunStem
