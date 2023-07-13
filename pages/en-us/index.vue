@@ -1128,13 +1128,13 @@
                 <div class="section-title text-center mb--30">
                     <h5 class="title color-white">said about me</h5>
                 </div>
-                <a class="rbt-btn btn-gradient hover-icon-reverse  btn-xxl" href="#">
+                <nuxtLink class="rbt-btn btn-gradient hover-icon-reverse  btn-xxl" to="/en-us/hall-of-fame">
                     <span class="icon-reverse-wrapper">
                         <span class="btn-text"> Hall-Of-Fame ⭐</span>
                     <span class="btn-icon"><i class="feather-arrow-right"></i></span>
                     <span class="btn-icon"><i class="feather-arrow-right"></i></span>
                     </span>
-                </a>
+                </nuxtLink>
                 <div class="section-title text-center mt--20">
                     <h5 class="title rbt-title-style-2 color-white">THANK GOD</h5>
                 </div>
