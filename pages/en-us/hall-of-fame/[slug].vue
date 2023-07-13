@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="row g-5">
-                        <div dir="rtl" class="col-lg-9 pt-4">
+                        <div class="col-lg-9 pt-4">
                             <!-- Start Enrole Course  -->
                             <div class="rbt-dashboard-content">
                                 <div class="content">
@@ -200,7 +200,8 @@
 }
 	.section-title {
         background: #0963de;
-    display: inline-block;
+    text-align: center;
+    display: block;
     border-radius: 5px;
     padding: 10px;
 }
