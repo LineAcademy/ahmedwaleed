@@ -1270,9 +1270,6 @@ const { data: tes1 } = await useAsyncData("tes1", () => {
 		return queryContent("tes/1").find();
 	});
 
-    const { data: tes2 } = await useAsyncData("tes2", () => {
-		return queryContent("tes/2").find();
-	});
 
     const { data: tes3 } = await useAsyncData("tes3", () => {
 		return queryContent("tes/3").find();
