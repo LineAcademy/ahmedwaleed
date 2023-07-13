@@ -78,7 +78,7 @@
 						    	</nuxtLink>
 						    </li>
 							<li>
-							<nuxtLink to="/hall-of-fame/farha-fouad-frontend-developer">
+							<nuxtLink to="/en-us/hall-of-fame/farha-fouad-frontend-developer">
 							    <nuxt-img loading="lazy" class="image-person" provider="cloudinary" src="sq_3_t3rlvu" alt="Farha Fouad Front End Developer - Ahmed Waleed Very proud of her because she is hardworking" />
 							    <span> Farha Fouad - FrontEnd Developer </span>
 						    	</nuxtLink>
