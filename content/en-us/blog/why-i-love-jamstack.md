@@ -3,7 +3,7 @@ createdAt: 2023-07-07
 slug: why-i-love-jamstack
 title: Why I love JamStack
 image: blogen_8_lcsuss
-subImage: sub-love-tech-stack_jamstack
+subImage: blogen_8_lcsuss
 id: 13
 category: Jamstack
 description: I worked on several large and medium projects using jamstack and it
