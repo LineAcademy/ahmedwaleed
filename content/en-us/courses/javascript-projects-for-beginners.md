@@ -3,7 +3,7 @@ category: javascript
 slug: javascript-projects-for-beginners
 title: JavaScript Projects course for beginners
 image: course_3_shaenu
-subImage: sub_js_projects_abpwjs
+subImage: sub_js_projects_1_a8pjyv
 id: 2
 description: Javascript applications for beginners - with Ahmed Walid, learn web programming
 videos:
