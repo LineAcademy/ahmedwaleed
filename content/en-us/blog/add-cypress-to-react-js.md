@@ -2,7 +2,7 @@
 createdAt: 2023-07-04
 slug: add-cypress-to-react-js
 title: Add a test to the React application using Cypress 2023
-image: ar-add-cypress-to-react_eqgpwf
+image: blogen_3_p8mk5s
 subImage: sub-add-cypress-react
 id: 1
 category: testing
