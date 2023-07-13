@@ -2,7 +2,7 @@
 createdAt: 2023-07-12
 slug: group-html-css-competition
 title: Ahmed Waleed competition html css pure
-image: hqdefault_crqjkh
+image: comp_landing_cvazed
 subImage: sub_page_2_ynyt0r
 id: 16
 category: challenge
