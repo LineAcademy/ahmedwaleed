@@ -19,4 +19,4 @@ subImage: sub_page_12_nxarke
 
 <a target="_blank"  href="https://jomohamed.github.io/Template_1/" class="rbt-btn btn-gradient hover-icon-reverse"><span class="icon-reverse-wrapper"><span style="color: white; ">Bemax Project</span></span></a>
 
-![Hajar Muhammad web programming project](https://res.cloudinary.com/drcfigqqr/image/upload/v1689014146/demo-bemax-design_a0lu80.webp "Hajar Muhammad web programming project")
+![Hagar Muhammad web programming project](https://res.cloudinary.com/drcfigqqr/image/upload/v1689014146/demo-bemax-design_a0lu80.webp "Hagar Muhammad web programming project")
