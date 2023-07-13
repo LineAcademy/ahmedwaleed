@@ -3,7 +3,7 @@ createdAt: 2023-07-12
 slug: group-html-css-competition
 title: Ahmed Waleed competition html css pure
 image: hqdefault_crqjkh
-subImage: sub_html_comp_el69pb
+subImage: sub_page_2_ynyt0r
 id: 16
 category: challenge
 description: Ahmed Waleed html css pure competition in frontend web programming
