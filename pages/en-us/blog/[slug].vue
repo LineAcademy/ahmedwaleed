@@ -5,7 +5,7 @@
             <div class="row">
                 <div class="col-lg-12">
                     <div class="row g-5">
-                        <div dir="rtl" class="col-lg-9">
+                        <div class="col-lg-9">
                             <!-- Start Enrole Course  -->
                             <div class="rbt-dashboard-content pt-4">
                                 <div class="content">
@@ -23,7 +23,7 @@
 		<div class="rbt-blog-details-area rbt-section-gapBottom breadcrumb-style-max-width">
             <div class="blog-content-wrapper rbt-article-content-wrapper">
                 <div class="content">
-					<div class="post-thumbnail mb-4 position-relative wp-block-image alignwide">
+					<div class="post-thumbnail mb-4 position-relative wp-block-image">
                         <figure>
                             <nuxt-img
                                 loading="lazy" 
@@ -199,6 +199,9 @@
 </script>
 
 <style scoped>
+	.blog-content-wrapper .post-thumbnail img {
+    width: 100%;
+}
 	.section-title {
         background: #0963de;
     display: inline-block;
