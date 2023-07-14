@@ -172,7 +172,7 @@ if(hall.value === null){
 ])
 
     useHead({
-        title: `${hall.value.title}`,
+        title: `${hall.value.name} ${hall.value.title}`,
         meta: [
             { name: 'description', content: `${hall.value.description}` },
             { name: 'keywords', content: 'اراء الاشخاص في مدرب برمجة, طلاب احمد وليد مبرمج مواقع, برمجة الويب, فرونت اند, باك اند, جافاسكريبت, رياكت, فيو, نيكست, تايبسكريبت, معلم برمجة مواقع, افضل مبرمج مواقع في مصر' },
