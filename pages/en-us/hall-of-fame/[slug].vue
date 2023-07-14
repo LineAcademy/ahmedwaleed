@@ -172,7 +172,7 @@
 ])
 
     useHead({
-        title: `${hall.value.title}`,
+        titleTemplate: `${hall.name + hall.value.title} · hall of fame`,
         meta: [
             { name: 'description', content: `${hall.value.description}` },
             { name: 'keywords', content: 'People opinions on Programming trainer, students of Ahmed Waleed, web programmer, web programming, frontend, backend, javascript, react, view, next, typescript, web programming teacher, best web programmer in Egypt' },
