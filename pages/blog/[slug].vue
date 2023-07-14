@@ -254,4 +254,10 @@ if(blog.value === null){
     overflow-x: auto;
     padding: 0.8571429em 1.1428571em;
 }
+	@media only screen and (min-width: 768px) and (max-width: 991px){
+		blockquote p{
+		font-size:15px
+	}
+	}
+	
 </style>
