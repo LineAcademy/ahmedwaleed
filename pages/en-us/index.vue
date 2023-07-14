@@ -1266,7 +1266,6 @@ const { data: courses } = await useAsyncData("courses", () => {
 		return queryContent("en-us/courses").find();
 	});
 
-    console.log(courses)
 
 const { data: tes1 } = await useAsyncData("tes1", () => {
 		return queryContent("en-us/tes/1").find();
