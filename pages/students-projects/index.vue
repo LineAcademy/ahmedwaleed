@@ -439,5 +439,10 @@ const { data: pro } = await useAsyncData("students-projects", () => {
             { name: 'msapplication-tooltip', content: 'مشاريع الطلاب لأحمد وليد مدرب برمجة مواقع في مصر' },
         ],
         htmlAttrs: { lang: 'ar-EG' },
+	    script: [
+            { src: '/assets/js/vendor/modernizr.min.js', body: true },
+            { src: '/assets/js/vendor/jquery.js', body: true },
+            { src: '/assets/js/ahmedwaleed.min.js', body: true },
+        ],
 })  
 </script>
