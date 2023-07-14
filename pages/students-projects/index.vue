@@ -440,7 +440,6 @@ const { data: pro } = await useAsyncData("students-projects", () => {
         ],
         htmlAttrs: { lang: 'ar-EG' },
 	    script: [
-            { src: '/assets/js/vendor/jquery.js', body: true },
             { src: '/assets/js/ahmedwaleed.min.js', body: true },
         ],
 })  
