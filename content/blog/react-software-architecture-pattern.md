@@ -9,10 +9,9 @@ category: architecture
 description: ال Software Architecture (ssr, state, patterns) ل REACT.JS - احترف
   رياكت مع احمد وليد
 ---
-اتخضيت صح ؟ اسف..\
-كنت بذاكر ال Software Architecture (ssr, state, patterns)\
-ل `REACT.JS`\
-========
+اتخضيت صح ؟ اسف..
+كنت بذاكر ال Software Architecture (ssr, state, patterns)
+ل `REACT.JS`
 
 > الحاجات دي مفيدة لاي رياكت ديفيلوبر يتعرف عليها بجد تحفة 
 
