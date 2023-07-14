@@ -168,8 +168,8 @@ if(blog.value === null){
             { name: 'og:site_name', content:`احمد وليد مدرب برمجة المواقع | ${blog.value.title}` },
             { name: 'og:title', content:`احمد وليد مدرب برمجة المواقع | ${blog.value.title}` },
             { name: 'og:description', content:`احمد وليد مدرب برمجة المواقع | ${blog.value.title}` },
-	    { name: 'twitter:image', content:`https://res.cloudinary.com/drcfigqqr/image/upload/w_250/v1687822265/${blog.value.image}.png` }
-	    { name: 'og:image', content:`https://res.cloudinary.com/drcfigqqr/image/upload/w_250/v1687822265/${blog.value.image}.png` }
+	    { name: 'twitter:image', property:'twitter:image', content:`https://res.cloudinary.com/drcfigqqr/image/upload/w_250/v1687822265/${blog.value.image}.png` },
+	    { name: 'og:image', property:'og:image', content:`https://res.cloudinary.com/drcfigqqr/image/upload/w_250/v1687822265/${blog.value.image}.png` },
             { name: 'twitter:description', content: 'احمد وليد افضل مبرمج مواقع في مصر' },
             { name: 'identifier-URL', content: 'https://ahmed.lineitsolutions.com' },
             { name: 'linkage', content: `https://ahmed.lineitsolutions.com${blog.value._path}` },
