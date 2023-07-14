@@ -5,6 +5,12 @@
                 $('.popup-mobile-menu').addClass('active');
             });
 
+                $('.popup-mobile-menu .mainmenu li a.link_remove').on('click', function(e) {
+                $('.popup-mobile-menu').removeClass('active');
+                $('.popup-mobile-menu .mainmenu .has-dropdown > a, .popup-mobile-menu .mainmenu .with-megamenu > a').siblings('.submenu, .rbt-megamenu').removeClass('active').slideUp('400');
+                $('.popup-mobile-menu .mainmenu .has-dropdown > a, .popup-mobile-menu .mainmenu .with-megamenu > a').removeClass('open')
+            });
+
             $('.close-button').on('click', function(e) {
                 $('.popup-mobile-menu').removeClass('active');
                 $('.popup-mobile-menu .mainmenu .has-dropdown > a, .popup-mobile-menu .mainmenu .with-megamenu > a').siblings('.submenu, .rbt-megamenu').removeClass('active').slideUp('400');
