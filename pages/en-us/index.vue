@@ -1312,7 +1312,6 @@ const { data: tes1 } = await useAsyncData("tes1", () => {
         htmlAttrs: { lang: 'en-US' },
 	    script: [
             { src: '/assets/js/vendor/modernizr.min.js', body: true },
-            { src: '/assets/js/vendor/jquery.js', body: true },
             { src: '/assets/js/ahmedwaleed.min.js', body: true },
         ],
 })  
