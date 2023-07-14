@@ -161,7 +161,7 @@
     }
 
     useHead({
-        title: `${blog.value.title} · ahmed waleed coding articles`,
+        titleTemplate: `${blog.value.title} · ahmed waleed coding articles`,
         meta: [
             { name: 'description', content: `${blog.value.description}` },
             { name: 'keywords', content: `${blog.value.description},articles ahmed waleed web, web developing articles, web programming articles, frontend articles, backend articles, javascript articles, react articles, Vue articles, next articles, typescript articles, web programming teacher articles, best web developer in Egypt` },
