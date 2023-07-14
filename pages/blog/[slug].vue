@@ -256,7 +256,7 @@ if(blog.value === null){
 }
 	@media only screen and (min-width: 768px) and (max-width: 991px){
 		.blog-content-wrapper p{
-		font-size:15px
+		font-size:15px !important;
 	}
 	}
 	
