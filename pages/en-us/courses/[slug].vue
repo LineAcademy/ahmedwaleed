@@ -184,6 +184,8 @@
             { name: 'og:site_name', content:`Ahmed Waleed Web developing Trainer| ${blog.value.title}` },
             { name: 'og:title', content:`Ahmed Waleed Web developing Trainer| ${blog.value.title}` },
             { name: 'og:description', content:`Ahmed Waleed Web developing Trainer| ${blog.value.title}` },
+	    { name: 'twitter:image', property:'twitter:image', content:`https://res.cloudinary.com/drcfigqqr/image/upload/w_250/v1687822265/${blog.value.image}.png` },
+	    { name: 'og:image', property:'og:image', content:`https://res.cloudinary.com/drcfigqqr/image/upload/w_250/v1687822265/${blog.value.image}.png` },
             { name: 'twitter:description', content: 'ahmed waled best web developer in egypt' },
             { name: 'identifier-URL', content: 'https://ahmed.lineitsolutions.com' },
             { name: 'linkage', content: `https://ahmed.lineitsolutions.com${blog.value._path}` },
