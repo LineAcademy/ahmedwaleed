@@ -249,5 +249,4 @@
 <script setup>
 const route = useRoute()
 const langEn = '/en-us'
-console.log(route.href.includes(langEn))
 </script>
