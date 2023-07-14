@@ -214,21 +214,21 @@
             </li>
 
             <li>
-                <NuxtLink to="/students-projects">مشاريع الطلاب</NuxtLink>
+                <NuxtLink class="link_remove" to="/students-projects">مشاريع الطلاب</NuxtLink>
             </li>
 
             <li>
-                <NuxtLink to="/line-stories">حكايات مؤثرة</NuxtLink>
+                <NuxtLink class="link_remove" to="/line-stories">حكايات مؤثرة</NuxtLink>
             </li>
 
             <li>
-                <NuxtLink to="/hall-of-fame">قاعة الأَثَر</NuxtLink>
+                <NuxtLink class="link_remove" to="/hall-of-fame">قاعة الأَثَر</NuxtLink>
             </li>
 
             <li>
-		    <a v-if="route.href === '/courses'" href="/blog"> المدونة
+		    <a class="link_remove" v-if="route.href === '/courses'" href="/blog"> المدونة
                                     </a>
-                            <NuxtLink v-else="route.href === '/courses'" to="/blog"> المدونة
+                            <NuxtLink class="link_remove" v-else="route.href === '/courses'" to="/blog"> المدونة
                             </NuxtLink>
             </li>
 
