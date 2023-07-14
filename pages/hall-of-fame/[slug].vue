@@ -182,6 +182,8 @@ if(hall.value === null){
             { name: 'og:site_name', content:`احمد وليد مدرب برمجة المواقع | ${hall.value.title}` },
             { name: 'og:title', content:`احمد وليد مدرب برمجة المواقع | ${hall.value.title}` },
             { name: 'og:description', content:`احمد وليد مدرب برمجة المواقع | ${hall.value.title}` },
+	    { name: 'twitter:image', property:'twitter:image', content:`https://res.cloudinary.com/drcfigqqr/image/upload/w_250/v1687822265/${hall.value.image}.png` },
+	    { name: 'og:image', property:'og:image', content:`https://res.cloudinary.com/drcfigqqr/image/upload/w_250/v1687822265/${hall.value.image}.png` },
             { name: 'twitter:description', content: 'احمد وليد افضل مبرمج مواقع في مصر' },
             { name: 'identifier-URL', content: 'https://ahmed.lineitsolutions.com' },
             { name: 'linkage', content: `https://ahmed.lineitsolutions.com${hall.value._path}` },
