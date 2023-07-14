@@ -174,7 +174,7 @@
 ])
 
     useHead({
-        title: `${blog.value.title}`,
+        titleTemplate: `${blog.value.title} · Ahmed Waleed`,
         meta: [
             { name: 'description', content: `${blog.value.description}` },
             { name: 'keywords', content: `${blog.value.description},courses ahmed waleed web, web developing courses, web programming courses, frontend courses, backend courses, javascript courses, react courses, Vue courses, next courses, typescript courses, web programming teacher courses, best web developer in Egypt` },
