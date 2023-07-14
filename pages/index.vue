@@ -26,14 +26,7 @@
                                     </nuxtLink>
                                 </div>
                             </div>
-                            <div class="shape-wrapper" id="scene">
-                                <nuxt-img
-                                loading="lazy" 
-                                fit="cover"
-                                provider="cloudinary" 
-								src="ahmedwaleed" alt="صورة احمد وليد افضل مبرمج مواقع في مصر - تعلم برمجة المواقع باحترافية" />
-                            </div>
-
+                            <div class="shape-wrapper" id="scene"><nuxt-img loading="lazy" fit="cover" provider="cloudinary" src="ahmedwaleed" alt="صورة احمد وليد افضل مبرمج مواقع في مصر - تعلم برمجة المواقع باحترافية" /></div>
 <div class="banner-card pb--60 mb--50 swiper rbt-dot-bottom-center banner-swiper-active">
     <div class="swiper-wrapper">
 
