@@ -44,6 +44,7 @@ export default defineNuxtConfig({
         script: [
             { src: '/assets/js/yt.js', body: true },
             { src: '/assets/js/vendor/jquery.js', body: true },
+            { src: '/assets/js/waleed.js', body: true },
             {
             src: 'https://www.googletagmanager.com/gtag/js?id=G-HWSKT2EDL0',
             async: true,
