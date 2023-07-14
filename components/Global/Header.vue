@@ -183,20 +183,20 @@
                             <div class="col-lg-12 col-xl-3 col-xxl-4 single-mega-item">
                                 <h3 class="rbt-short-title">المشاريع</h3>
                                 <ul class="mega-menu-item">
-                                    <li><NuxtLink to="/courses/build-junior-site">بناء موقع جونيور [8 فديوهات]</NuxtLink></li>
-                                    <li><NuxtLink to="/courses/javascript-projects">مشاريع جافاسكريبت للمبتدئين</NuxtLink></li>
-                                    <li><NuxtLink to="/courses/upload-site-to-github">رفع المشروع علي جيتهب</NuxtLink></li>
-                                    <li><NuxtLink to="/courses/upload-site-to-netlify">رفع المشروع علي نيتفلاي</NuxtLink></li>
+                                    <li><NuxtLink class="link_remove" to="/courses/build-junior-site">بناء موقع جونيور [8 فديوهات]</NuxtLink></li>
+                                    <li><NuxtLink class="link_remove" to="/courses/javascript-projects">مشاريع جافاسكريبت للمبتدئين</NuxtLink></li>
+                                    <li><NuxtLink class="link_remove" to="/courses/upload-site-to-github">رفع المشروع علي جيتهب</NuxtLink></li>
+                                    <li><NuxtLink class="link_remove" to="/courses/upload-site-to-netlify">رفع المشروع علي نيتفلاي</NuxtLink></li>
                                 </ul>
                             </div>
 
                             <div class="col-lg-12 col-xl-3 col-xxl-4 single-mega-item">
                                 <h3 class="rbt-short-title">التعليم</h3>
                                 <ul class="mega-menu-item">
-                                    <li><NuxtLink to="/courses/javascript-before-react">دورة اهم الاشياء جافاسكريبت قبل رياكت</NuxtLink></li>
-                                    <li><NuxtLink to="/courses/javascript-interview-qs">دورة أسئلة الانترفيو جافاسكريبت</NuxtLink></li>
-                                    <li><NuxtLink to="/courses/react/">دورة شرح رياكت</NuxtLink></li>
-                                    <li><NuxtLink to="/courses/javascript-basics">دورة شرح أساسيات جافاسكريبت </NuxtLink></li>
+                                    <li><NuxtLink class="link_remove" to="/courses/javascript-before-react">دورة اهم الاشياء جافاسكريبت قبل رياكت</NuxtLink></li>
+                                    <li><NuxtLink class="link_remove" to="/courses/javascript-interview-qs">دورة أسئلة الانترفيو جافاسكريبت</NuxtLink></li>
+                                    <li><NuxtLink class="link_remove" to="/courses/react/">دورة شرح رياكت</NuxtLink></li>
+                                    <li><NuxtLink class="link_remove" to="/courses/javascript-basics">دورة شرح أساسيات جافاسكريبت </NuxtLink></li>
                                     <li><a href="#">دورة اتتش تي امل <span class="rbt-badge-card">قريبا</span></a></li>
                                     <li><a href="#">دورة سي اس اس <span class="rbt-badge-card">قريبا</span></a></li>
                                 </ul>
@@ -449,20 +449,20 @@
                                     <div class="col-lg-12 col-xl-3 col-xxl-4 single-mega-item">
                                         <h3 class="rbt-short-title">Projects</h3>
                                         <ul class="mega-menu-item">
-                                                        <li><NuxtLink to="/en-us/courses/build-website-junior"> Build Junior Website [8 Videos] </NuxtLink></li>
-                                                        <li><NuxtLink to="/en-us/courses/javascript-projects-for-beginners"> JavaScript Beginner Projects </NuxtLink></li>
-                                                        <li><NuxtLink to="/en-us/courses/upload-projects-online"> Deploy On Github </NuxtLink></li>
-                                                        <li><NuxtLink to="/en-us/courses/upload-projects-online"> Deploy On Vercel </NuxtLink></li>
+                                                        <li><NuxtLink class="link_remove" to="/en-us/courses/build-website-junior"> Build Junior Website [8 Videos] </NuxtLink></li>
+                                                        <li><NuxtLink class="link_remove" to="/en-us/courses/javascript-projects-for-beginners"> JavaScript Beginner Projects </NuxtLink></li>
+                                                        <li><NuxtLink class="link_remove" to="/en-us/courses/upload-projects-online"> Deploy On Github </NuxtLink></li>
+                                                        <li><NuxtLink class="link_remove" to="/en-us/courses/upload-projects-online"> Deploy On Vercel </NuxtLink></li>
                                                     </ul>
                                                 </div>
 
                                                 <div class="col-lg-12 col-xl-3 col-xxl-4 single-mega-item">
                                                     <h3 class="rbt-short-title">Learning</h3>
                                                     <ul class="mega-menu-item">
-                                                        <li><NuxtLink to="/en-us/courses/javascript-before-react"> Modern JS Before React.js Course </NuxtLink></li>
-                                                        <li><NuxtLink to="/en-us/courses/javascript-interview-qs"> JavaScript Interview Questions </NuxtLink></li>
-                                                        <li><NuxtLink to="/en-us/courses/react"> Course React.js For Beginners </NuxtLink></li>
-                                                        <li><NuxtLink to="/en-us/courses/javascript-basics"> JavaScript Basics Course </NuxtLink></li>
+                                                        <li><NuxtLink class="link_remove" to="/en-us/courses/javascript-before-react"> Modern JS Before React.js Course </NuxtLink></li>
+                                                        <li><NuxtLink class="link_remove" to="/en-us/courses/javascript-interview-qs"> JavaScript Interview Questions </NuxtLink></li>
+                                                        <li><NuxtLink class="link_remove" to="/en-us/courses/react"> Course React.js For Beginners </NuxtLink></li>
+                                                        <li><NuxtLink class="link_remove" to="/en-us/courses/javascript-basics"> JavaScript Basics Course </NuxtLink></li>
                                                         <li><a to="#"> HTML Course <span class="rbt-badge-card">SOON</span></a></li>
                                                         <li><a to="#"> CSS Course <span class="rbt-badge-card">SOON</span></a></li>
                                                     </ul>
@@ -480,19 +480,19 @@
                     </li>
 
                     <li>
-                        <NuxtLink to="/en-us/students-projects"> Students Projects </NuxtLink>
+                        <NuxtLink class="link_remove" to="/en-us/students-projects"> Students Projects </NuxtLink>
                     </li>
 
                     <li>
-                        <NuxtLink to="/en-us/line-stories">Stories</NuxtLink>
+                        <NuxtLink class="link_remove" to="/en-us/line-stories">Stories</NuxtLink>
                     </li>
 
                     <li>
-                        <NuxtLink to="/en-us/hall-of-fame">Hall-Of-Fame</NuxtLink>
+                        <NuxtLink class="link_remove" to="/en-us/hall-of-fame">Hall-Of-Fame</NuxtLink>
                     </li>
 
                     <li>
-                        <NuxtLink to="/en-us/blog">Blog</NuxtLink>
+                        <NuxtLink class="link_remove" to="/en-us/blog">Blog</NuxtLink>
                     </li>
 
                 </ul>
