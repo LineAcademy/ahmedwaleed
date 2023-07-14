@@ -32,7 +32,7 @@
 							كل الكورسات
 						</button>
 					</h1>
-					<div class="d-flex style="overflow-x: scroll;" items-center space-x-5 mb-5">
+					<div class="d-flex items-center space-x-5 mb-5" style="overflow-x: scroll;">
 						<template v-for="(c, i) in categories" :key="`categroy-${i}`">
 							<button
 								@click="setCategory(c)"
