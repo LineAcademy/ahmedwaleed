@@ -254,8 +254,5 @@ if(blog.value === null){
     overflow-x: auto;
     padding: 0.8571429em 1.1428571em;
 }
-		.blog-content-wrapper p{
-		font-size: 15px !important;
-	}
 	
 </style>
