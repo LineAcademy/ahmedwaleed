@@ -29,23 +29,23 @@ export default defineNuxtConfig({
 
 ##### Nuxt Image الخصائص الي تقدر تحطها في
 
-1- src: The source of the image.
+1- src: The source of the image
 
-2﻿- alt: The alt attribute of the image.
+2﻿- alt: The alt attribute of the image
 
-3﻿- width: The width of the image.
+3﻿- width: The width of the image
 
-4﻿- height: The height of the image.
+4﻿- height: The height of the image
 
-5﻿- loading: The loading state of the image.
+5﻿- loading: The loading state of the image
 
-6﻿- provider: The provider of the image if using Cloudinary/Unsplash etc.
+6﻿- provider: The provider of the image if using Cloudinary/Unsplash etc
 
-7﻿- sizes: The sizes of the image for different screen sizes.
+7﻿- sizes: The sizes of the image for different screen sizes
 
-8﻿- presets: The presets you want to add to the image.
+8﻿- presets: The presets you want to add to the image
 
-9﻿- class: The styles for the image.
+9﻿- class: The styles for the image
 
 ### ا﻿ستخدام nuxt-img
 
@@ -63,9 +63,9 @@ export default defineNuxtConfig({
 />
 ```
 
-> ### ا﻿ستخدم Cloudinary
->
-> م﻿ن اكتر الحاجات الي هتخليك تحسن أداء الويب سايت هو كلاودنيري بيديك اريحية تحمل الصور وترفعها او تعدل فيها لأي صيغة ومنها صيغة webp عشان دي من اهم الصيغ الي بنرفع بيها كل الصور عشان نحفظ مساحة
+### ا﻿ستخدم Cloudinary
+
+م﻿ن اكتر الحاجات الي هتخليك تحسن أداء الويب سايت هو كلاودنيري بيديك اريحية تحمل الصور وترفعها او تعدل فيها لأي صيغة ومنها صيغة webp عشان دي من اهم الصيغ الي بنرفع بيها كل الصور عشان نحفظ مساحة
 
 ```javascript
 // nuxt.config.ts
@@ -77,7 +77,7 @@ image: {
  }
 ```
 
-> **و﻿بكدا اكون عرفتك ازاي تستخدم nuxt-img بأفضل طريقة وتحط cloudinary وهوريك نتايج حل المشكلة**
+**و﻿بكدا اكون عرفتك ازاي تستخدم nuxt-img بأفضل طريقة وتحط cloudinary وهوريك نتايج حل المشكلة**
 
 ![مشكلة حجم الصور في nuxt js](https://res.cloudinary.com/drcfigqqr/image/upload/v1688500786/Screenshot_49_t8lync.webp "مشكلة حجم الصور في nuxt js")
 
