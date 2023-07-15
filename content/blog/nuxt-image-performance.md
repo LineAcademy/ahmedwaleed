@@ -27,17 +27,25 @@ export default defineNuxtConfig({
 })
 ```
 
-> ### Nuxt Image الخصائص الي تقدر تحطها في
->
-> * src: The source of the image.
-> * alt: The alt attribute of the image.
-> * width: The width of the image.
-> * height: The height of the image.
-> * loading: The loading state of the image.
-> * provider: The provider of the image if using Cloudinary/Unsplash etc.
-> * sizes: The sizes of the image for different screen sizes
-> * presets: The presets you want to add to the image
-> * class: The styles for the image.
+##### Nuxt Image الخصائص الي تقدر تحطها في
+
+1- src: The source of the image.
+
+2﻿- alt: The alt attribute of the image.
+
+3﻿- width: The width of the image.
+
+4﻿- height: The height of the image.
+
+5﻿- loading: The loading state of the image.
+
+6﻿- provider: The provider of the image if using Cloudinary/Unsplash etc.
+
+7﻿- sizes: The sizes of the image for different screen sizes.
+
+8﻿- presets: The presets you want to add to the image.
+
+9﻿- class: The styles for the image.
 
 ### ا﻿ستخدام nuxt-img
 
@@ -73,14 +81,18 @@ image: {
 
 ![مشكلة حجم الصور في nuxt js](https://res.cloudinary.com/drcfigqqr/image/upload/v1688500786/Screenshot_49_t8lync.webp "مشكلة حجم الصور في nuxt js")
 
-> **ب﻿عد ما نزلنا nuxt-img و حطينا cloudinary** 
->
-> لا يقتصر الأمر على تحسين عرض الشلال فحسب ، بل لا تشكّل صورنا الآن سوى 30٪ من الصفحة ، بانخفاض عن 90٪. هذا هو تحسنا كبيرا. كما تم تقليل وقت التحميل إلى إجمالي 1167 مللي ثانية مما يعني أننا باللون الأخضر كثيرًا. تكلف صفحتنا الآن أقل بكثير للتشغيل وتظهر اختبارات Lighthouse الخاصة بنا بنسبة 100٪. كل هذا بفضل استخدام nuxt-img
+**ب﻿عد ما نزلنا nuxt-img و حطينا cloudinary** 
+
+لا يقتصر الأمر على تحسين عرض الشلال فحسب ، بل لا تشكّل صورنا الآن سوى 30٪ من الصفحة ، بانخفاض عن 90٪. هذا هو تحسنا كبيرا. كما تم تقليل وقت التحميل إلى إجمالي 1167 مللي ثانية مما يعني أننا باللون الأخضر كثيرًا. تكلف صفحتنا الآن أقل بكثير للتشغيل وتظهر اختبارات Lighthouse الخاصة بنا بنسبة 100٪. كل هذا بفضل استخدام nuxt-img
 
 ![حل مشكلة حجم الصور في nuxt js](https://res.cloudinary.com/drcfigqqr/image/upload/v1688501041/Screenshot_50_hn9wjq.webp "حل مشكلة حجم الصور في nuxt js")
 
-> ***لقد حان الوقت حقًا لبدء نقل صورك لاستخدام Nuxt Image. سيؤدي ذلك إلى تحسين أدائك بشكل كبير وسيجعل موقعك في متناول الجميع. لا تنسَ إجراء اختبارات على صفحات موقعك الأكثر ثقلًا بالصور وإجراء الاختبارات بانتظام حيث يمكن أن تتغير الأشياء بمرور الوقت.***
->
-> ### 📝 تصفح الصفحة الرئيسية ل nuxt-image
->
->  ***[Optimized images for Nuxt · Nuxt Image](https://image.nuxtjs.org/)***
+***لقد حان الوقت حقًا لبدء نقل صورك لاستخدام Nuxt Image. سيؤدي ذلك إلى تحسين أدائك بشكل كبير وسيجعل موقعك في متناول الجميع. لا تنسَ إجراء اختبارات على صفحات موقعك الأكثر ثقلًا بالصور وإجراء الاختبارات بانتظام حيث يمكن أن تتغير الأشياء بمرور الوقت.***
+
+### 📝 لينكات مفيدة
+
+<cite><a target="_blank" style="color: #0d6efd;" href="https://image.nuxtjs.org/"> Optimized images for Nuxt · Nuxt Image</a></cite><br>
+                        <cite><a target="_blank" style="color: #0d6efd;" href="https://image.nuxtjs.org/providers/cloudinary">C﻿loudinary Nuxt Image</a></cite><br>
+                        <cite><a target="_blank" style="color: #0d6efd;" href="https://www.youtube.com/watch?v=X6CoUHlnuoY">Cypress Unit Testing For React Developers (Crash course)</a></cite><br>
+                        <cite><a target="_blank" style="color: #0d6efd;" href="https://cloudinary.com/guides/front-end-development/integrating-cloudinary-with-nuxt">Integrating Cloudinary with Nuxt</a></cite><br>
+                        <cite><a target="_blank" style="color: #0d6efd;" href="https://www.youtube.com/results?search_query=add+cloudinary+with+nuxt+3">C﻿loudinary-Nuxt Youtube Search</a></cite><br>
