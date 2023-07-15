@@ -55,9 +55,9 @@ export default defineNuxtConfig({
 />
 ```
 
-> ### Use Cloudinary
->
-> One of the most important things that will make you improve the performance of the web site is CloudNery, with your hands the comfort of downloading images, uploading them, or modifying them in any format, including the webp format, because this is one of the most important formats in which we upload all images in order to save space
+### Use Cloudinary
+
+One of the most important things that will make you improve the performance of the web site is CloudNery, with your hands the comfort of downloading images, uploading them, or modifying them in any format, including the webp format, because this is one of the most important formats in which we upload all images in order to save space
 
 ```javascript
 // nuxt.config.ts
@@ -69,7 +69,7 @@ image: {
  }
 ```
 
-> **And ﻿I almost knew you how to use nuxt-img in the best way and put cloudinary and show you the results of solving the problem**
+**And ﻿I almost knew you how to use nuxt-img in the best way and put cloudinary and show you the results of solving the problem**
 
 ![nuxt js image size problem](https://res.cloudinary.com/drcfigqqr/image/upload/v1688500786/Screenshot_49_t8lync.webp "nuxt js image size problem")
 
