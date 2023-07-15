@@ -29,23 +29,23 @@ export default defineNuxtConfig({
 
 ##### Nuxt Image الخصائص الي تقدر تحطها في
 
-1- src: The source of the image.
+1- src: The source of the image
 
-2﻿- alt: The alt attribute of the image.
+2﻿- alt: The alt attribute of the image
 
-3﻿- width: The width of the image.
+3﻿- width: The width of the image
 
-4﻿- height: The height of the image.
+4﻿- height: The height of the image
 
-5﻿- loading: The loading state of the image.
+5﻿- loading: The loading state of the image
 
-6﻿- provider: The provider of the image if using Cloudinary/Unsplash etc.
+6﻿- provider: The provider of the image if using Cloudinary/Unsplash etc
 
-7﻿- sizes: The sizes of the image for different screen sizes.
+7﻿- sizes: The sizes of the image for different screen sizes
 
-8﻿- presets: The presets you want to add to the image.
+8﻿- presets: The presets you want to add to the image
 
-9﻿- class: The styles for the image.
+9﻿- class: The styles for the image
 
 ### ا﻿ستخدام nuxt-img
 
