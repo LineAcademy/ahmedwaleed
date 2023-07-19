@@ -4,7 +4,7 @@ slug: arabic-front-end-amazing-content-and-podcasts
 title: محتوي عربي مفيد لأي فرونت اند
 image: frontend_1_sgnt0v
 subImage: sub_frontend_hicfea
-id: 16
+id: 18
 category: front-end
 description: محتوي عربي مهم لأي فرونت اند ديفيلوبر في مجال الويب - مع افضل
   مبرمجين عرب - انصحك بالمشاهدة لو كنت مبرمج
