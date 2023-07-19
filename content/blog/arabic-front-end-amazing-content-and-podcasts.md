@@ -6,9 +6,8 @@ image: frontend_1_sgnt0v
 subImage: sub_frontend_hicfea
 id: 18
 category: front-end
-description: Important Arabic content for any front and developer in the field
-  of the web - with the best Arab programmers - I advise you to watch if you are
-  a programmer
+description: محتوي عربي مهم لأي فرونت اند ديفيلوبر في مجال الويب - مع افضل
+  مبرمجين عرب - انصحك بالمشاهدة لو كنت مبرمج
 ---
 لو انت فرونت انت يبقي لازم تتفرج وتتابع ده محتوي وبودكاست عربي بيتعمل في بلدك عالمي!
 
