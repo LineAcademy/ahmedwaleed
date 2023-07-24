@@ -1,7 +1,7 @@
 ---
 id: 4
 slug: hager-frontend-developer
-name: Hager Mohamed
+name: Hager Mohameed
 title: Front-End Developer
 description: Hagar is a very diligent person. She works hard to reach her dream
   in the field of programming, especially the front end. I am proud of her...
