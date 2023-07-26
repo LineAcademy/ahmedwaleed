@@ -68,7 +68,7 @@ const App = () => (
 );
 ```
 
-> ## [🧰 Use your own items](https://ahmed.lineitsolutions.com/blog/react-lite-youtube-embeds#%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D9%85-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1%D9%83-%D8%A7%D9%84%D8%AE%D8%A7%D8%B5%D8%A9)
+> ## 🧰 Use your own items
 
 ```javascript
 const App = () => (
@@ -84,11 +84,11 @@ const App = () => (
 );
 ```
 
-> > ## [the problem](https://ahmed.lineitsolutions.com/blog/react-lite-youtube-embeds#%D8%A7%D9%84%D9%85%D8%B4%D9%83%D9%84%D8%A9)
+> > ## the problem
 >
 > **Which one of you will do a test?**
 >
-> > ## [lighthouse](https://ahmed.lineitsolutions.com/blog/react-lite-youtube-embeds#lighthouse)
+> > ## lighthouse
 >
 > **Regularly, you may have come across this warning:**
 >
@@ -102,6 +102,6 @@ You'll also see when testing on mobile how this page with many YouTube embeds un
 
 ![Solving the problem of downloading a frame from YouTube in React](https://res.cloudinary.com/drcfigqqr/image/upload/v1688493637/Screenshot_48_uzjyui.webp "Solving the problem of downloading a frame from YouTube in React")
 
-> ### [📝 Read more](https://ahmed.lineitsolutions.com/blog/react-lite-youtube-embeds#read-more)
+> ### 📝 Read more
 >
 > [ **Lite YouTube Embed-g﻿ithub**](https://github.com/ibrahimcesar/react-lite-youtube-embed)
