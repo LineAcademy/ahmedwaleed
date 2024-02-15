@@ -10,9 +10,7 @@ description: مشروع طباعة رسالة بأستخدام JavaScript
 ---
 ## ت﻿عريف المشروع :
 
-ا﻿لمشروع سهل وبسيط هنكتب رسالة في input وبعدين لما ندوس create يطبع الرسالة ونقدر نحط اكتر من رسالة -بطريقتين في جافاسكريبت : Append Child & inner html
-
-![صورة مشروع طباعة رسالة باستخدام جافاسكريبت](https://res.cloudinary.com/drcfigqqr/image/upload/v1708007367/Screenshot_121_gz15yc.png "مشروع طباعة رسالة")
+ا﻿لمشروع سهل وبسيط هنكتب رسالة في input وبعدين لما ندوس create يطبع الرسالة ونقدر نحط اكتر من رسالة -بطريقتين في جافاسكريبت : Append Child & inner htm
 
 #### **أ﻿ولا HTML :**
 
@@ -73,7 +71,7 @@ description: مشروع طباعة رسالة بأستخدام JavaScript
 
 > و﻿كدا مبروك عليك عملنا الديزاين
 
-#### **ثالثا التفكير JavaScript :** 
+#### **ثالثا التفكير JavaScript :**
 
 ```javascript
 // اولا كل المتغيرات الي هنستخدمها
@@ -94,7 +92,7 @@ btn.addEventListener("click", function(){
 })
 ```
 
-## ثاني طريقة Inner HTML : 
+## ثاني طريقة Inner HTML :
 
 ```javascript
 // Inner HTML
