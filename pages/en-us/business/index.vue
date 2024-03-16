@@ -19,7 +19,7 @@
                                         <h2 class="title">Ahmed Waleed Ali</h2>
                                         <br />
                                         <p>+3 years in Frontend Software Engineering</p>
-                                        <p>(my B2C Work Only, B2B is private)</p>
+                                        <p>(my Public Work Only, Further references will be furnished upon request.)</p>
                                     </div>
                                 </div>
             </div>
