@@ -30,6 +30,34 @@
                     <div class="rbt-team-area">
         <div class="container">
             <div class="lightbox-gallery portfolio-box">
+                <div class="row gx-3 pb-3 mb-5 pb-lg-3 mb-lg-3 gy-4 portfolio-box justify-content-around align-items-center flex-row-reverse">
+                        <div class="col-md-6 col-lg-5">
+                            <div class="portfolio-img">
+                                <img src="https://res.cloudinary.com/drcfigqqr/image/upload/v1709864040/misratilaia_pweeax.png" title="" alt="">
+                            </div>
+                        </div>
+                        <div class="col-md-6 col-lg-5">
+                            <div class="portfolio-text">
+                                <h6><span>Vue 2023.</span></h6>
+                                <h4>Real estate Development <i class="fas fa-chalkboard-teacher"></i> </h4>
+                                <p>
+                                    With this website, you can quickly browse CORPORATE GOVERNANCE, Events, News, Carrers, etc...
+                                </p>
+                                
+                                        technologies =&gt;
+                                    <table>
+                                    <tbody></tbody>
+                                    <tbody><tr><td>Vue.js</td>
+                                    <td>Bootstrap</td>
+                                    <td>Javascript</td>
+                                    <td>Performance</td>
+                                </tr></tbody></table>
+                                <div class="btn-bar">
+                                    <a class="line-btn line-btn-theme" target="_blank" href="https://misritaliaproperties.com/">Live Preview</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
                     <div class="row gx-3 pb-3 mb-5 pb-lg-3 mb-lg-3 gy-4 portfolio-box justify-content-around align-items-center flex-row-reverse">
                         <div class="col-md-6 col-lg-5">
                             <div class="portfolio-text">
