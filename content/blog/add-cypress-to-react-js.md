@@ -11,7 +11,7 @@ description: أضافة أختبار لتطبيق رياكت بأستخدام Cy
 ---
 ## الخطوة 1 : التثبيت -
 
-\-هنحمل Cypress بأستخدام Npm / Yarn
+\-هنحمل Cypress بأستخدام Npm / Yarn.
 
 ```javascript
 // With NPM
